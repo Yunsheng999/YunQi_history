@@ -1,0 +1,11 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4189
+  id: minecraft:player_head
+  count: 1
+  components:
+    minecraft:profile: '{id:[I;-1010319075,113525494,-1801240976,2102804339],properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzY5ZWM3MjJkOWNiNmVkOWJhZTkzYzI2NmJkMDk4ZjBhMzA2YzVlOGMwMzg0OWMyN2NkY2YxOGM2MGQ2Y2IzZSJ9fX0="}]}'
+    minecraft:lore: '[{extra:[{bold:1b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"仿制黑洞",underlined:0b}],text:""},{extra:[{bold:1b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"右键
+      吸引周围10格内的实体",underlined:0b}],text:""},{extra:[{bold:1b,color:"red",italic:0b,obfuscated:0b,strikethrough:0b,text:"一次性物品",underlined:0b}],text:""}]'
+    minecraft:custom_name: '{extra:[{bold:1b,color:"gray",italic:0b,obfuscated:0b,strikethrough:0b,text:"黑洞(一次性)",underlined:0b}],text:""}'
+  schema_version: 1
