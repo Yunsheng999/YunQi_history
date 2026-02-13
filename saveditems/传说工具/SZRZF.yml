@@ -1,0 +1,11 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4189
+  id: minecraft:netherite_axe
+  count: 1
+  components:
+    minecraft:unbreakable: '{}'
+    minecraft:lore: '[{extra:[{bold:1b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"创世神溯源自然的斧头",underlined:0b}],text:""},{extra:[{bold:1b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"拥有部分神力，万物触之即碎",underlined:0b}],text:""}]'
+    minecraft:enchantments: '{"minecraft:efficiency":50,"minecraft:fire_aspect":50,"minecraft:fortune":80,"minecraft:punch":100,"minecraft:sharpness":100,"minecraft:silk_touch":10}'
+    minecraft:custom_name: '{extra:[{bold:1b,color:"red",italic:0b,obfuscated:0b,strikethrough:0b,text:"溯",underlined:0b},{bold:1b,color:"gold",italic:0b,text:"自"},{bold:1b,color:"yellow",italic:0b,text:"然"},{bold:1b,color:"green",italic:0b,text:"之"},{bold:1b,color:"aqua",italic:0b,text:"斧"}],text:""}'
+  schema_version: 1

@@ -1,0 +1,11 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4189
+  id: minecraft:netherite_pickaxe
+  count: 1
+  components:
+    minecraft:unbreakable: '{}'
+    minecraft:lore: '[{extra:[{bold:1b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"用吧，一用一个不吱声",underlined:0b}],text:""},{extra:[{bold:1b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"拥有庞大的创造神力，可以翻倍产生物质",underlined:0b}],text:""}]'
+    minecraft:enchantments: '{"minecraft:efficiency":50,"minecraft:fortune":80,"minecraft:looting":80,"minecraft:loyalty":10,"minecraft:unbreaking":255}'
+    minecraft:custom_name: '{extra:[{bold:1b,color:"red",italic:0b,obfuscated:0b,strikethrough:0b,text:"创",underlined:0b},{bold:1b,color:"gold",italic:0b,text:"文"},{bold:1b,color:"yellow",italic:0b,text:"明"},{bold:1b,color:"green",italic:0b,text:"之"},{bold:1b,color:"aqua",italic:0b,text:"镐"}],text:""}'
+  schema_version: 1
