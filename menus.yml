@@ -1,0 +1,1072 @@
+#无输入材料生产器
+RSC_YUNQI_CXBZZL:
+  title: '&3&l超弦编织阵列'
+  slots: {}
+  
+RSC_YUNQI_DXZJJ:
+  title: '&4&l地心钻井机'
+  slots: {}
+
+RSC_YUNQI_XCYTJ_1:
+  title: '&b星尘一体机 &a&lI'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_XCYTJ_2:
+  title: '&b星尘一体机 &a&lII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a'
+
+RSC_YUNQI_XCYTJ_3:
+  title: '&b星尘一体机 &a&lIII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a'
+  
+RSC_YUNQI_NGYTJ_1:
+  title: '&b&l镍&9&l钴&e一体机 &a&lI'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_NGYTJ_2:
+  title: '&b&l镍&9&l钴&e一体机 &a&lII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+  
+RSC_YUNQI_NGYTJ_3:
+  title: '&b&l镍&9&l钴&e一体机 &a&lIII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_小型电容一体机_1:
+  title: '&a&l小型电容一体机 &a&lI'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_小型电容一体机_2:
+  title: '&a&l小型电容一体机 &a&lII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_小型电容一体机_3:
+  title: '&a&l小型电容一体机 &a&lIII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_中型电容一体机_1:
+  title: '&a&l中型电容一体机 &a&lI'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_中型电容一体机_2:
+  title: '&a&l中型电容一体机 &a&lII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_中型电容一体机_3:
+  title: '&a&l中型电容一体机 &a&lIII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_大型电容一体机_1:
+  title: '&a&l大型电容一体机 &a&lI'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_大型电容一体机_2:
+  title: '&a&l大型电容一体机 &a&lII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_大型电容一体机_3:
+  title: '&a&l大型电容一体机 &a&lIII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_巨型电容一体机_1:
+  title: '&a&l巨型电容一体机 &a&lI'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_巨型电容一体机_2:
+  title: '&a&l巨型电容一体机 &a&lII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_巨型电容一体机_3:
+  title: '&a&l巨型电容一体机 &a&lIII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_黑金刚石电容一体机_1:
+  title: '&a&l黑金刚石电容一体机 &a&lI'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_黑金刚石电容一体机_2:
+  title: '&a&l黑金刚石电容一体机 &a&lII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_黑金刚石电容一体机_3:
+  title: '&a&l黑金刚石电容一体机 &a&lIII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_终极电容一体机_1:
+  title: '&a&l终极电容一体机 &a&lI'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_终极电容一体机_2:
+  title: '&a&l终极电容一体机 &a&lII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_终极电容一体机_3:
+  title: '&a&l终极电容一体机 &a&lIII'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_DQZYTQJ:
+  title: '&b&l大气资源提取机'
+  slots:
+    0-9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    17-18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    26-27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    35-36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    44-45:
+      material: gray_stained_glass_pane
+      name: '&a'
+    53:
+      material: gray_stained_glass_pane
+      name: '&a恭喜你发现了小彩蛋->稀有气体集合体只有10%的概率能出'
+
+RSC_YUNQI_ZJYTJ: 
+  title: '&6&l足金一体机'
+  slots:   
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-11:
+      material: orange_stained_glass_pane
+      name: '&a'
+    12:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: orange_stained_glass_pane
+      name: '&a'
+    20:
+      material: orange_stained_glass_pane
+      name: '&a'
+    21:
+      material: gray_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    27-29:
+      material: orange_stained_glass_pane
+      name: '&a'
+    30:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+RSC_YUNQI_QTRLRSS:
+  title: '&b&l气&f&l态&b&l燃&f&l料&b&l燃&f&l烧&b&l室'
+  slots:
+    0:
+      material: gray_stained_glass_pane
+      name: '&a'
+    1-5:
+      material: orange_stained_glass_pane
+      name: '&a'
+    6-9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    10:
+      material: orange_stained_glass_pane
+      name: '&a'
+    14:
+      material: orange_stained_glass_pane
+      name: '&a'
+    15-17:
+      material: blue_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    19:
+      material: orange_stained_glass_pane
+      name: '&a'
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    24:
+      material: blue_stained_glass_pane
+      name: '&a'
+    26:
+      material: blue_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    28:
+      material: orange_stained_glass_pane
+      name: '&a'
+    32:
+      material: orange_stained_glass_pane
+      name: '&a'
+    33-35:
+      material: blue_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    37-41:
+      material: orange_stained_glass_pane
+      name: '&a'
+    42-53:
+      material: gray_stained_glass_pane
+      name: '&a'
+      
+RSC_YUNQI_XXHJYTJ:
+  title: '&b&l行星合金一体机'
+  slots:
+    0-9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    17-18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    26-27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    35-36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    44-45:
+      material: gray_stained_glass_pane
+      name: '&a'
+    53:
+      material: gray_stained_glass_pane
+      name: '&a'
+RSC_YUNQI_YCFZSJY:
+  title: '&5&l原初分子收集仪'
+  slots:
+    0-9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    17-18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    26-27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    35-36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    44-45:
+      material: gray_stained_glass_pane
+      name: '&a'
+    53:
+      material: gray_stained_glass_pane
+      name: '&a'
+RSC_YUNQI_JCLZNJQ:
+  title: '&3&l基础粒子凝聚器'
+  slots:
+    0-9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14:
+      material: gray_stained_glass_pane
+      name: '&a'
+    17-26:
+      material: gray_stained_glass_pane
+      name: '&a'
+RSC_YUNQI_GYRLRL:
+  title: '&7&l高压熔炼熔炉'
+  slots:
+    0:
+      material: gray_stained_glass_pane
+      name: '&a'
+    1-5:
+      material: orange_stained_glass_pane
+      name: '&a'
+    6-9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    10:
+      material: orange_stained_glass_pane
+      name: '&a'
+    14:
+      material: orange_stained_glass_pane
+      name: '&a'
+    15-17:
+      material: blue_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    19:
+      material: orange_stained_glass_pane
+      name: '&a'
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    24:
+      material: blue_stained_glass_pane
+      name: '&a'
+    26:
+      material: blue_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    28:
+      material: orange_stained_glass_pane
+      name: '&a'
+    32:
+      material: orange_stained_glass_pane
+      name: '&a'
+    33-35:
+      material: blue_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    37-41:
+      material: orange_stained_glass_pane
+      name: '&a'
+    42-53:
+      material: gray_stained_glass_pane
+      name: '&a'
+ 
+RSC_YUNQI_DSQJGZPT:
+  title: '&3&l戴森球结构装配台'
+  slots:
+    0:
+      material: gray_stained_glass_pane
+      name: '&a'
+    1-5:
+      material: orange_stained_glass_pane
+      name: '&a'
+    6-9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    10:
+      material: orange_stained_glass_pane
+      name: '&a'
+    14:
+      material: orange_stained_glass_pane
+      name: '&a'
+    15-17:
+      material: blue_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    19:
+      material: orange_stained_glass_pane
+      name: '&a'
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    24:
+      material: blue_stained_glass_pane
+      name: '&a'
+    26:
+      material: blue_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    28:
+      material: orange_stained_glass_pane
+      name: '&a'
+    32:
+      material: orange_stained_glass_pane
+      name: '&a'
+    33-35:
+      material: blue_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    37-41:
+      material: orange_stained_glass_pane
+      name: '&a'
+    42-53:
+      material: gray_stained_glass_pane
+      name: '&a'
+       
+ 
+#生产机器=================================================================
+RSC_YUNQI_SL_CQY:
+  title: '&8&l熵流萃取仪'
+  slots: 
+    0-9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    10-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_HOE
+    14-16:
+      material: orange_stained_glass_pane
+      name: '&a'
+    17-18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    19:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: red_stained_glass_pane
+      name: '&7下方放入引力核心（不消耗）'
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    25:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    28-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    32-34:
+      material: orange_stained_glass_pane
+      name: '&a'
+    35-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+RSC_YUNQI_DSQHJMNJ:
+  title: '&d&l戴森球环境模拟机'
+  slots:
+    0:
+      material: oak_sign
+      name: '右侧放入输入物品'
+    9:
+      material: orange_stained_glass_pane
+      name: '&a'
+    10-12:
+      material: gray_stained_glass_pane
+      name: '下方为输出产物'
+    13:
+      material: gray_stained_glass_pane
+      name: '下方为输出产物'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_HOE
+    14-17:
+      material: gray_stained_glass_pane
+      name: '下方为输出产物'
+    18:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36:
+      material: orange_stained_glass_pane
+      name: '&a'
+    45:
+      material: orange_stained_glass_pane
+      name: '&a'
+#发电机===============================================================
+RSC_YUNQI_XNFDJ: #弦能发电机
+  title: "&1&l弦能发电机"
+  slots:
+    0-9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    17-26:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+RSC_YUNQI_HXNYFDJ: 
+  title: "&b&l恒星能源发电机"
+  slots:
+    0-9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    17-26:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+RSC_YUNQI_星域工作台:
+  title: '&3&l星域工作台'
+  slots:
+    6-8: 
+      name: "&a"
+      material: CYAN_STAINED_GLASS_PANE
+    15: 
+      name: "&a"
+      material: CYAN_STAINED_GLASS_PANE
+    16: 
+      material_type: slimefun
+      material: RSC_YUNQI_星域工作台
+      progressbar: true
+      progressBarItem:
+        material_type: slimefun
+        material: RSC_YUNQI_星域工作台
+    17: 
+      name: "&a"
+      material: CYAN_STAINED_GLASS_PANE
+    24-26: 
+      name: "&a"
+      material: CYAN_STAINED_GLASS_PANE
+    33-35: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    42: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    44: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    51-53: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+
+RSC_YUNQI_物质碰撞机:
+  title: '&6&l物质碰撞机'
+  slots:
+    6-8: 
+      name: "&a"
+      material: CYAN_STAINED_GLASS_PANE
+    15: 
+      name: "&a"
+      material: CYAN_STAINED_GLASS_PANE
+    16: 
+      material_type: slimefun
+      material: RSC_YUNQI_物质碰撞机
+      progressbar: true
+      progressBarItem:
+        material_type: slimefun
+        material: RSC_YUNQI_物质碰撞机
+    17: 
+      name: "&a"
+      material: CYAN_STAINED_GLASS_PANE
+    24-26: 
+      name: "&a"
+      material: CYAN_STAINED_GLASS_PANE
+    33-35: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    42: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    44: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    51-53: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+
+RSC_YUNQI_星云凝结一体机:
+  title: '&b&l星云凝结一体机'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a'
+
+RSC_YUNQI_维度破碎机:
+  title: '&d&l维度破碎机'
+  slots:
+    0-9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14:
+      material: gray_stained_glass_pane
+      name: '&a'
+    17-26:
+      material: gray_stained_glass_pane
+      name: '&a'

@@ -1,0 +1,101 @@
+DXZJJ_TYPE:
+  name: "&4&l地心钻井机"
+  lore:
+  - '&7此物品需要在 &4&l地心钻井机 &7中收集'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q0YTdmY2U2Zjg4OGU4MDQyZDYzNGM3OTczYjNjYmM3ZTkzMjBmMTc0NDYwOGU2YzVjZGQ1ZjRlZjljYTM5MyJ9fX0=
+  
+SLCQY_TYPE:
+  name: "&8&l熵流萃取仪"
+  lore:
+  - '&7此物品需要在 &8&l熵流萃取仪 &7中制作'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTZlYjA4OWJjMTZiY2NlNGYyYmJkMWQ1MDM4M2NmMjQ1YjM3ZGY5NDA1ODI1MDBlNzRmYjhiMTdhMzM2ZGIwNSJ9fX0=
+  
+YCFZSJY_TYPE:
+  name: "&5&l原初分子收集仪"
+  lore: 
+  - '&7此物品需要在 &5&l原初分子收集仪 &7中收集'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFiY2RhMjNkNWMyODliODFlZjNkMzRiM2U3MTYwNzA4YmQ5NTk3ZTMwOGM0N2RmYWY3NGQ3ZmRhOTViOGY0MSJ9fX0=
+
+JCLZNJQ_TYPE:
+  name: '&3&l基础粒子凝聚器'
+  lore:
+  - '&7此物品需要在 &3&l基础粒子凝聚器 &7中制作'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM0MDNhYzdmMGNmMGM3NDliZDhjZmE4MDY0MDYwYmRhYjI0MmEzNjAyY2ZkNDRhNTFjM2VhMGJkZmVkNTVhMSJ9fX0=
+  
+GYRLRL_TYPE:
+  name: '&7&l高压熔炼熔炉'
+  lore:
+  - '&7此物品需要在 &7&l高压熔炼熔炉 &7中制作'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODI5NmYwOTI1MjRhZTljMmEyZTg3ODgxY2I0MTVhZGIzNThkNmNiNzczYzg1ZGM5NzIwMmZlZmI3NTRjMSJ9fX0=
+
+DQZYTQJ_TYPE:
+  name: '&b&l大气资源提取机'
+  lore:
+  - '&7此物品需要在 &b&l大气资源提取机 &7中收集'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjAxM2E1YzNlYzA2N2M0ZjM3NjVjYmYwYTllMWUwZTdhMGUxOTkyZjRlM2QzOGQyNzk5NmZkZWZiOGM4MThmOCJ9fX0=
+  
+QTRLRSS_TYPE:
+  name: '&b&l汽&f&l态&b&l燃&f&l料&b&l燃&f&l烧&b&l室'
+  lore:
+  - '&7此物品需要在 &b&l汽&f&l态&b&l燃&f&l料&b&l燃&f&l烧&b&l室 &7中收集'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmNjYmMyYmI0N2RmNjQ1MmU5ZDgyNjNiMTM1ZTBkMjY3OTgzMzQzOTk1ZTBjNGZjY2NjMTJhZGU3MzM5ODVhMiJ9fX0=
+  
+DSQJGZPT_TYPE:
+  name: '&3&l戴森球结构装配台'
+  lore:
+  - '&7此物品需要在 &3&l戴森球结构装配台 &7中制作'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmI1Y2JhYTJlMTVlN2FhZGE1MGEzMmYxOTkzYzczMGEwMDlmNGUxOWM3OGQ3Y2JmYzBkYzdjN2YxZTNhOWE2ZSJ9fX0=
+  
+DSQHJMNJ_TYPE:
+  name: '&d&l戴森球环境模拟机'
+  lore: 
+  - '&7此物品需要在 &d&l戴森球环境模拟机 &7中收集'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2JhMzRhNTNkN2MxZTU0ZGViNzllMDc5OTg5NDM1Nzg4YWIwOGJhMzdmZGE2ZWY4MjFmOGFkNTIzNjFjNGI0ZSJ9fX0=
+
+XYGZT_TYPE:
+  name: '&3&l星域工作台'
+  lore:
+  - '&7此物品需要在 &3&l星域工作台 &7中制作'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQyODA2ZjUzOTBkNTBhOTVhMmY1OTJmMWNiMmU0YmY1Zjc3ZjNjNGViOTgxODYwOTYzMDYzZDRlNGQxZjUzZSJ9fX0=
+
+WZPZJ_TYPE:
+  name: '&6&l物质碰撞机'
+  lore:
+  - '&7此物品需要在 &6&l物质碰撞机 &7中制作'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWI1NDIyNWQ3YTIwNzgzMTlkODg2YTc3NTFjOTE0N2M2YjdlMTNiYjBhYTBjYTE4Y2RjZTAxMzU3YmM2NWIzYSJ9fX0=
+
+XYNJYTJ_TYPE:
+  name: '&b&l星云凝结一体机'
+  lore:
+  - '&7此物品需要在 &b&l星云凝结一体机 &7中制作'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGE4OGFiMGFmMTEyMzBkM2E0NjgzZTAzMzM1NGM0MjgxMTVkNTJhOTU4OGM5M2YzMjYzNTEyZTQ0MDIxNDYwMCJ9fX0=
+
+WDPSJ_TYPE:
+  name: '&d&l维度破碎机'
+  lore:
+  - '&7此物品需要在 &d&l维度破碎机 &7中制作'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGE2OTM4ZjcwZTQ5ZjVhMmZmNTllNWJkZmJiZTQyMzY5MDJiZDkxYzNmNWJhY2EwMTAxODAxZjJlNGE5ODU2MCJ9fX0=
+
+YZQD_TYPE:
+  name: '&4&l宇宙奇点'
+  lore:
+  - '&7&l手持星穹徽章在y-50以下的基岩上使用'
+  - '&7&l使用后开始奇点坍缩,10秒后爆炸'
+  - '&c&l注意: 奇点坍缩将会湮灭范围内的一切！'
+  - '&c&l远离领地 ! 东西没了不要找我补哦~~~欸嘿嘿'
+  - '&b&l成功逃离奇点坍缩范围获得一个宇宙奇点'
+  material_type: mc
+  material: PAPER

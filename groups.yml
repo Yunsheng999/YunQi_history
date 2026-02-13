@@ -1,0 +1,372 @@
+yunqihistory:
+  lateInit: false
+  type: nested
+  tier: 0
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ZmMzBlZjQ4MTRjMDI1MDcyMWY4NWU5MzRiYmE1ZjdhNTYxMWFhMDE2YzBiN2UzYWE2M2ZlZTY2OGI4NzdmMCJ9fX0=
+    name: '&9&l云启文明'
+yunqihistory_0:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 0
+  item:
+    material_type: mc
+    material: CYAN_STAINED_GLASS_PANE
+    name: ''
+yunqihistory_1:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 1
+  item:
+    material_type: mc
+    material: ORANGE_STAINED_GLASS_PANE
+    name: ''
+yunqihistory_2:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 2
+  item:
+    material_type: mc
+    material: ORANGE_STAINED_GLASS_PANE
+    name: ''
+yunqihistory_3:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 3
+  item:
+    material_type: mc
+    material: ORANGE_STAINED_GLASS_PANE
+    name: ''
+yunqigg:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 4
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWE5NTcwNDE1Zjk0YjM5NGZmNTFhOTI1OWYxZmNmOWRiMzA2Njc3NDM4YmRjOGJhYzM1ZGNkNTkxYWEwMmVkZSJ9fX0=
+    name: '&9&l云启文明 &f- &c&l公告'
+yunqihistory_5:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 5
+  item:
+    material_type: mc
+    material: ORANGE_STAINED_GLASS_PANE
+    name: ''
+yunqihistory_6:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 6
+  item:
+    material_type: mc
+    material: ORANGE_STAINED_GLASS_PANE
+    name: ''
+yunqihistory_7:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 7
+  item:
+    material_type: mc
+    material: ORANGE_STAINED_GLASS_PANE
+    name: ''
+yunqihistory_8:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 8
+  item:
+    material_type: mc
+    material: CYAN_STAINED_GLASS_PANE
+    name: ''
+yunqihistory_9:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 9
+  item:
+    material_type: mc
+    material: CYAN_STAINED_GLASS_PANE
+    name: ''
+yunqicscyz:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 10
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTgwZjllMzhkYjI5OWFhMjg5NTE5MWQ1ODc1ODY3MmJmMDJlMTZmZDA1ZDNhZGMzODJlYTQ0NzA2YmQ3ZWM1ZSJ9fX0=
+    name: '&9&l云启文明 &f- &a&l测试参与者'
+yunqihistory_11:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 11
+  item:
+    material_type: mc
+    material: ORANGE_STAINED_GLASS_PANE
+    name: ''
+yunqimx:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 12
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzBiNmUyZDQzZWUyNGM5YTI0NmE4MzUxNWY5Yjc0MTQ4NDZmMzE1YWQ5NTQ0MDBjMzhjYTY1Y2RmMDhlOTE5ZSJ9fX0=
+    name: '&9&l云启文明 &f- &6&l鸣谢'
+yunqigxz:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 13
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY4ZTczNjhmMDdmNWMxYjNkMWZiMDNjNzBhOThkNzMwYzkzZjY3OWIzODZiZDFiMTM4OGY1MmExZGE4ZTBjZCJ9fX0=
+    name: '&9&l云启文明 &f- &6&l贡献者'
+yunqigxfwq:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 14
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjFiNTJiYzU0ZWE1MTlhZmM0M2Y0MTlhMTY1ODE4NjFiNjJhMTdiNWRmZmI0NDMxMTdmOWFmYmY5ZmVkZjRjIn19fQ==
+    name: '&9&l云启文明 &f- &6&l贡献服务器'
+yunqihistory_15:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 15
+  item:
+    material_type: mc
+    material: ORANGE_STAINED_GLASS_PANE
+    name: ''
+yunqijccl:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 16
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzcxNTA5NTc0MzQ0MjQxYjJjZGZmZmJiZjFkYzdhZjgzNDQwNTUzMzU0ZDBhNWM1MzhlZjllZWQ2NTYzNjE5OSJ9fX0=
+    name: '&9&l云启文明 &f- &4&l基础&1&l材料'
+yunqihistory_17:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 17
+  item:
+    material_type: mc
+    material: CYAN_STAINED_GLASS_PANE
+    name: ''
+yunqihistory_18:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 18
+  item:
+    material_type: mc
+    material: CYAN_STAINED_GLASS_PANE
+    name: ''
+yunqifdj:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 19
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGI4NzM2ZmY0MmJjNjhjMTFlZGU4ZDg3NGIxNTEyZDI5ZjJlOGM1ZjZmZWJlOGY1OGRmY2Q5YTBhNTFkNmRlZSJ9fX0=
+    name: '&9&l云启文明 &f- &5&l发电机'
+yunqizrzy:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 20
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODZmMDZlYWEzMDA0YWVlZDA5YjNkNWI0NWQ5NzZkZTU4NGU2OTFjMGU5Y2FkZTEzMzYzNWRlOTNkMjNiOWVkYiJ9fX0=
+    name: '&9&l云启文明 &f- &a&lGEO自然资源' 
+yunqizjzy:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 21
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjRiNWVjNmM5MjcxMjhiZGU3MWU0ZjBmYWE0NzczMThmZTU2ODcxYTRhZjI5YmMwN2U4NWE5MTA3N2Q4OTUwNiJ9fX0=
+    name: '&9&l云启文明 &f- &8&l终极&7&l资源'    
+yunqiclscq:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 22
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhkN2VlNWY0NGMyNDc4ZmZlYmM0MTFmMTA3MDViYmFhNTA0NTY3NDVlMjYyMGVmNGVhOGUwYmZmMDc2MGVjNCJ9fX0=
+    name: '&9&l云启文明 &f- &e&l材料生成器'
+yunqicswq:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 23
+  item:
+    material_type: mc
+    material: NETHERITE_SWORD
+    name: '&9&l云启文明 &f- &e&l传说&6&l武器'
+yunqicsgj:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 24
+  item:
+    material_type: mc
+    material: mace
+    name: '&9&l云启文明 &f- &e&l传说&6&l工具'
+yunqixwj:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 25
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODRjZWU4NGY1ZjI1OWRhMWFkZDRiNDAxZWJlOTU4ZDQwNjdkZDdkY2JkMWMzNWZkNjgzNGM2M2MwMTM0NWNkMCJ9fX0=
+    name: '&9&l云启文明 &f- &9&lMAGIC小玩具'
+yunqihistory_26:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 26
+  item:
+    material_type: mc
+    material: CYAN_STAINED_GLASS_PANE
+    name: ''
+yunqihistory_27:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 27
+  item:
+    material_type: mc
+    material: CYAN_STAINED_GLASS_PANE
+    name: ''
+yunqixxgy:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 28
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTJlNmQ2MWU2MmM4MTZhMzdlOTY5YmNkODEyODI1Y2U2Mzg3Y2MyYTNmYTA5MTk0YWZlMmI4OGJiOTY2ZTlhNiJ9fX0=
+    name: '&9&l云启文明 &f- &9&l行星&3&l工艺'
+yunqihxny:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 29
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTFkOWJkNTM2YmNhZjAxYjFhYWYzYjY3N2EwYTJjMTQyNmZhMjEyMGE3YzNjZmY5MDBmODQyNDJjYjUyMTg4ZCJ9fX0=
+    name: '&9&l云启文明 &f- &c&l恒星&e&l能源'
+yunqixycs:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 30
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ2MjIyZWI3YjkwZGZmYTM5NTc3NjY2NjhkZGU2MWYwY2EwZDliZmY2YzhlZTUxM2NiYmI5YjUwMDYwYzU4MyJ9fX0=
+    name: '&9&l云启文明 &f- &d&l星域&l&5传说'
+yunqixjzl:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 31
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGMxNTM0NzY1NDA0ZjRmMWQ5ODlhMWEwZDE1MGI2NjIzMDRhODY4N2U0ODlkNTJjNTg5MThiYWUwNzc3N2RlNyJ9fX0=
+    name: '&9&l云启文明 &f- &d&l星界&l&b之路'
+yunqimxyz:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 32
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDIzZmUzNjcxYjNjOTE2YzJmMjRmZGNiZWJkN2NmMTMxYWFkMzg2NzNhNTZiZTYzZTBlZTUwOTMyZWZhZDg0ZCJ9fX0=
+    name: '&9&l云启文明 &f- &1&l迈向&l&9宇宙'
+yunqizmzs:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 33
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjdiNmY1YjBkNzEwZTU5YTk5YmM4MWY1NTE0NTg1ZTYxYjU0N2JlNGQzYjgyY2M1ZTBkODYyZjE0YTYyNTc0ZSJ9fX0=
+    name: '&9&l云启文明 &f- &4&l终末&l&c之诗'
+yunqicswp:
+  lateInit: false
+  type: sub
+  parent: "yunqihistory"
+  tier: 34
+  item:
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGE5MDBlYWRjMDBhZmUwNjY2ZTZkMDhiYTVhOTNjNmZkYjc0OTc4ZjMzNGY0OGM4YjcxZjMwNjhkYTJhZWQ4MiJ9fX0=
+    name: '&9&l云启文明 &f- &e&l传说&6&l物品'
+yunqihistory_35:
+  lateInit: false
+  type: button
+  parent: "yunqihistory"
+  tier: 35
+  item:
+    material_type: mc
+    material: CYAN_STAINED_GLASS_PANE
+    name: ''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    

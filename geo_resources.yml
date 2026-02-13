@@ -1,0 +1,227 @@
+RSC_YUNQI_ZZJS:
+  lateInit: false
+  item_group: yunqizrzy
+  item:
+    name: '&3&l智子晶石'
+    lore:
+    - '&7&l自然生成的透明晶簇，流转量子点点微光'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmJmNzUyN2YwZTkxMWFkZGU1MzBiNzBjMmRlYmU4ZjMxZTQ3MzUwMDczZDNkMDdmNzEyYjMyMTQyMzU3NDhlZSJ9fX0=
+  max_deviation: 50
+  geo_name: '&3&l智子晶石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 5
+
+
+RSC_YUNQI_HYS:
+  lateInit: false
+  item_group: yunqizrzy
+  item:
+    name: '&8&l黑域石'
+    lore:
+    - '&l&7凝结曲率航迹的暗黑色致密矿物（末地特有）'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTczYzNiOTFlYTRlZDJjYzljMTRmYzhhOTc1MWZhMGE1ZGQ5ZGEyYmVhOGY1NTZmNjg1NjMyYTUyNTIxZjYyMiJ9fX0=
+  max_deviation: 2
+  geo_name: '&8&l黑域石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    the_end: 2
+    
+
+RSC_YUNQI_YZHJ:
+  lateInit: false
+  item_group: yunqizrzy
+  item:
+    name: '&8&l宇宙灰烬'
+    lore:
+    - '&r&7超新星爆发后飘散的星骸余烬（末地特有）'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmIwMjU1YjY4NmVkZmY3OGZmODczMjY0NDFlZDhhZjhhZGExNTM4MjFkODNmMDE1OGU1NzM1YzZiODM5ZGFmOCJ9fX0=
+  max_deviation: 5
+  geo_name: '&8&l宇宙灰烬'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    the_end: 3
+    
+
+RSC_YUNQI_YJS:
+  lateInit: false
+  item_group: yunqizrzy
+  item:
+    name: '&6&l异界砂'
+    lore:
+    - '&r&e闪烁异次元微光的砂粒（末地特有）'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODk4OGZlN2Y0OTA3MmJkOWJlNTNkMTZlNTg5Y2U3MmUwZGNhOGMzMDhiM2U5ZGM2ZjQzMjYyYTgxNmU2MDQ3MyJ9fX0=
+  max_deviation: 20
+  geo_name: '&6&l异界砂'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    the_end: 5
+
+
+RSC_YUNQI_DWTK:
+  lateInit: false
+  item_group: yunqizrzy
+  item:
+    name: '&7&l低维铁矿'
+    lore:
+    - '&r&8坍缩于二维缝隙的暗哑铁矿'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzhhNDY1MGVlM2I3NDU5NDExMjQyNjAwNDI0NmRmNTMxZTJjNjhiNmNhNDdjYWI4ZmUyMzIzYjk3OTBhMWE1ZSJ9fX0=
+  max_deviation: 30
+  geo_name: '&7&l低维铁矿'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 5
+
+
+RSC_YUNQI_ZLHJ:
+  lateInit: false
+  item_group: yunqizrzy
+  item:
+    name: '&3&l重力合金'
+    lore:
+    - '&l&b凝缩引力场的暗蓝金属，握之如坠千钧'
+    - '&l&b铸造星际锚点的核心材料'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODdjMmU0YWVjYjExNjVlNTgzMjkwNTNkZGM5ZDBhMGY0MzczNDU4Mzc0NTExZGI3MDdhMDgxY2MyM2EwNDUwMyJ9fX0=
+  max_deviation: 30
+  geo_name: '&3&l重力合金'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 5   
+    
+
+RSC_YUNQI_XIAN:
+  lateInit: false
+  item_group: yunqizrzy
+  item:
+    name: '&d&l弦'
+    lore:
+    - '&5&l震颤于维度缝隙的流光丝缕'
+    - '&5&l编织宇宙法则的本源丝线（稀有矿物）'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjczMGQ1ZDNhNTFlNzFlZGNlYjY2YzEyZGZjODc2Y2U5M2IzNjY2ZGI3MWMxOTYzMDQwZjJiNDVkZGYzZGMwMyJ9fX0=
+  max_deviation: 1
+  geo_name: '&d&l弦'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 1
+    the_end: 1
+
+
+RSC_YUNQI_SHANG:
+  lateInit: false
+  item_group: yunqizrzy
+  item:
+    name: '&8&l熵'
+    lore:
+    - '&7&l弥散于万物的混沌之息 '
+    - '&7&l宇宙走向沉寂的终极轨迹（地狱特有稀有矿石）'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQ0MmExZTA4ZWE3N2ZkMTQ0YzhmZjRjZGFlZjZlMGE5YWFmYjgzZmRjZjM5OGQxNDhkOGYxNzQ0NGM4ZmE2NyJ9fX0=
+  max_deviation: 1
+  geo_name: '&8&l熵'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    nether: 1
+
+
+RSC_YUNQI_QXHZYLC:
+  lateInit: false
+  item_group: yunqizrzy
+  item:
+    name: '&9&l强相互作用立场'
+    lore:
+    - '&b&l凝缩粒子引力的湛蓝屏障（稀有矿物）'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTliZWFkZGZjZTRmM2VlMzYzMTBhOWQzN2IyODE0NTc4NTU3M2JmNDA2YjFmODIxMTY4ZGRhYTFkZGY1NDY0YSJ9fX0=
+  max_deviation: 4
+  geo_name: '&9&l强相互作用立场'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 1
+
+    
+RSC_YUNQI_QHNJ:
+  lateInit: false
+  item_group: yunqizrzy
+  item:
+    name: '&9&l强互凝晶'
+    lore:
+    - '&b&l凝结强相互作用的湛蓝晶体'
+    - '&b&l坚不可摧且自带引力场光晕'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQwMjYxYTRlZTNmNGVhZWQ4YWRiMWZiYjBjMzUzY2RmMzdmZTEyMWM5YTg1ZjBmZDAxNjkwNmFhODRhMDZkNyJ9fX0=
+  max_deviation: 10
+  geo_name: '&9&l强互凝晶'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 3 
+    
+    
+RSC_YUNQI_JLS:
+  lateInit: false
+  item_group: yunqizrzy
+  item:
+    name: '&8&l寂零石'
+    lore:
+    - '&7&l沉眠于宇宙极寒之域的暗晶（末地稀有矿石）'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTdjNDAzNmY4MGJmMzYwOTE4MGM3YzRhOTU2ODg1M2ZkODE1ZjE1NGFkODQzOGI5MmYzODUxMDE5ODM1YjA3MCJ9fX0=
+  max_deviation: 2
+  geo_name: '&8&l寂零石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    the_end: 1
+    
+    
+RSC_YUNQI_NYSJ:
+  lateInit: false
+  item_group: yunqizrzy
+  item:
+    name: '&6&l能元髓晶'
+    lore:
+    - '&e&l高级文明从恒星内核萃取的能量结晶'
+    - '&e&l驱动超光速引擎的终极能源'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWFjNTI0MTliOTkwMjU4MjhjODlmYTgyNTk0NWU2OTQ4ZTQ1YmI1YTIyZTQ0MjVhNTllOTA5NmU0YzFhYzM4In19fQ==
+  max_deviation: 5
+  geo_name: '&6&l能元髓晶'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 3
+
+
+RSC_YUNQI_XHKL:
+  lateInit: false
+  item_group: yunqizrzy
+  item:
+    name: '&f&l星辉颗粒'
+    lore:
+    - '星轨能量凝聚的微光颗粒'
+    - '可强化引力透镜的弦信号捕捉精度'
+    - '弦能设备的基础材料'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMxOTkzZTRjZmRhMTUzZWFmN2RjMTM4ZDUyYmJhNWMyODNkMDE2MzI2MDIyNjIxNjE3NzZmMGY0Yjg2YSJ9fX0=
+  max_deviation: 15
+  geo_name: '&f&l星辉颗粒'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 5

@@ -1,0 +1,2906 @@
+RSC_YUNQI_DKYIO:
+  lateInit: false
+  item_group: 
+  item:
+    name: ''
+    lore:
+    - ''
+    material_type: skull_hash
+    material: 
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+#分隔板子------------------------
+RSC_YUNQI_占位符0:
+  lateInit: false
+  item_group: yunqihistory_0
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符1:
+  lateInit: false
+  item_group: yunqihistory_1
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符2:
+  lateInit: false
+  item_group: yunqihistory_2
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符3:
+  lateInit: false
+  item_group: yunqihistory_3
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符5:
+  lateInit: false
+  item_group: yunqihistory_5
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符6:
+  lateInit: false
+  item_group: yunqihistory_6
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符7:
+  lateInit: false
+  item_group: yunqihistory_7
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符8:
+  lateInit: false
+  item_group: yunqihistory_8
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符9:
+  lateInit: false
+  item_group: yunqihistory_9
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符测试参与者:
+  lateInit: false
+  item_group: yunqicscyz
+  item:
+    name: '&c这是占位符，表示这里会有东西 '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符11:
+  lateInit: false
+  item_group: yunqihistory_11
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+
+RSC_YUNQI_贡献者Ci_qian: 
+  lateInit: false
+  item_group: yunqigxz
+  item:
+    name: '&c&l❤ &b&lCi_qian &c&l❤  '
+    lore:
+    - '&e&l感谢玩家Ci_qian对本附属开发的超级大力技术支持'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjU3MTQxMzljNjA5MWEyOTUwOTliNDA5NWVlN2IxNzA1MTEzMDcwMmY1OTVkMGYyODdjYjQzMDRlMWJiODVhZCJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+
+RSC_YUNQI_占位符贡献服务器:
+  lateInit: false
+  item_group: yunqigxfwq
+  item:
+    name: ' &c这是占位符，表示这里会有东西'
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符15:
+  lateInit: false
+  item_group: yunqihistory_15
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符17:
+  lateInit: false
+  item_group: yunqihistory_17
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符18:
+  lateInit: false
+  item_group: yunqihistory_18
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符终极资源:
+  lateInit: false
+  item_group: yunqizjzy
+  item:
+    name: ' &c这是占位符，表示这里会有东西'
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符26:
+  lateInit: false
+  item_group: yunqihistory_26
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符27:
+  lateInit: false
+  item_group: yunqihistory_27
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符星界之路:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&c这是占位符，表示这里会有东西 '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符迈向宇宙:
+  lateInit: false
+  item_group: yunqimxyz
+  item:
+    name: '&c这是占位符，表示这里会有东西 '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符终末之诗:
+  lateInit: false
+  item_group: yunqizmzs
+  item:
+    name: ' &c这是占位符，表示这里会有东西'
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+RSC_YUNQI_占位符传说物品:
+  lateInit: false
+  item_group: yunqicswp
+  item:
+    name: '&c这是占位符，表示这里会有东西 '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+
+RSC_YUNQI_占位符35:
+  lateInit: false
+  item_group: yunqihistory_35
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+#公告————————————————————————————————————————————————  
+RSC_YUNQI_YSGG:
+  lateInit: false
+  item_group: yunqigg
+  item:
+    name: '&9&l云启文明 - &c&l公告页'
+    lore:
+    - '&e&l本附属为YS_0204独立开发的拓展类附属'
+    - '&e&l感谢天才少女Ci_qian对本附属的直接技术支持'
+    - '&e&l目前是测试的第二阶段'
+    - '&e&l当前版本: &f&lAlpha 1.1'
+    - ''
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ZmMzBlZjQ4MTRjMDI1MDcyMWY4NWU5MzRiYmE1ZjdhNTYxMWFhMDE2YzBiN2UzYWE2M2ZlZTY2OGI4NzdmMCJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+
+RSC_YUNQI_MX_INFO:
+  lateInit: false
+  item_group: yunqimx
+  item:
+    name: '&9&l云启文明 - &6&l鸣谢'
+    lore:
+    - '&e&l这里是对本RSC附属的开发作出贡献的玩家（顺序不分先后）'
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  
+RSC_YUNQI_MX_PLAY1:
+  lateInit: false
+  item_group: yunqimx
+  item:
+    name: '&e&lPLAY1'
+    lore:
+    - '&7&l为本RSC附属的开发提供资金支持'
+    - '&7&l 2026/1/25'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzI4NzQ5YzVhYTBlMDNmYjg0NzIzMDU2NGFhNjFjMTQ1ZGI4MDA4MDQ5MTUyMjdjNTBjZWQ4Zjg2ZGZlN2IyZSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+
+#基础材料————————————————————————————————————————————————
+RSC_YUNQI_DKYIO: #dkyio
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&e&lDkYio'
+    lore:
+    - '&d&l超弦探索者的遗留造物'
+    - '&7颅身被强互凝晶加固，表面刻有维度弦纹，可捕捉宇宙背景中的弦振动信号'
+    - '&7传闻其意识未散，仍寄宿于弦能阵列中，触碰时会发出微弱的时空震颤，是合成超弦设备的核心意识锚点'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjZhZDY2N2IwODkwNzBlYWQxZjE3YzA0ZGVlNDhkNjJmNmVkZDA3NDk4NDc3N2NmNWQyOGI2ZDBlYWYyNjFlYyJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_ZZJS
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_ZZJS
+      amount: 1      
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_QHNJ
+      amount: 1      
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_ZZJS
+      amount: 1      
+    7:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1      
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_ZZJS
+      amount: 1      
+    9:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1      
+
+RSC_YUNQI_DKYIO_2: #dkyio
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&e&lDkYio &c&lII'
+    lore:
+    - '&d&l经过不断努力，已经恢复部分意识，具有自主能动性'
+    - '&7通过合理的应用，可以控制部分科技'
+    - '&7恒星级的合成材料，科技怪胎般的思维逻辑，可以带给机器不错的性能'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjZhZDY2N2IwODkwNzBlYWQxZjE3YzA0ZGVlNDhkNjJmNmVkZDA3NDk4NDc3N2NmNWQyOGI2ZDBlYWYyNjFlYyJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+    2:
+      material_type: slimefun
+      material: NTW_AI_CORE
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+    4:
+      material_type: slimefun
+      material: NTW_EMPOWERED_AI_CORE
+      amount: 1      
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 1      
+    6:
+      material_type: slimefun
+      material: NTW_PRISTINE_AI_CORE
+      amount: 1      
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1      
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_SNYS
+      amount: 1      
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1 
+RSC_YUNQI_SEMT: #十二面体
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&f&l十二面体'
+    lore:
+    - '&7&l一个中规中矩的标准十二面体，科技透镜的基础材料'
+    material_type: mc
+    material: GLASS
+    amount: 1
+  placeable: false
+  recipe_type: SMELTERY
+  recipe:
+    1: 
+      material_type: mc
+      material: GLASS
+      amount: 12
+    2: 
+      material_type: slimefun
+      material: HARDENED_GLASS
+      amount: 6
+    3: 
+      material_type: mc
+      material: GLASS
+      amount: 12
+    4: 
+      material_type: slimefun
+      material: HARDENED_GLASS
+      amount: 6
+    5: 
+      material_type: slimefun
+      material: RSC_YUNQI_ZZJS
+      amount: 4
+    6: 
+      material_type: slimefun
+      material: HARDENED_GLASS
+      amount: 6
+    7: 
+      material_type: mc
+      material: GLASS
+      amount: 12
+    8: 
+      material_type: slimefun
+      material: HARDENED_GLASS
+      amount: 6
+    9: 
+      material_type: mc
+      material: GLASS
+      amount: 12
+ 
+RSC_YUNQI_XGSEMT: #星轨十二面体
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&b&l星轨十二面体'
+    lore:
+    - '&3&l高阶文明锻造的正十二面体装置'
+    - '&3&l校准超弦编织阵列的核心定位组件'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzY5ZTBhYmEzNWQ2ODUzZWU1NGM4Njc5OWY3NTRhZTE2NjlkZDM5YTBlMmYzZDY5NzMxZjMzMWFkZWRlIn19fQ==
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1: 
+      material_type: slimefun
+      material: RSC_YUNQI_SEMT
+      amount: 1
+    2: 
+      material_type: slimefun
+      material: RSC_YUNQI_XHKL
+      amount: 1
+    3: 
+      material_type: slimefun
+      material: RSC_YUNQI_SEMT
+      amount: 1
+    4: 
+      material_type: slimefun
+      material: RSC_YUNQI_XHKL
+      amount: 1
+    5: 
+      material_type: slimefun
+      material: RSC_YUNQI_QHNJ
+      amount: 1
+    6: 
+      material_type: slimefun
+      material: RSC_YUNQI_XHKL
+      amount: 1
+    7: 
+      material_type: slimefun
+      material: RSC_YUNQI_SEMT
+      amount: 1
+    8: 
+      material_type: slimefun
+      material: RSC_YUNQI_XHKL
+      amount: 1
+    9: 
+      material_type: slimefun
+      material: RSC_YUNQI_SEMT
+      amount: 1
+      
+RSC_YUNQI_YLTJ: #引力透镜
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&9&l引力透镜'
+    lore:
+    - '&b&l由重力合金熔铸的透明棱镜'
+    - '超弦编织阵列的核心聚焦组件'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmYzNTIwZDc5NGMzNTYwNDI2MTcxNTJjZGEzZDAyYmFhNzQwNTk3Y2UxZjNiNDU4NmVjMmQzZjM3YmJlMWQ4ZSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_XGSEMT
+      amount: 4
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_ZLHJ
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_XGSEMT
+      amount: 4
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_ZLHJ
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_ZLHJ
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_XGSEMT
+      amount: 4
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_ZLHJ
+      amount: 1  
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_XGSEMT
+      amount: 4   
+       
+RSC_YUNQI_YLHX: #引力核心
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&9&l引力核心'
+    lore:
+    - '&b&l重力合金和黑域石冶炼而成'
+    - '&b&l坍缩成一个引力核心，合成的重要材料'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmQ5ODMwMjMxNjY2YTk5NGVhODEyN2ExOWI5M2Y0NzNhZTc0MTI3YWUxMTM4OTI0ODQ5Yjk2NzI1MmE5N2EzOSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: SMELTERY      
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_ZLHJ
+      amount: 64
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_HYS
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_JLS
+      amount: 1
+
+RSC_YUNQI_XZSP: #弦之碎片
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&d&l弦之碎片'
+    lore:
+    - '&d宇宙弦断裂后散落的本源残片'
+    - '&d解析超弦振动频率的基础样本,由弦坍缩而成'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzQ2NTY2MmM5N2Y2MDRiNTlkMWMwNWE3NGMwZmQ2ZmI3ZGFmMzRjMjE2MDE1ZTU3MzhmZTE2MmZjNDJjNGE3MSJ9fX0=
+    amount: 4
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_XIAN
+      amount: 1
+
+RSC_YUNQI_CDT: #超导铁
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&3&l超导铁'
+    lore:
+    - '&1&l掺合弦之碎片熔炼的特种合金，在绝对零度以上仍保有零电阻特性'
+    - '&1&l高阶能源线路的核心基材'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODI5ZGZlNmVjYTJjZjc2NTJkMjNjMDFkMWU3OTcwZDg1NjMyOTQzYTA4YWY4MDY0OWMxYzI1MmVlNjVjZGY0YSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_XZSP
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_ZLHJ
+      amount: 4  
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_DWTK
+      amount: 8      
+    4:
+     material_type: slimefun      
+     material: REINFORCED_ALLOY_INGOT
+     amount: 16     
+
+RSC_YUNQI_SBWZ: #衰败物质
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&7&l衰败物质'
+    lore:
+    - '&8&l熵能侵蚀后丧失原有功能的无序载体，涵盖破损机械残骸、枯萎高阶植物、能量耗尽的晶体'
+    - '&8&l可通过大量辐射化合物制取，具有极高的衰败系数，一定要小心小心再小心！！！'
+    - '&8&l表面萦绕微弱灰黑色熵流，是宇宙中最基础的低价值无序物质'
+    - '&8&l既是熵流萃取仪的效率加成材料，也是分解产出混沌碎屑的核心原料'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjljNTI0Y2Y1NTM1NzIzOWY3YmVkZDFhMzI0NDVmZDViYzQ0YTU2MzgwYzYzMTkyZjI5NDk1YzIyMWMyODc0YiJ9fX0=
+    amount: 1
+  placeable: false
+  radiation: VERY_DEADLY #辐射等级，超级无敌高
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: slimefun
+      material: BOOSTED_URANIUM
+      amount: 4
+    2:
+      material_type: slimefun
+      material: NEPTUNIUM
+      amount: 16
+    3:
+      material_type: slimefun
+      material: BOOSTED_URANIUM
+      amount: 4
+    4:
+      material_type: slimefun
+      material: NEPTUNIUM
+      amount: 16
+    5:
+      material_type: slimefun
+      material: ENRICHED_NETHER_ICE
+      amount: 64
+    6:
+      material_type: slimefun
+      material: NEPTUNIUM
+      amount: 16
+    7:
+      material_type: slimefun
+      material: BOOSTED_URANIUM
+      amount: 4
+    8:
+      material_type: slimefun
+      material: NEPTUNIUM
+      amount: 16
+    9:
+      material_type: slimefun
+      material: BOOSTED_URANIUM
+      amount: 4
+
+RSC_YUNQI_SBHX: #衰败核心
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&a&l衰败核心'
+    lore:
+    - '破损高阶机械的能量残渣，由衰败物质侵蚀机器内核产生 '
+    - '蕴含极致无序的熵增能量，与其他材料形成平衡，触发逆熵特性。'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmE3Y2MzYzUwODBjMmYyNGJkYmFiMzJkN2RhNTY1YzYxMmMwYWRlYjVmMTU4ZDhmMDFjOGNlMDZkODcwODBmNSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_SBWZ
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_SBWZ
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_SBWZ
+      amount: 1 
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_SBWZ
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ADVANCED_NETHER_STAR_REACTOR
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_SBWZ
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_SBWZ
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_SBWZ
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_SBWZ
+      amount: 1
+
+RSC_YUNQI_SNYS: #熵逆原石
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&8&l熵逆原石'
+    lore:
+    - '&7&l能逆转局部熵增的灰黑色矿石'
+    - '&7&l熵流萃取仪的核心校准件'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTlkOWVmMTU5YmMyMjkxNjdmYjg3ODA3NDJjZWU4ZmVkMDhiMDIxZTg1ZjBkMzRmMzlkNDM4MDVlZTNmNjM0OSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe: 
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_HDSX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ANCIENT_RUNE_FIRE
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_HDSX
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ANCIENT_RUNE_WATER
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_SBHX
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ANCIENT_RUNE_LIGHTNING
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_SHANG
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ANCIENT_RUNE_AIR
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_SHANG
+      amount: 1
+ 
+RSC_YUNQI_HDSX: #混沌碎屑
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&8&l混沌碎屑'
+    lore:
+    - '&7&l通过熵流萃取仪分解衰败物质获得'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQyNjlhNTAyNDhkOTMyODYzYzdiYzQ1YjZkNjQyNTlhNWYyNTJmMTZlZTBiMGU0ZGNhMTQyYTUxNjQxZjJkYSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: SLCQY_TYPE
+
+RSC_YUNQI_YZ: #原子
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&9原子'
+    lore:
+    - '&7宇宙中微观基本粒子，利用引力核心捕获空气中的粒子收集'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQzYzc5Y2Q5YzJkMzE4N2VhMDMyNDVmZTIxMjhlMGQyYWJiZTc5NDUyMTRiYzU4MzRkZmE0MDNjMTM0ZTI3In19fQ==
+    amount: 1
+  placeable: false
+  recipe_type: YCFZSJY_TYPE
+
+RSC_YUNQI_FZ: #分子
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&9分子'
+    lore:
+    - '&7还是宇宙中微观基本粒子，利用引力核心捕获空气中的粒子收集'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjUyNTY4YmNmNjk1OGZiZDc4NTdmZWFmMTVmYWVlNWM5ZmMzOWNmMTJjMTE0ZGI1MGE0MzBiMThkZjEzOGUxMCJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: YCFZSJY_TYPE
+
+RSC_YUNQI_ZZ: #中子
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&9中子'
+    lore:
+    - '&7依旧是宇宙中微观基本粒子，利用引力核心捕获空气中的粒子收集'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjRhMTc2ZmMwYjA5MzZiYzgzZjc5ZGVjMTRiYTQ0MWEzMjNlODk5ZWZmNDU3OTY5NmIzM2VkOGVlYTgyZSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: YCFZSJY_TYPE
+
+RSC_YUNQI_LZ: #离子
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&9离子'
+    lore:
+    - '&7仍然是宇宙中微观基本粒子，利用引力核心捕获空气中的粒子收集'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWUzZGNkYmVlYTM1ZjdlY2IxNjY3NGFjNmZmZWQ3OTA2Nzc1MTM5ZTIyYzc4YmY3Mjk1Mzg2ZDMxOTRlOWY2In19fQ==
+    amount: 1
+  placeable: false
+  recipe_type: YCFZSJY_TYPE
+  
+RSC_YUNQI_DZ: #电子
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&9电子'
+    lore:
+    - '&7还是宇宙中微观基本粒子，利用引力核心捕获空气中的粒子收集'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2VmMjQ4NTc3MmU1ZGU2NWI2ODk2NjRlZTA5N2NiNmU0YmVhMDMwZmI3Nzg3YzhhNTc4MjdkMGE2N2Y0YyJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: YCFZSJY_TYPE
+
+RSC_YUNQI_ZHIZI: #智子
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&k&la &3&l智子 &k&la'
+    lore:
+    - '&e高阶文明造物，粒子收集器中极小概率收集到（约等于0.1%）！！！'
+    - ''
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTY3YTJmMjE4YTZlNmUzOGYyYjU0NWY2YzE3NzMzZjRlZjliYmIyODhlNzU0MDI5NDljMDUyMTg5ZWUifX19
+    amount: 1
+  placeable: false
+  recipe_type: YCFZSJY_TYPE
+
+RSC_YUNQI_BSZ: #玻色子
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&b&l玻色子'
+    lore:
+    - '&5宇宙中传递基本相互作用的 “信使粒子”，是构成力与能量传递的本源单元'
+    - '也是超弦科技与三体微观操控技术的核心研究对象'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGYyZTg4M2E2Y2QyNWUyN2IyMDM0NzNlMDAxYzcwZjZkYjBkMWY5ZmVhYTM2ODMzMzljYmUyNmYxNTA3YjE0ZiJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: JCLZNJQ_TYPE
+
+RSC_YUNQI_TTSY: #通透石英
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&f&l通透石英'
+    lore:
+    - '&f&l经过极其多的石英材料融合煅烧而成'
+    - '&f&l电阻几乎为0，非常有用(bushi)'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODAwM2MyMDdjNDAzYWYwNjkzYTllMjI2MWU2ODFkNTBlYzU3Y2Y4MmJlMmY1ZDM4NmIwYjlkMjcwN2Y3MTIwOSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: SMELTERY
+  recipe:
+    1: 
+      material_type: mc
+      material: QUARTZ
+      amount: 64
+    2: 
+      material_type: mc
+      material: QUARTZ
+      amount: 64
+    3: 
+      material_type: mc
+      material: QUARTZ
+      amount: 64
+    4: 
+      material_type: mc
+      material: QUARTZ
+      amount: 64
+    5: 
+      material_type: mc
+      material: QUARTZ
+      amount: 64
+    6: 
+      material_type: mc
+      material: QUARTZ
+      amount: 64
+    7: 
+      material_type: mc
+      material: QUARTZ
+      amount: 64
+    8: 
+      material_type: mc
+      material: QUARTZ
+      amount: 64
+    9: 
+      material_type: mc
+      material: QUARTZ
+      amount: 64
+
+RSC_YUNQI_DXYJ: #地心岩浆
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&4&l地心岩浆'
+    lore:
+    - '&4&l取自地心高温岩浆，可以煅烧更高级的合金'
+    - ''
+    - '&9&l行星&3&l工艺 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdlMGJmNjI3NTg4MjZhNzc2ODA4YzFkNzViNmM2MGY3MjAzZjA4YTk2ODE0NDgzZmMwZDhkYzBjNTMyZTBjNSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DXZJJ_TYPE
+
+RSC_YUNQI_QINGQI: #氢气
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&9&l氢气'
+    lore:
+    - '&9大气层的主要成分'
+    - ''
+    - '&9&l行星&3&l工艺 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjVkYjM0Mzg2YjY0Y2NiOWYwNjE0MmZhODY1ZTY1MGI0YzcyOTVmZTdlYTkzNDY3Mzg2ZTlhYzljNzViZGFmIn19fQ==
+    amount: 1
+  placeable: false
+  recipe_type: DQZYTQJ_TYPE
+
+RSC_YUNQI_YANGQI: #氢气
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&f&l氧气'
+    lore:
+    - '&9大气层的主要成分'
+    - ''
+    - '&9&l行星&3&l工艺 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQzNjljMTRjMDc4YzNiZTY0ZGM0YTAzYjEzMzZkZWU2NzdlZjhmZGJkYTU1ZjBjYzI2NzdjMjg0MWZmNTQ2ZiJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DQZYTQJ_TYPE
+
+RSC_YUNQI_DANQI: #氮气
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&3&l氮气'
+    lore:
+    - '&9大气层的主要成分'
+    - ''
+    - '&9&l行星&3&l工艺 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjE5NzhkNGYzMzk3MjY4ZDMyYjMxMzQ2N2ZhZjk0MDRlODM3MWMzODhlNWZhYWM4MmI3NmI2ZDUxMmI3MjExNSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DQZYTQJ_TYPE
+  
+RSC_YUNQI_XYQTJHT: #稀有气体集合体
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&c&l稀&6&l有&e&l气&a&l体&b&l集&9&l合&d&l体'
+    lore:
+    - '&9大气层稀有气体的集合体（元素太多懒得一个一个弄了）'
+    - ''
+    - '&9&l行星&3&l工艺 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjUxNzAyYTBiZDM4Nzc4M2E0ZjRlNDdjZmE0OGE3YTE3YzhiY2MyMzM2ZWI2MDg4YTE3ODgzNGQ3ODNkYTcwNyJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DQZYTQJ_TYPE
+RSC_YUNQI_JBRJ: #聚变燃晶
+  lateInit: false
+  item_group: yunqixxgy
+  item:
+    name: '&c&l聚变燃晶'
+    lore:
+    - '&7由多种气体和tnt混合而成的燃料，效率高，好使'
+    - ''
+    - '&9&l行星&3&l工艺 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWNiMzE2ZjdhMjI3YThjNTlkNThhZTBkZDY3NjhmZTRmYTU0NmQ1NWI5Y2ZkZDU2Y2ZlNDBiNjU4NmQ4MWMyNCJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: QTRLRSS_TYPE
+
+RSC_YUNQI_LBRJ: #裂变燃晶
+  lateInit: false
+  item_group: yunqixxgy
+  item:
+    name: '&c&l裂变燃晶'
+    lore:
+    - '&7由多种气体和辐射化合物混合而成的燃料，效率更高，更好使'
+    - ''
+    - '&9&l行星&3&l工艺 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWJiNDM3NzY3OTYwMTQ5OGIyNTM3ZDgwZDhlZjQ5MDUyMjc4OWZiZTFhMjE3ZWU0MTJlMzI2NzdiNmQ3OTg1NCJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: QTRLRSS_TYPE
+  radiation: VERY_DEADLY
+RSC_YUNQI_FWZCG: #反物质储罐
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&f反物质储罐'
+    lore:
+    - '&f用来存储反物质的专属容器，能稳定存储反物质'
+    - ''
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTk5MzhkNmMzNzQ5YjlmOGJjOGIxY2U1ZTdkZjFkYWY4YmM5ZTIzNDllN2I2ZjAwNzIzMDFiYzFlZTRkNDVjZiJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: mc
+      material: NETHER_STAR
+      amount: 64
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_NYSJ
+      amount: 8
+    3:
+      material_type: mc
+      material: NETHER_STAR
+      amount: 64
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_NYSJ
+      amount: 8
+    5:
+      material_type: mc
+      material: GLASS
+      amount: 64
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_NYSJ
+      amount: 8
+    7:
+      material_type: mc
+      material: NETHER_STAR
+      amount: 64
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_NYSJ
+      amount: 8
+    9:
+      material_type: mc
+      material: NETHER_STAR
+      amount: 64
+
+RSC_YUNQI_FWZ: #反物质
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&4&ka &7&l反物质 &4&ka'
+    lore:
+    - '&7理论上的终极能源，能量密度高到无法想象'
+    - '&7强大的能量，强的的物质，炸了我都夸它炸的响(确实响)'
+    - '&c&l爆炸将会湮灭方圆100格的一切！是一切！！'
+    - ''
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmQ0M2Y5ZGI2MWJlZTk0MTUyZTE2M2UxZjMxNjgwODlmYTk4YmNmNmRhNzg5ZmRhNGM5NmIzZjY5ZTNiZWQwYyJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: "NULL"
+  
+RSC_YUNQI_XXHXHJ: #行星核心合金
+  lateInit: false
+  item_group: yunqixxgy
+  item:
+    name: '&a&l行星核心合金'
+    lore:
+    - '&a用各种地理材料制作而成的合金，是制作机器的基础材料'
+    - ''
+    - '&9&l行星&3&l工艺 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWUwMmE4YWVlMGVhNDcwMjNjYzBlYTk0ZjUwMTRhNGRiZjYxZmMyMTQ5NDZjZDgyNDM3MjUyNzBiMzFlMjlhZCJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: GYRLRL_TYPE
+
+RSC_YUNQI_CDXQ: #超导线圈
+  lateInit: false
+  item_group: yunqixxgy
+  item:
+    name: '&6&l超导线圈'
+    lore:
+    - '&6拥有100%导电率的超绝带牌线圈，你值得拥有！'
+    - ''
+    - '&9&l行星&3&l工艺 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzQ1ZTg1MGRlODU3ZmIzZWJjNmFkOGJhZDFhMDMzOWFhOWNkNTUxZDcyMWIxOGU4NDNlNjI3ZGNkYWQ1NDQ2MiJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: slimefun
+      material: COPPER_WIRE
+      amount: 64
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_TTSY
+      amount: 8
+    3:
+      material_type: slimefun
+      material: COPPER_WIRE
+      amount: 64
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_TTSY
+      amount: 8
+    5:
+      material_type: slimefun
+      material: COPPER_DUST
+      amount: 64
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_TTSY
+      amount: 8
+    7:
+      material_type: slimefun
+      material: COPPER_WIRE
+      amount: 64
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_TTSY
+      amount: 8
+    9:
+      material_type: slimefun
+      material: COPPER_WIRE
+      amount: 64
+
+RSC_YUNQI_SCQHX_1: #生成器核心I
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&b生成器核心 &a&lI'
+    lore:
+    - '&e1级生成器的核心，能缓慢生产物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTBlY2Q2MDE0OTVkMjkwM2U0Njk4YjRlMjM1YTNjYTc1ZGZhN2ZiZmY0YzdiNzFmZDhjYTJhOTViN2U4OGQ2OSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_ZLHJ
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_HYS
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_YZHJ
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_DWTK
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_YJS
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_QHNJ
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_JLS
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_XIAN
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_XHKL
+      amount: 1
+
+RSC_YUNQI_SCQHX_2: #生成器核心2
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&b生成器核心 &a&lII'
+    lore:
+    - '&e2级生成器的核心，能快速生产物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFiYWNjYmY2NzZiOWZmMWY4NGQyZjEzMzM3NWJjNTVlYTdhMDNiMzg1Yjc0ODU4Y2RiMDNkZmZiNDVjN2FhZSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_ZLHJ
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_HYS
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_YZHJ
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_DWTK
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_SCQHX_1
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_QHNJ
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_JLS
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_XIAN
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_XHKL
+      amount: 1
+
+RSC_YUNQI_SCQHX_3: #生成器核心3
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&b生成器核心 &a&lIII'
+    lore:
+    - '&e3级生成器的核心，能极速生产物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWQwZTVkNDY4ZWU5YjlkM2ZhMmRlYjgwYmJmY2Y2ZWI0NzlhMTY1MjNjZWJlOTg5MzJlMjRiOWY4MmQ4YWJmZCJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_ZLHJ
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_HYS
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_YZHJ
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_DWTK
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_SCQHX_2
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_QHNJ
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_JLS
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_XIAN
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_XHKL
+      amount: 1
+      
+RSC_YUNQI_XHBLHJ: #星核壁垒合金
+  lateInit: false
+  item_group: yunqixxgy
+  item:
+    name: '&#ff0000&l星&#e33330&l核&#c86660&l壁&#ac998f&l垒&#91ccbf&l合&#75ffef&l金'
+    lore:
+    - '&c&l这是用一个星球资源锻造的合金！'
+    - '&c&l当你完成它的时候'
+    - '&c&l你已经有往更高处攀爬的资本'
+    - '&c&l现在你可以利用合金锻造戴森球，从而利用整个恒星的资源！'
+    - '&c&l继续前行吧！你的目标是星辰大海！！'
+    - ''
+    - '&9&l行星&3&l工艺 &c&l最终物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTAwZDM0YTJjYTI4N2ZkMmMxMWJmZjE4M2VjMmJiMGY3ZThhYjlhMDZjNzBlOTY0NjBlYjY0ZGE3NGYxOWM2NiJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_BSZ
+      amount: 64
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_LBRJ
+      amount: 64
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_BSZ
+      amount: 64
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_JBRJ
+      amount: 64
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_XXHXHJ
+      amount: 32
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_JBRJ
+      amount: 64
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_BSZ
+      amount: 64
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_LBRJ
+      amount: 64 
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_BSZ
+      amount: 64
+
+RSC_YUNQI_XXNLJJ: #行星能量结晶
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&6&l行星能量结晶'
+    lore:
+    - '&6一个简简单单的能量结晶体，却包含接近一个星球的能量'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGMyMDQ1MTM1YjViMDcwNDJiY2U2ZGFhMDEzNGUyOTBlYzJlMzNmZTkxZmVmYjU5MzI4YmQ1YmM3MmFkZWZjZiJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: SMELTERY 
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_NYSJ
+      amount: 64
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_JLS
+      amount: 64
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 8
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_SBWZ
+      amount: 64
+      
+RSC_YUNQI_彭罗斯能量板块: #彭罗斯能量板块
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&a&l彭罗斯能量板块'
+    lore:
+    - '&6上好的能量吸引装置，能将附近的能量吸收并储存'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzY4ZDNkNDQ1YmY0YzdjNWZjMjhhMzhiNGUzMDE4NTIxZmJjNGQ3MTIyNDZjNTA3ODM3MjRkMjY2MTMyZTQyMCJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_TTSY
+      amount: 64
+    2:
+      material_type: slimefun
+      material: QUARTZ_SINGULARITY
+      amount: 64
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_TTSY
+      amount: 64
+    4:
+      material_type: slimefun
+      material: QUARTZ_SINGULARITY
+      amount: 64
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO_2
+      amount: 1
+    6:
+      material_type: slimefun
+      material: QUARTZ_SINGULARITY
+      amount: 64
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_TTSY
+      amount: 64
+    8:
+      material_type: slimefun
+      material: QUARTZ_SINGULARITY
+      amount: 64
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_TTSY
+      amount: 64
+
+RSC_YUNQI_戴森球控制核心: #戴森球控制核心
+  lateInit: false
+  item_group: yunqihxny
+  item:
+    name: '&9&l戴森球控制核心'
+    lore:
+    - '&7戴森球的整个控制中枢，最关键的组成部分'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjUzZTBiOTNlMmNmZDdjZWM4NDg2NzQyMTQ0OGJmMzNiMDJiNWY2ZTIyYzdjNGQzOWI3ODA1NWMwZTgzZTE4MCJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQJGZPT_TYPE
+  
+RSC_YUNQI_戴森球合金外壳: #戴森球合金外壳
+  lateInit: false
+  item_group: yunqihxny
+  item:
+    name: '&6&l戴森球合金外壳'
+    lore:
+    - '&7戴森球的外壳部分，能抵抗恒星的超高温'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTY3OTkxOGU1MmYzZjhmMmNhYmJiZWFjNmE5NzY4MWYyZjhhYTEwYzBiMmU4MTg1OTI4ODVhNGEwZTlkMjI3In19fQ==
+    amount: 1
+  placeable: false
+  recipe_type: DSQJGZPT_TYPE
+  
+RSC_YUNQI_戴森球引力平衡模块: #戴森球引力平衡模块
+  lateInit: false
+  item_group: yunqihxny
+  item:
+    name: '&b&l戴森球引力平衡模块'
+    lore:
+    - '&7戴森球的引力平衡模块，能抵消恒星体巨大的引力'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjg4MTMwOTI1NmEwNjQxMzVjMDlkNDhiNzM4ODgxYzcwMmU5Y2RjMTMwNjJkYzk5MjdjZWM0ZWM0ZmU1ZWQ3YiJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQJGZPT_TYPE
+  
+RSC_YUNQI_戴森球能量收集板: #戴森球能量收集板
+  lateInit: false
+  item_group: yunqihxny
+  item:
+    name: '&e&l戴森球能量收集板'
+    lore:
+    - '&7耐高温，稳定收集恒星能量，几乎无传输损耗'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjJkNWQ5ZDQxZDE5MTdmODZkODIyZDEzZDI2YWEwN2VlNmRlZmVjY2RhMWM5ODg1MDVhYjg2NGFmZTk4YTYwNSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQJGZPT_TYPE
+
+RSC_YUNQI_模拟戴森球: #模拟戴森球
+  lateInit: false
+  item_group: yunqihxny
+  item:
+    name: '&#00e1ff&l模&#3dc4fb&l拟&#7aa7f7&l戴&#b68af3&l森&#f36def&l球'
+    lore:
+    - '&6&l戴森球的模拟环境，能模拟戴森球的运行环境，产出对应的元素'
+    - '&6&l当你合成出它的时候，你已经能获取整个恒星的能源'
+    - '&f&l下一步是？'
+    - ''
+    - '&c&l恒星&e&l能源 &c&l最终物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjFlNGYzMTFlYmZiOTQ1YmY3NWFlNGY3NGUyZTg3MDQyODI4OWZkZTczNzIxMWE1Yzc5MTc1ODJjNzZlZWMzZiJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQJGZPT_TYPE
+  
+RSC_YUNQI_恒星离子团: #恒星离子团
+  lateInit: false
+  item_group: yunqihxny
+  item:
+    name: '&b&l恒星离子团'
+    lore:
+    - '&b恒星内部离子团，被戴森球捕获收集'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzkzM2MzMTFlMzczNGVkYjM1ZmFjYjJhNzRmMWIyMTcwN2UwZTBjYjRmZDlhZmM3ZTA5ZDhlM2QxNTdiY2Y4NiJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQHJMNJ_TYPE
+
+RSC_YUNQI_恒星能量结晶体: #恒星能量结晶体
+  lateInit: false
+  item_group: yunqihxny
+  item:
+    name: '&6&l恒星能量结晶体'
+    lore:
+    - '&b恒星能量的结晶，可用于发电'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWI4ZjIxZWRiNzExNjkwODBjMGRkNDI5MzVlZTAwMjQyYzhjYzliYjkxNjU5YWI3MDA0ODlhZjliN2M1OGUxNyJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQHJMNJ_TYPE
+
+RSC_YUNQI_一小簇暗物质: #一小簇暗物质
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&7&l一小簇暗物质'
+    lore:
+    - '&7一点点暗物质，怎么会被捕获呢？'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWYzYmFiNjliMzY4MjNhY2VkNzFlMDllN2M5M2UxN2QxYjg5MjY3OGFkZGEzNTQ3OGIxYzYwOGM5ZGZkYTI1ZSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQHJMNJ_TYPE
+
+RSC_YUNQI_一小簇反物质: #一小簇反物质
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&c&l一小簇反物质'
+    lore:
+    - '&7一点点的反物质，极小但是蕴含能量极大'
+    - '&c&l正反物质触碰将会造成能量湮灭，请小心使用！'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjBkM2IxNjUzNjE1ZTcwZTFiZmEwNzQ3NGE4OTAyYjZkNTg5MzRmMzJiY2JlMTBmZjk4M2IyNzNlMzc5ZDRhYiJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQHJMNJ_TYPE
+
+RSC_YUNQI_恒星元素尘埃: #恒星元素尘埃
+  lateInit: false
+  item_group: yunqihxny
+  item:
+    name: '&8&l恒星元素尘埃'
+    lore:
+    - '&8恒星的元素集合而成的尘埃体'
+    material_type: mc
+    material: GUNPOWDER
+    amount: 1
+  placeable: false
+  recipe_type: DSQHJMNJ_TYPE
+
+RSC_YUNQI_神秘物质_1: #1号神秘物质
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&3&l1号神秘物质'
+    lore:
+    - '&7奇怪，这是什么物质？'
+    - '&7按理说不应该有这种产物的？'
+    - ''
+    - '&8未知 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2ZkYWI0MDQzNGVkNWQwMWY1OGM0NWNhMGM5ZmFkYTQ2NjJlMTc3MmZmNDNlMjk3NDk3OTQ0MGE1Y2ZlMTVjOSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQHJMNJ_TYPE
+
+RSC_YUNQI_神秘物质_2: 
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&3&l2号神秘物质'
+    lore:
+    - '&7奇怪，这是什么物质？'
+    - '&7按理说不应该有这种产物的？'
+    - ''
+    - '&8未知 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2ZkYWI0MDQzNGVkNWQwMWY1OGM0NWNhMGM5ZmFkYTQ2NjJlMTc3MmZmNDNlMjk3NDk3OTQ0MGE1Y2ZlMTVjOSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQHJMNJ_TYPE
+
+RSC_YUNQI_神秘物质_3: 
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&3&l3号神秘物质'
+    lore:
+    - '&7奇怪，这是什么物质？'
+    - '&7按理说不应该有这种产物的？'
+    - ''
+    - '&8未知 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2ZkYWI0MDQzNGVkNWQwMWY1OGM0NWNhMGM5ZmFkYTQ2NjJlMTc3MmZmNDNlMjk3NDk3OTQ0MGE1Y2ZlMTVjOSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQHJMNJ_TYPE
+
+RSC_YUNQI_神秘物质_4: 
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&3&l4号神秘物质'
+    lore:
+    - '&7奇怪，这是什么物质？'
+    - '&7按理说不应该有这种产物的？'
+    - ''
+    - '&8未知 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2ZkYWI0MDQzNGVkNWQwMWY1OGM0NWNhMGM5ZmFkYTQ2NjJlMTc3MmZmNDNlMjk3NDk3OTQ0MGE1Y2ZlMTVjOSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQHJMNJ_TYPE
+  
+RSC_YUNQI_神秘物质_5: 
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&3&l5号神秘物质'
+    lore:
+    - '&7奇怪，这是什么物质？'
+    - '&7按理说不应该有这种产物的？'
+    - ''
+    - '&8未知 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2ZkYWI0MDQzNGVkNWQwMWY1OGM0NWNhMGM5ZmFkYTQ2NjJlMTc3MmZmNDNlMjk3NDk3OTQ0MGE1Y2ZlMTVjOSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQHJMNJ_TYPE
+  
+RSC_YUNQI_神秘物质_6: 
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&3&l6号神秘物质'
+    lore:
+    - '&7奇怪，这是什么物质？'
+    - '&7按理说不应该有这种产物的？'
+    - ''
+    - '&8未知 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2ZkYWI0MDQzNGVkNWQwMWY1OGM0NWNhMGM5ZmFkYTQ2NjJlMTc3MmZmNDNlMjk3NDk3OTQ0MGE1Y2ZlMTVjOSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQHJMNJ_TYPE
+  
+RSC_YUNQI_神秘物质_7: 
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&3&l7号神秘物质'
+    lore:
+    - '&7奇怪，这是什么物质？'
+    - '&7按理说不应该有这种产物的？'
+    - ''
+    - '&8未知 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2ZkYWI0MDQzNGVkNWQwMWY1OGM0NWNhMGM5ZmFkYTQ2NjJlMTc3MmZmNDNlMjk3NDk3OTQ0MGE1Y2ZlMTVjOSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQHJMNJ_TYPE
+  
+RSC_YUNQI_神秘物质_8: 
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&3&l8号神秘物质'
+    lore:
+    - '&7奇怪，这是什么物质？'
+    - '&7按理说不应该有这种产物的？'
+    - ''
+    - '&8未知 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2ZkYWI0MDQzNGVkNWQwMWY1OGM0NWNhMGM5ZmFkYTQ2NjJlMTc3MmZmNDNlMjk3NDk3OTQ0MGE1Y2ZlMTVjOSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQHJMNJ_TYPE
+  
+RSC_YUNQI_神秘物质_9: 
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&3&l9号神秘物质'
+    lore:
+    - '&7奇怪，这是什么物质？'
+    - '&7按理说不应该有这种产物的？'
+    - ''
+    - '&8未知 &f物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2ZkYWI0MDQzNGVkNWQwMWY1OGM0NWNhMGM5ZmFkYTQ2NjJlMTc3MmZmNDNlMjk3NDk3OTQ0MGE1Y2ZlMTVjOSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: DSQHJMNJ_TYPE
+
+#星域传说-----------------------------------------------------------------
+RSC_YUNQI_银河尘埃:
+  lateInit: false
+  item_group: yunqixycs
+  item:
+    name: '&#778899&l银河尘埃'
+    lore:
+    - '&#667788散布在星系间的微细尘埃粒子'
+    - '&#556677蕴含重组为恒星的基础元素'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWUyYjAzNGZlZDJjODcxZjc3YjQ3MjQyMWRhNmJlN2ZiYzgyZTFkMzQzNDhkZGNiMDE1MzgwNjFhMWZjM2JiNCJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: XYGZT_TYPE
+
+RSC_YUNQI_虚空零点:
+  lateInit: false
+  item_group: yunqixycs
+  item:
+    name: '&#1a1a2e&l虚空零点'
+    lore:
+    - '&#0f0f1f真空量子涨落的能量凝聚'
+    - '&#2a2a4a蕴含真空本身蕴含的无限潜能'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzk3NTQ4MGU1MGRhYzc0OTY4OTVkYzdjZTMxMzFjZTUxNjNhYjEwMGVlOWI0OWQ1ODZmMjZhY2RlOTk2YWRlMSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: XYGZT_TYPE
+
+RSC_YUNQI_星云萃取物:
+  lateInit: false
+  item_group: yunqixycs
+  item:
+    name: '&#00bfff&l星云萃取物'
+    lore:
+    - '&#00ced1从遥远星云中提纯的能量精华'
+    - '&#87ceeb蕴含恒星诞生时的原始能量'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTBiNWUwZWYzYTI2YjdkMjFlOWI4OWZlNjliZDM3NDQxNjU3ZWIyMzQ5ZTY0NjYzNzhhMTFiZTRhZjhiN2JiOCJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: XYNJYTJ_TYPE
+
+RSC_YUNQI_暗物质核心:
+  lateInit: false
+  item_group: yunqixycs
+  item:
+    name: '&#4b0082&l暗物质核心'
+    lore:
+    - '&#2e004a宇宙中看不见的神秘质量凝聚'
+    - '&#5b00a0它维系着星系的旋转曲线'
+    - '&#7b00d0占据宇宙物质总量的27%'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjhkMDVmZDRmYzZmZDFjYjMyY2NiYWJlODcwNDBhMjk2YjUxNDI3YjRmYTVjZTU3YmU1YjQxMWQ4NmUyMzRjOCJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: WZPZJ_TYPE
+
+RSC_YUNQI_反物质核心:
+  lateInit: false
+  item_group: yunqixycs
+  item:
+    name: '&#ff0000&l反物质核心'
+    lore:
+    - '&#8b0000与普通物质完全对立的终极存在'
+    - '&#ff4500接触普通物质会发生湮灭反应'
+    - '&#ff6347释放出难以估量的超级能量'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDk1Nzg0ZDUxOGY2MDFkNjJkYjI4OWRmZGY5ZjgwNTk1ZDJmYWZjYTc2MDcxMmViOTI3OGFmZTM3ODQwODJkNyJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: WZPZJ_TYPE
+
+RSC_YUNQI_维度锚晶:
+  lateInit: false
+  item_group: yunqixycs
+  item:
+    name: '&#ff4500&l维度锚晶'
+    lore:
+    - '&#dc143c能够稳定空间维度的神奇结晶'
+    - '&#ff6347防止维度撕裂和空间坍缩'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmQxYzUyZDMzNTc4YjBhYWI5NTA3NGE4YjY1MjM4OTFlNjZhNWEyNzI5YjVlOTA0NzE1MmM5MzNhNjJlODFlNyJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: WDPSJ_TYPE
+
+RSC_YUNQI_PLAY_1:
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&#ffd700&l★PLAY I★'
+    lore:
+    - '&#ffa500更高级的意识体'
+    - '&#ffd700可以自由穿梭于不同维度空间'
+    - ''
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzI4NzQ5YzVhYTBlMDNmYjg0NzIzMDU2NGFhNjFjMTQ1ZGI4MDA4MDQ5MTUyMjdjNTBjZWQ4Zjg2ZGZlN2IyZSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_1
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_2
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_3
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_4
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_5
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_6
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_7
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_8
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_9
+      amount: 1
+RSC_YUNQI_PLAY_2:
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&#ffd900&l★PLAY II★'
+    lore:
+    - '&#ffa500彻底恢复的意识形态'
+    - '&#ffd700可用于机器突破技术壁垒获取资源'
+    - ''
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzI4NzQ5YzVhYTBlMDNmYjg0NzIzMDU2NGFhNjFjMTQ1ZGI4MDA4MDQ5MTUyMjdjNTBjZWQ4Zjg2ZGZlN2IyZSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_1
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_2
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_3
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_4
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_PLAY_1
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_5
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_6
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_7
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_神秘物质_8
+      amount: 1
+#星域传说终极材料-----------------------------------------------------------------
+RSC_YUNQI_银河精华:
+  lateInit: false
+  item_group: yunqixycs
+  item:
+    name: '&#ffd700&l★银河精华★'
+    lore:
+    - '&#ffa500整个银河系能量的高度浓缩'
+    - '&#ffd700散发着璀璨的星河光芒'
+    - ''
+    - '&d&l星域&l&5传说 &f&l物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjBmMjE4NWM1MWI2ZDdjZWU3ZTE3MDQyZGUyZGRmOGE0NDg1NTJhZjdiNGFmMTgwNDk4NmZiZGQwOWU5YmMwOCJ9fX0=
+    amount: 2
+  placeable: false
+  recipe_type: SMELTERY 
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_维度锚晶
+      amount: 64
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_星云萃取物
+      amount: 64
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_维度锚晶
+      amount: 64
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_星云萃取物
+      amount: 64
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_星系合金
+      amount: 64
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_星云萃取物
+      amount: 64
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_维度锚晶
+      amount: 64
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_星云萃取物
+      amount: 64
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_维度锚晶
+      amount: 64
+
+    
+RSC_YUNQI_星系合金:
+  lateInit: false
+  item_group: yunqixycs
+  item:
+    name: '&#e8e8e8&l★星系合金★'
+    lore:
+    - '&#c0c0c0超越已知所有金属的终极合金'
+    - '&#a9a9a9可承受超新星爆发的高温高压'
+    - ''
+    - '&d&l星域&l&5传说 &f&l物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODg5MzcyYjYzZWE5MmUyOWQwM2MzNjJhNDZmY2ZjMjBkZDA1YWYzYTVlMjdjZDBkMWFiNDNkZjM3MWExNDIxNSJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: XYGZT_TYPE
+
+RSC_YUNQI_银河核心:
+  lateInit: false
+  item_group: yunqixycs
+  item:
+    name: '&#9932cc&l★银河核心★'
+    lore:
+    - '&#7b00d0银河系最中央的超大质量黑洞'
+    - '&#9932cc蕴含驱动整个星系的终极能量'
+    - ''
+    - '&d&l星域&l&5传说 &f&l物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWE2MmI5ZGU2YTI2Yjg2ODY5Y2EyMmVhNDBmMWJkZTgwYTA0MzBhNTQ1NDdiZWNjZThmZGE4NzA3Nzc3MjU4ZiJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: XYGZT_TYPE
+
+RSC_YUNQI_星穹徽章:
+  lateInit: false
+  item_group: yunqixycs
+  item:
+    name: '&#ffd700&l★星穹徽章★'
+    lore:
+    - '&#ffa500证明持有者已掌握星系级科技'
+    - '&#ffd700佩戴者可穿越星际空间自由旅行'
+    - ''
+    - '&d&l星域&l&5传说 &f&l物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGVkZDdmNzQwYWNmZDg4MTUwZTczZTMxYTE1ZTQ5NGRjYjczZmViOGZhN2MyMTMwYTg4NjBmZDViNjFmNDE5ZCJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: XYGZT_TYPE
+  script: 宇宙奇点
+
+RSC_YUNQI_宇宙奇点:
+  lateInit: false
+  item_group: yunqixycs
+  item:
+    name: '&#ff00ff&l★宇宙奇点★'
+    lore:
+    - '&#ff69b4超越时空维度的终极存在'
+    - '&#ff00ff能够创造和毁灭无数平行宇宙'
+    - ''
+    - '&d&l星域&l&5传说 &c&l最终物品'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmE0NGUyYjgzODhkZjU5M2E4NWY3ZDU0NDQ1Y2U3ODc5NmNlZTZiMGJjYjdhNTVhY2JkZDFjYmQ4ZjM1YWVmMiJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: YZQD_TYPE
+
+RSC_YUNQI_云梦神剑_1:
+  lateInit: false 
+  item_group: yunqicswq
+  item:
+    name: '&c&l云&e&l梦&a&l神&b&l剑 &f&l- &5&lI'
+    lore:
+    - '&b&l行星级文明最基础的武器'
+    - '&f&l目前等级: &e&lI &f&l级'
+    - ''
+    - '&c&l云&e&l梦&a&l神&b&l剑'
+    material_type: saveditem
+    material: 传说武器/YMSJ_1
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_XIAN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_XIAN
+      amount: 1
+    5:
+      material_type: mc
+      material: DIAMOND_SWORD
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_XIAN
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_XIAN
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 1
+
+RSC_YUNQI_云梦神剑_2:
+  lateInit: false 
+  item_group: yunqicswq
+  item:
+    name: '&c&l云&e&l梦&a&l神&b&l剑 &f&l- &5&lII'
+    lore:
+    - '&b&l行星级文明中级武器'
+    - '&f&l目前等级: &e&lII &f&l级'
+    - ''
+    - '&c&l云&e&l梦&a&l神&b&l剑'
+    material_type: saveditem
+    material: 传说武器/YMSJ_2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_SHANG
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO_2
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_SHANG
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO_2
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_云梦神剑_1
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO_2
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_SHANG
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO_2
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_SHANG
+      amount: 1
+
+RSC_YUNQI_云梦神剑_3:
+  lateInit: false 
+  item_group: yunqicswq
+  item:
+    name: '&c&l云&e&l梦&a&l神&b&l剑 &f&l- &5&lIII'
+    lore:
+    - '&b&l行星级文明终极武器'
+    - '&f&l目前等级: &e&lIII &f&l级'
+    - ''
+    - '&c&l云&e&l梦&a&l神&b&l剑'
+    material_type: saveditem
+    material: 传说武器/YMSJ_3
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_XXHXHJ
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_XXHXHJ
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_XXHXHJ
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_XXHXHJ
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_云梦神剑_2
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_XXHXHJ
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_XXHXHJ
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_XXHXHJ
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_XXHXHJ
+      amount: 1
+
+RSC_YUNQI_云梦神剑_4: 
+  lateInit: false 
+  item_group: yunqicswq
+  item:
+    name: '&c&l云&e&l梦&a&l神&b&l剑 &f&l- &5&lIV'
+    lore:
+    - '&b&l恒星级文明初级武器'
+    - '&f&l目前等级: &e&lIV &f&l级'
+    - ''
+    - '&c&l云&e&l梦&a&l神&b&l剑'
+    material_type: saveditem
+    material: 传说武器/YMSJ_4
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_云梦神剑_3
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+
+RSC_YUNQI_云梦神剑_5:
+  lateInit: false
+  item_group: yunqicswq
+  item:
+    name: '&c&l云&e&l梦&a&l神&b&l剑 &f&l- &5&lV'
+    lore:
+    - '&b&l恒星级文明中级武器'
+    - '&f&l目前等级: &e&lV &f&l级'
+    - ''
+    - '&c&l云&e&l梦&a&l神&b&l剑'
+    material_type: saveditem
+    material: 传说武器/YMSJ_5
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_戴森球合金外壳
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_XXNLJJ
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_戴森球合金外壳
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_XXNLJJ
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_云梦神剑_4
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_XXNLJJ
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_戴森球合金外壳
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_XXNLJJ
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_戴森球合金外壳
+      amount: 1
+
+RSC_YUNQI_云梦神剑_6:
+  lateInit: false
+  item_group: yunqicswq
+  item:
+    name: '&c&l云&e&l梦&a&l神&b&l剑 &f&l- &5&lVI'
+    lore:
+    - '&b&l恒星级文明终极武器'
+    - '&f&l目前等级: &e&lVI &f&l级'
+    - ''
+    - '&c&l云&e&l梦&a&l神&b&l剑'
+    material_type: saveditem
+    material: 传说武器/YMSJ_6
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇暗物质
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇反物质
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇暗物质
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇反物质
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_云梦神剑_5
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇反物质
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇暗物质
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇反物质
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇暗物质
+      amount: 1
+
+RSC_YUNQI_云梦神剑_7:
+  lateInit: false
+  item_group: yunqicswq
+  item:
+    name: '&c&l云&e&l梦&a&l神&b&l剑 &f&l- &5&lVII'
+    lore:
+    - '&b&l星域级文明初级武器'
+    - '&f&l目前等级: &e&lVII &f&l级'
+    - ''
+    - '&c&l云&e&l梦&a&l神&b&l剑'
+    material_type: saveditem
+    material: 传说武器/YMSJ_7
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_星系合金
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_PLAY_2
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_星系合金
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_PLAY_2
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_云梦神剑_6
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_PLAY_2
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_星系合金
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_PLAY_2
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_星系合金
+      amount: 1
+
+RSC_YUNQI_云梦神剑_8:
+  lateInit: false
+  item_group: yunqicswq
+  item:
+    name: '&c&l云&e&l梦&a&l神&b&l剑 &f&l- &5&lVIII'
+    lore:
+    - '&b&l星域级文明中级武器'
+    - '&f&l目前等级: &e&lVIII &f&l级'
+    - ''
+    - '&c&l云&e&l梦&a&l神&b&l剑'
+    material_type: saveditem
+    material: 传说武器/YMSJ_8
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_银河精华
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_维度锚晶
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_银河精华
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_维度锚晶
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_云梦神剑_7
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_维度锚晶
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_银河精华
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_维度锚晶
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_银河精华
+      amount: 1
+
+RSC_YUNQI_云梦神剑_9:
+  lateInit: false
+  item_group: yunqicswq
+  item:
+    name: '&c&l云&e&l梦&a&l神&b&l剑 &f&l- &5&lIX'
+    lore:
+    - '&b&l星域级文明终级武器'
+    - '&f&l目前等级: &e&lIX &f&l级'
+    - ''
+    - '&c&l云&e&l梦&a&l神&b&l剑'
+    material_type: saveditem
+    material: 传说武器/YMSJ_9
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_宇宙奇点
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_宇宙奇点
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_宇宙奇点
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_宇宙奇点
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_云梦神剑_8
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_宇宙奇点
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_宇宙奇点
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_宇宙奇点
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_宇宙奇点
+      amount: 1
+
+
+
+
+
+
+
+
+
+RSC_YUNQI_陨灼穹星杖:
+  lateInit: false
+  item_group: yunqixwj
+  item:
+    name: '&6&l陨&f&l·&c&l灼穹&b&l星杖'
+    lore:
+    - '&e&l能控制陨石的强大法杖'
+    - '&f&l描述:'
+    - '&3&l右键使用后进入5秒吟唱阶段,吟唱期间无法移动'
+    - '&c&l吟唱完成后召唤陨石砸向地面造成6000点火焰伤害'
+    - ''
+    - '&c&l陨&e&l星&a&l灼&b&l穹&f&l星&a&l杖'
+    material_type: saveditem
+    material: 小玩具/YZQXZ
+    amount: 1
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  script: 陨灼穹星杖
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇暗物质
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_FIRE
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇反物质
+      amount: 1
+    4:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_FIRE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_恒星能量结晶体
+      amount: 1
+    6:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_FIRE
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇反物质
+      amount: 1
+    8:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_FIRE
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇暗物质
+      amount: 1
+
+RSC_YUNQI_寒繁星晶杖:
+  lateInit: false
+  item_group: yunqixwj
+  item:
+    name: '&b&l寒&f&l·&a&l繁星&9&l晶杖'
+    lore:
+    - '&b&l冰霜风暴!!!!'
+    - '&f&l描述:'
+    - '&b&l右键使用向四周释放冰晶,每颗冰晶造成5000点伤害'
+    - ''
+    - '&b&l寒&f&l·&a&l繁星&9&l晶杖'
+    material_type: saveditem
+    material: 小玩具/HFXJZ
+    amount: 1
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  script: 寒繁星晶杖
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇暗物质
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_WATER
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇反物质
+      amount: 1
+    4:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_WATER
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_恒星能量结晶体
+      amount: 1
+    6:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_WATER
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇反物质
+      amount: 1
+    8:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_WATER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇暗物质
+      amount: 1
+
+RSC_YUNQI_泯雷击灵杖:
+  lateInit: false
+  item_group: yunqixwj
+  item:
+    name: '&5&l泯&f&l·&9&l雷击灵杖'
+    lore:
+    - '&5&l泯灭!贯穿时空的雷霆！'
+    - '&f&l描述:'
+    - '&5&l右键往前方10格扇形区域释放雷霆,每道雷霆造成5000点伤害'
+    - ''
+    - '&5&l泯&f&l·&9&l雷击灵杖'
+    material_type: saveditem
+    material: 小玩具/MLJLZ
+    amount: 1
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  script: 泯雷击灵杖
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇暗物质
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_STORM
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇反物质
+      amount: 1
+    4:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_STORM
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_恒星能量结晶体
+      amount: 1
+    6:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_STORM
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇反物质
+      amount: 1
+    8:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_STORM
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_一小簇暗物质
+      amount: 1
+
+RSC_YUNQI_往生死灵魂杖:
+  lateInit: false
+  item_group: yunqixwj
+  item:
+    name: '&f&l往生·&7&l死灵&8&l魂杖'
+    lore:
+    - '&8&l送你往生!迷路的灵魂！！！'
+    - '&f&l描述:'
+    - '&8&l右键召唤死灵斩击对目标造成10000点伤害'
+    - '&8&lshift + 右键 向前方发出五道撕裂空间的能量斩,每道造成5000点伤害'
+    - ''
+    - '&f&l往生·&7&l死灵&8&l魂杖'
+    material_type: saveditem
+    material: 小玩具/WSSLHZ
+    amount: 1
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  script: 往生死灵魂杖
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_宇宙奇点
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_陨灼穹星杖
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_宇宙奇点
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_寒繁星晶杖
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_银河核心
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_泯雷击灵杖
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_宇宙奇点
+      amount: 1
+    8:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_WIND
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_宇宙奇点
+      amount: 1
+
+RSC_YUNQI_创世永恒神杖:
+  lateInit: false
+  item_group: yunqixwj
+  item:
+    name: '&c&l创&6&l世&e&l·&a&l永&b&l恒&9&l神&d&l杖'
+    lore:
+    - '&e&l创世神!永恒不灭!'
+    - '&f&l描述:'
+    - '&e&l右键 向前方释放一个黑洞,吸引周围10格内的实体,5秒后爆炸造成50000点伤害'
+    - '&c&lshift + 右键 向前释放一道毁灭射线,造成30000点伤害'
+    - '&b&l  双击右键    向前释放一个阴阳球,贯穿造成50000点伤害'
+    - ''
+    - '&6&l创世神力的附着物,拥有毁灭一切的力量!'
+    material_type: saveditem
+    material: 小玩具/CSYHSZ
+    amount: 1
+  recipe_type: "NULL"
+  script: 创世永恒神杖
+
+RSC_YUNQI_创文明之镐:
+  lateInit: false
+  item_group: yunqicsgj
+  item:
+    name: '&c&l创&6&l文&e&l明&a&l之&b&l镐'
+    lore:
+    - '&e&l用吧，一用一个不吱声'
+    - '&e&l拥有庞大的创造神力，可以翻倍产生物质'
+    material_type: saveditem
+    material: 传说工具/CWMZG
+    amount: 1
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  script: 创文明之镐
+  recipe:
+    1:
+      material_type: slimefun
+      material: INFINITY_PICKAXE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: INFINITY_PICKAXE
+      amount: 1
+    3:
+      material_type: slimefun
+      material: INFINITY_PICKAXE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+
+RSC_YUNQI_溯自然之斧:
+  lateInit: false
+  item_group: yunqicsgj
+  item:
+    name: '&c&l溯&6&l自&e&l然&a&l之&b&l斧'
+    lore:
+    - '&e&l创世神溯源自然的斧头'
+    - '&e&l拥有部分神力，万物触之即碎'
+    material_type: saveditem
+    material: 传说工具/SZRZF
+    amount: 1
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: INFINITY_AXE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: INFINITY_AXE
+      amount: 1
+    4:
+      material_type: slimefun
+      material: INFINITY_AXE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+
+RSC_YUNQI_逆时空之铲:
+  lateInit: false
+  item_group: yunqicsgj
+  item:
+    name: '&c&l逆&6&l时&e&l空&a&l之&b&l铲'
+    lore:
+    - '&e&l十分好用的铲子'
+    - '&e&l拥有星点神力'
+    material_type: saveditem
+    material: 传说工具/NSKZC
+    amount: 1
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: INFINITY_SHOVEL
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_XHBLHJ
+      amount: 1
+
+RSC_YUNQI_光粒打击坐标:
+  lateInit: false
+  item_group: yunqixwj
+  item:
+    name: '&e&l光粒打击坐标&c&l(一次性)'
+    lore:
+    - '&e&l仿制光粒打击'
+    - '&e&l右键 召唤创世神对坐标丢出光粒（伤害0-5000）'
+    - '&c&l一次性物品'
+    material_type: saveditem
+    material: 小玩具/GLDJZB
+    amount: 1
+  recipe_type: "NULL"
+  script: 光粒打击坐标
+
+RSC_YUNQI_黑洞:
+  lateInit: false
+  item_group: yunqixwj
+  item:
+    name: '&7&l黑洞(一次性)'
+    lore:
+    - '&e&l仿制黑洞'
+    - '&e&l右键 吸引周围10格内的实体'
+    - '&e&l一次性物品'
+    material_type: saveditem
+    material: 小玩具/HD
+    amount: 1
+  recipe_type: "NULL"
+  script: 黑洞

@@ -1,0 +1,972 @@
+RSC_YUNQI_SL_CQY:
+  lateInit: false
+  item_group: yunqixxgy
+  item:
+    name: '&8&l熵流萃取仪'
+    lore:
+    - '&7&l高阶文明突破热力学第二定律的标志性设备，机身由强互凝晶与超导铁构建'
+    - '&7&l顶部十二面体棱镜负责聚焦熵流，核心嵌有熵感芯片。'
+    - '&7&l运转时散发灰黑色混沌微光，伴随时空轻微震颤'
+    - '&7&l可将分散的无序能量聚合为稳定熵能，启动需引力核心提供初始锚定能量，避免熵流反噬设备。'
+    - ''
+    - '&9&l行星&3&l工艺 &f机器'
+    - '&8⇨ &e⚡&7 40000 J 可存储'
+    - '&8⇨ &e⚡&7 20000 J/s'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTZlYjA4OWJjMTZiY2NlNGYyYmJkMWQ1MDM4M2NmMjQ1YjM3ZGY5NDA1ODI1MDBlNzRmYjhiMTdhMzM2ZGIwNSJ9fX0=
+  speed: 1
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_CDT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_XGSEMT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_CDT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_SNYS
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_YLHX
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_SNYS
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_CDT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_XGSEMT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_CDT
+      amount: 1
+  capacity: 400000
+  energyPerCraft: 100000
+  recipes:
+    '熵': #第几种产物
+      seconds: 1
+      input: #输入
+        1:
+          material_type: slimefun
+          material: COMPRESSED_COBBLESTONE_4
+          amount: 1
+        2:
+          material_type: slimefun
+          material: RSC_YUNQI_YLHX
+          noConsume: true
+      output: #输出
+        1:
+          chance: 25
+          material_type: slimefun
+          material: RSC_YUNQI_SHANG
+    '混沌碎屑':
+      seconds: 10
+      input:
+        1: 
+          material_type: slimefun
+          material: RSC_YUNQI_SBWZ
+          amount: 1
+      output:
+        1: 
+          material_type: slimefun
+          material: RSC_YUNQI_HDSX
+  input: [20,31] 
+  output: [24]
+
+RSC_YUNQI_JCLZNJQ: #基础粒子凝聚器
+  lateInit: false
+  item_group: yunqixxgy
+  item:
+    name: '&3&l基础粒子凝聚器'
+    lore:
+    - '&e可用于凝聚基础粒子，'
+    - ''
+    - '&9&l行星&3&l工艺 &f机器'
+    - '&8⇨ &e⚡&7 10000 J 可存储'
+    - '&8⇨ &e⚡&7  5000 J/s'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM0MDNhYzdmMGNmMGM3NDliZDhjZmE4MDY0MDYwYmRhYjI0MmEzNjAyY2ZkNDRhNTFjM2VhMGJkZmVkNTVhMSJ9fX0=
+  speed: 1
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: slimefun
+      material: QUIRP_UP
+      amount: 64
+    2:
+      material_type: slimefun
+      material: QUIRPCONDENSATE
+      amount: 16
+    3:
+      material_type: slimefun
+      material: QUIRP_DOWN
+      amount: 64
+    4:
+      material_type: slimefun
+      material: QUIRPCONDENSATE
+      amount: 16
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_YLHX
+      amount: 1
+    6:
+      material_type: slimefun
+      material: QUIRPCONDENSATE
+      amount: 16
+    7:
+      material_type: slimefun
+      material: QUIRP_LEFT
+      amount: 64
+    8:
+      material_type: slimefun
+      material: QUIRPCONDENSATE
+      amount: 16
+    9:
+      material_type: slimefun
+      material: QUIRP_RIGHT
+      amount: 64
+  capacity: 10000
+  energyPerCraft: 2500
+  recipes: 
+    '玻色子':
+      seconds: 60
+      input: 
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_YZ
+        2:
+          material_type: slimefun
+          material: RSC_YUNQI_FZ
+        3:
+          material_type: slimefun
+          material: RSC_YUNQI_LZ
+        4:
+          material_type: slimefun
+          material: RSC_YUNQI_DZ
+      output:
+        1:
+          chance: 50
+          material_type: slimefun
+          material: RSC_YUNQI_BSZ
+  input: [10,11,12,13]
+  output: [15,16]
+  
+RSC_YUNQI_GYRLRL: 
+  lateInit: false
+  item_group: yunqixxgy
+  item:
+    name: '&7&l高压熔炼熔炉'
+    lore:
+    - '&7&l利用引力核心高压高温煅烧金属，产生硬度极高，可塑性极强的合金锭'
+    - ''
+    - '&9&l行星&3&l工艺 &f机器'
+    - '&8⇨ &e⚡&7 100000 J 可存储'
+    - '&8⇨ &e⚡&7 10240 J/s'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODI5NmYwOTI1MjRhZTljMmEyZTg3ODgxY2I0MTVhZGIzNThkNmNiNzczYzg1ZGM5NzIwMmZlZmI3NTRjMSJ9fX0=
+  speed: 1
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_CDXQ
+      amount: 1
+    2:
+      material_type: mc
+      material: BLAST_FURNACE
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_CDXQ
+      amount: 1
+    4:
+      material_type: mc
+      material: BLAST_FURNACE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_YLHX
+      amount: 1
+    6:
+      material_type: mc
+      material: BLAST_FURNACE
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_CDXQ
+      amount: 1
+    8:
+      material_type: mc
+      material: BLAST_FURNACE
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_CDXQ
+      amount: 1
+  capacity: 10000
+  energyPerCraft: 5120
+  recipes:
+    '行星核心合金':
+      seconds: 60
+      input:
+        1:
+          material_type: slimefun
+          material: REINFORCED_ALLOY_INGOT
+          amount: 32
+        2:
+          material_type: slimefun
+          material: STEEL_PLATE
+          amount: 16
+        3:
+          material_type: slimefun
+          material: MACHINE_PLATE
+          amount: 4
+        4:
+          material_type: mc
+          material: CRYING_OBSIDIAN
+          amount: 16
+        5:
+          material_type: slimefun
+          material: SILICON
+          amount: 64
+        6:
+          material_type: slimefun
+          material: RSC_YUNQI_DXYJ
+          amount: 1
+      output:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_XXHXHJ
+          amount: 1
+  input: [11,12,13,20,21,22,29,30,31] 
+  output: [25]
+  
+RSC_YUNQI_QTRLRSS: #气态燃料燃烧室 
+  lateInit: false
+  item_group: yunqixxgy
+  item:
+    name: '&b&l汽&f&l态&b&l燃&f&l料&b&l燃&f&l烧&b&l室'
+    lore:
+    - '&b各种气体的燃烧空间，可以制作气体燃料，燃烧效率很高'
+    - ''
+    - '&9&l行星&3&l工艺 &f机器'
+    - '&8⇨ &e⚡&7 60000 J 可存储'
+    - '&8⇨ &e⚡&7 30000 J/s'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmNjYmMyYmI0N2RmNjQ1MmU5ZDgyNjNiMTM1ZTBkMjY3OTgzMzQzOTk1ZTBjNGZjY2NjMTJhZGU3MzM5ODVhMiJ9fX0=
+  speed: 1
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_DXYJ
+      amount: 1
+    2:
+      material_type: mc
+      material: FURNACE
+      amount: 64
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_DXYJ
+      amount: 1
+    4:
+      material_type: mc
+      material: FURNACE
+      amount: 64
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 1
+    6:
+      material_type: mc
+      material: FURNACE
+      amount: 64
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_DXYJ
+      amount: 1
+    8:
+      material_type: mc
+      material: FURNACE
+      amount: 64
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_DXYJ
+      amount: 1
+  capacity: 60000
+  energyPerCraft: 15000
+  recipes:
+    '聚变燃晶':
+      seconds: 60
+      input:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_QINGQI
+          amount: 64
+        2:
+          material_type: slimefun
+          material: RSC_YUNQI_DANQI
+          amount: 64
+        3:
+          material_type: slimefun
+          material: RSC_YUNQI_YANGQI
+          amount: 64
+        4:
+          material_type: mc
+          material: TNT
+          amount: 64
+        5:
+          material_type: slimefun
+          material: RSC_YUNQI_XYQTJHT
+          amount: 16
+      output:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_JBRJ
+          amount: 1
+    '裂变燃晶':
+      seconds: 60
+      input:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_QINGQI
+          amount: 64
+        2:
+          material_type: slimefun
+          material: RSC_YUNQI_DANQI
+          amount: 64
+        3:
+          material_type: slimefun
+          material: RSC_YUNQI_YANGQI
+          amount: 64
+        4:
+          material_type: slimefun
+          material: BOOSTED_URANIUM
+          amount: 64
+        5:
+          material_type: slimefun
+          material: RSC_YUNQI_XYQTJHT
+          amount: 16
+      output:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_LBRJ
+          amount: 1
+  input: [11,12,13,20,21,22,29,30,31] 
+  output: [25]
+  
+RSC_YUNQI_ZJYTJ: #足金一体机 
+  lateInit: false
+  item_group: yunqixxgy
+  item:
+    name: '&6&l足金一体机'
+    lore:
+    - '&6&l一体化生产所有金~克~拉~'
+    - '&6&l两组可产一亩八~'
+    - '&6&l都这么方便了有些损耗也能接受对吧awa'
+    - ''
+    - '&9&l行星&3&l工艺 &f机器'
+    - '&8⇨ &e⚡&7 5000 J 可存储'
+    - '&8⇨ &e⚡&7 2500 J/s'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjc1MDVjYjQ1YTBkZmM0ZWMwYjc0MWFkYmNlNmI1MDU2ZWQ1MWFiYTYzZmVhOWIyZDY2ZDc1OGNhYzBmMjQxMiJ9fX0=
+  speed: 1
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 1
+    2:
+      material_type: slimefun
+      material: GOLD_24K
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 1
+    4:
+      material_type: slimefun
+      material: GOLD_24K
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_YLHX
+      amount: 1
+    6:
+      material_type: slimefun
+      material: GOLD_24K
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 1
+    8:
+      material_type: slimefun
+      material: GOLD_24K
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 1
+  capacity: 5000
+  energyPerCraft: 1250
+  recipes:
+    '足金':
+      seconds: 5
+      input:
+        1:
+          material_type: slimefun
+          material: GOLD_DUST
+          amount: 64
+      output:
+        1:
+          material_type: slimefun
+          material: GOLD_4K
+          amount: 1
+        2:
+          material_type: slimefun
+          material: GOLD_6K
+          amount: 1
+        3:
+          material_type: slimefun
+          material: GOLD_8K
+          amount: 1
+        4:
+          material_type: slimefun
+          material: GOLD_10K
+          amount: 1
+        5:
+          material_type: slimefun
+          material: GOLD_12K
+          amount: 1
+        6:
+          material_type: slimefun
+          material: GOLD_14K
+          amount: 1
+        7:
+          material_type: slimefun
+          material: GOLD_16K
+          amount: 1
+        8:
+          material_type: slimefun
+          material: GOLD_18K
+          amount: 1
+        9:
+          material_type: slimefun
+          material: GOLD_20K
+          amount: 1
+        10:
+          material_type: slimefun
+          material: GOLD_22K
+          amount: 1
+        11:
+          material_type: slimefun
+          material: GOLD_24K
+          amount: 1 
+  input: [19]
+  output: [13,14,15,16,17,22,23,24,25,26,31,32,33,34,35]
+  
+RSC_YUNQI_DSQJGZPT:  
+  lateInit: false
+  item_group: yunqihxny
+  item:
+    name: '&3&l戴森球结构装配台'
+    lore:
+    - '&e用于制作戴森球的各个组成部分'
+    - ''
+    - '&c&l恒星&e&l能源 &f机器'
+    - '&8⇨ &e⚡&7 100000 J 可存储'
+    - '&8⇨ &e⚡&7 50000 J/s'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmI1Y2JhYTJlMTVlN2FhZGE1MGEzMmYxOTkzYzczMGEwMDlmNGUxOWM3OGQ3Y2JmYzBkYzdjN2YxZTNhOWE2ZSJ9fX0=
+  speed: 1
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_CDT
+      amount: 16
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 16
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_CDT
+      amount: 16
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 16
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_YLHX
+      amount: 64
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 16
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_CDT
+      amount: 16
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO
+      amount: 16
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_CDT
+      amount: 16
+  capacity: 100000
+  energyPerCraft: 25000
+  recipes:
+    '戴森球控制核心':
+      seconds: 300
+      input:
+        1:
+          material_type: slimefun
+          material: NTW_PRISTINE_AI_CORE
+          amount: 1
+        2:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        3:
+          material_type: slimefun
+          material: NTW_PRISTINE_AI_CORE
+          amount: 1
+        4:      
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        5:          
+          material_type: slimefun
+          material: RSC_YUNQI_DKYIO_2
+          amount: 1
+        6:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        7:
+          material_type: slimefun
+          material: NTW_PRISTINE_AI_CORE
+          amount: 1
+        8:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        9:
+          material_type: slimefun
+          material: NTW_PRISTINE_AI_CORE
+          amount: 1            
+      output:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_戴森球控制核心
+          amount: 1
+    '戴森球合金外壳':
+      seconds: 120
+      input:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        2:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        3:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        4:      
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        5:          
+          material_type: slimefun
+          material: RSC_YUNQI_XXNLJJ
+          amount: 1
+        6:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        7:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        8:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        9:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1            
+      output:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_戴森球合金外壳
+          amount: 1
+    '戴森球引力平衡模块':
+      seconds: 300
+      input:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        2:
+          material_type: slimefun
+          material: RSC_YUNQI_XXNLJJ
+          amount: 1
+        3:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        4:      
+          material_type: slimefun
+          material: RSC_YUNQI_XXNLJJ
+          amount: 1
+        5:          
+          material_type: slimefun
+          material: RSC_YUNQI_DKYIO_2
+          amount: 1
+        6:
+          material_type: slimefun
+          material: RSC_YUNQI_XXNLJJ
+          amount: 1
+        7:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        8:
+          material_type: slimefun
+          material: RSC_YUNQI_XXNLJJ
+          amount: 1
+        9:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1            
+      output:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_戴森球引力平衡模块
+          amount: 1
+    '戴森球能量收集板':
+      seconds: 300
+      input:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_彭罗斯能量板块
+          amount: 1
+        2:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        3:
+          material_type: slimefun
+          material: RSC_YUNQI_彭罗斯能量板块
+          amount: 1
+        4:      
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        5:          
+          material_type: slimefun
+          material: RSC_YUNQI_NYSJ
+          amount: 64
+        6:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        7:
+          material_type: slimefun
+          material: RSC_YUNQI_彭罗斯能量板块
+          amount: 1
+        8:
+          material_type: slimefun
+          material: RSC_YUNQI_XHBLHJ
+          amount: 1
+        9:
+          material_type: slimefun
+          material: RSC_YUNQI_彭罗斯能量板块
+          amount: 1            
+      output:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_戴森球能量收集板
+          amount: 1
+    '模拟戴森球':
+      seconds: 1200
+      input:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_戴森球合金外壳
+          amount: 64
+        2:
+          material_type: slimefun
+          material: RSC_YUNQI_戴森球引力平衡模块
+          amount: 64
+        3:
+          material_type: slimefun
+          material: RSC_YUNQI_戴森球合金外壳
+          amount: 64
+        4:      
+          material_type: slimefun
+          material: RSC_YUNQI_戴森球能量收集板
+          amount: 64
+        5:          
+          material_type: slimefun
+          material: RSC_YUNQI_戴森球控制核心
+          amount: 64
+        6:
+          material_type: slimefun
+          material: RSC_YUNQI_戴森球能量收集板
+          amount: 64
+        7:
+          material_type: slimefun
+          material: RSC_YUNQI_戴森球合金外壳
+          amount: 64
+        8:
+          material_type: slimefun
+          material: RSC_YUNQI_戴森球引力平衡模块
+          amount: 64
+        9:
+          material_type: slimefun
+          material: RSC_YUNQI_戴森球合金外壳
+          amount: 64           
+      output:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_模拟戴森球
+          amount: 1
+  input: [11,12,13,20,21,22,29,30,31] 
+  output: [25]
+  
+RSC_YUNQI_DSQHJMNJ: #戴森球环境模拟机 
+  lateInit: false
+  item_group: yunqihxny
+  item:
+    name: '&d&l戴森球环境模拟机'
+    lore:
+    - '&f能模拟出戴森球的运行环境，放入模拟戴森球即可产出'
+    - '&c模拟戴森球不消耗'
+    - ''
+    - '&c&l恒星&e&l能源 &f机器'
+    - '&8⇨ &e⚡&7 10000000 J 可存储'
+    - '&8⇨ &e⚡&7 5000000 J/s'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2JhMzRhNTNkN2MxZTU0ZGViNzllMDc5OTg5NDM1Nzg4YWIwOGJhMzdmZGE2ZWY4MjFmOGFkNTIzNjFjNGI0ZSJ9fX0=
+  speed: 1
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_XXNLJJ
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_XXNLJJ
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_XXNLJJ
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_XXNLJJ
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_DKYIO_2
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_XXNLJJ
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_XXNLJJ
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_XXNLJJ
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_XXNLJJ
+      amount: 1
+  capacity: 10000000
+  energyPerCraft: 2500000
+  recipes:
+    '戴森球':
+      seconds: 60
+      input:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_模拟戴森球
+          amount: 1
+          noConsume: true
+      output:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_恒星离子团
+          amount: 3
+          chance: 10
+        2:
+          material_type: slimefun
+          material: RSC_YUNQI_恒星能量结晶体
+          amount: 1
+          chance: 50
+        3:
+          material_type: slimefun
+          material: RSC_YUNQI_一小簇暗物质
+          amount: 1
+          chance: 1
+        4:
+          material_type: slimefun
+          material: RSC_YUNQI_一小簇反物质
+          amount: 1
+          chance: 1
+        5:
+          material_type: slimefun
+          material: RSC_YUNQI_恒星元素尘埃
+          amount: 1
+          chance: 20
+        6:
+          material_type: slimefun
+          material: RSC_YUNQI_神秘物质_1
+          amount: 1
+          chance: 80
+        7:
+          material_type: slimefun
+          material: RSC_YUNQI_神秘物质_2
+          amount: 1
+          chance: 80
+        8:
+          material_type: slimefun
+          material: RSC_YUNQI_神秘物质_3
+          amount: 1
+          chance: 80
+        9:
+          material_type: slimefun
+          material: RSC_YUNQI_神秘物质_4
+          amount: 1
+          chance: 80
+        10:
+          material_type: slimefun
+          material: RSC_YUNQI_神秘物质_5
+          amount: 1
+          chance: 80
+        11:
+          material_type: slimefun
+          material: RSC_YUNQI_神秘物质_6
+          amount: 1
+          chance: 80
+        12:
+          material_type: slimefun
+          material: RSC_YUNQI_神秘物质_7
+          amount: 1
+          chance: 80
+        13:
+          material_type: slimefun
+          material: RSC_YUNQI_神秘物质_8
+          amount: 1
+          chance: 80
+        14:
+          material_type: slimefun
+          material: RSC_YUNQI_神秘物质_9
+          amount: 1
+          chance: 80
+  input: [1,2,3,4,5,6,7,8]
+  output: [19,20,21,22,23,24,25,26,28,29,30,31,32,33,34,35,37,38,39,40,41,42,43,44]
+ 
+RSC_YUNQI_维度破碎机:
+  lateInit: false
+  item_group: yunqixycs
+  item:
+    name: '&d&l维度破碎机'
+    lore:
+    - '&7&l能够破碎物质维度，提取维度碎片'
+    - '&7&l将暗物质与反物质对撞可产生维度锚晶'
+    - ''
+    - '&d&l星域&l&5传说 &f机器'
+    - '&8⇨ &e⚡&7 500000 J 可存储'
+    - '&8⇨ &e⚡&7 150000 J/s'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGE2OTM4ZjcwZTQ5ZjVhMmZmNTllNWJkZmJiZTQyMzY5MDJiZDkxYzNmNWJhY2EwMTAxODAxZjJlNGE5ODU2MCJ9fX0=
+  speed: 1
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_星云萃取物
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_虚空零点
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_星云萃取物
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_虚空零点
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_PLAY_2
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_虚空零点
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_星云萃取物
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_虚空零点
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_星云萃取物
+      amount: 1
+  capacity: 500000
+  energyPerCraft: 75000
+  recipes:
+    '维度锚晶':
+      seconds: 600
+      input:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_暗物质核心
+          amount: 1
+        2:
+          material_type: slimefun
+          material: RSC_YUNQI_反物质核心
+          amount: 1
+      output:
+        1:
+          material_type: slimefun
+          material: RSC_YUNQI_维度锚晶
+          amount: 1
+  input: [10,11,12,13]
+  output: [15,16]
