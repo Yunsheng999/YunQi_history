@@ -101,16 +101,19 @@ RSC_YUNQI_占位符9:
     material: LIGHT_GRAY_STAINED_GLASS_PANE
     amount: 1
   recipe_type: 'NULL'
-RSC_YUNQI_占位符测试参与者:
+
+RSC_YUNQI_测试参与者x1aochen:
   lateInit: false
   item_group: yunqicscyz
   item:
-    name: '&c这是占位符，表示这里会有东西 '
-    lore: []
-    material_type: mc
-    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&cx1aochen '
+    lore: 
+    - '&c&l感谢x1aochen对本附属进行游玩测试'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNlNjZjMWIxOTRkMGQxNTBiYzRmNWZiYWQ1YWQ2YjgzOTA3NTgxOTI0ODQ4ODRjODYzZGE5M2VhMmZmZDA0MyJ9fX0=
     amount: 1
   recipe_type: 'NULL'
+
 RSC_YUNQI_占位符11:
   lateInit: false
   item_group: yunqihistory_11
@@ -135,16 +138,21 @@ RSC_YUNQI_贡献者Ci_qian:
   placeable: false
   recipe_type: 'NULL'
 
-RSC_YUNQI_占位符贡献服务器:
+RSC_YUNQI_贡献服务器小丑众:
   lateInit: false
   item_group: yunqigxfwq
   item:
-    name: ' &c这是占位符，表示这里会有东西'
-    lore: []
-    material_type: mc
-    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: ' &c&l小丑众'
+    lore: 
+    - '&c&l小丑众'
+    - '&c&l感谢小丑众公益服务器对本附属进行测试检验'
+    - '&c&l感谢小丑众腐竹DkYio'
+    - '&c&l小丑众群号: 1071762154 欢迎Welcome'
+    material_type: skull_hash
+    material: 
     amount: 1
   recipe_type: 'NULL'
+
 RSC_YUNQI_占位符15:
   lateInit: false
   item_group: yunqihistory_15
@@ -179,7 +187,7 @@ RSC_YUNQI_占位符终极资源:
   lateInit: false
   item_group: yunqizjzy
   item:
-    name: ' &c这是占位符，表示这里会有东西'
+    name: ' &c&l终极资源敬请期待'
     lore: []
     material_type: mc
     material: LIGHT_GRAY_STAINED_GLASS_PANE
@@ -209,7 +217,7 @@ RSC_YUNQI_占位符星界之路:
   lateInit: false
   item_group: yunqixjzl
   item:
-    name: '&c这是占位符，表示这里会有东西 '
+    name: '&c&l星界之路敬请期待'
     lore: []
     material_type: mc
     material: LIGHT_GRAY_STAINED_GLASS_PANE
@@ -219,7 +227,7 @@ RSC_YUNQI_占位符迈向宇宙:
   lateInit: false
   item_group: yunqimxyz
   item:
-    name: '&c这是占位符，表示这里会有东西 '
+    name: '&c&l迈向宇宙敬请期待'
     lore: []
     material_type: mc
     material: LIGHT_GRAY_STAINED_GLASS_PANE
@@ -229,7 +237,7 @@ RSC_YUNQI_占位符终末之诗:
   lateInit: false
   item_group: yunqizmzs
   item:
-    name: ' &c这是占位符，表示这里会有东西'
+    name: ' &c&l终末之诗敬请期待'
     lore: []
     material_type: mc
     material: LIGHT_GRAY_STAINED_GLASS_PANE
@@ -239,7 +247,7 @@ RSC_YUNQI_占位符传说物品:
   lateInit: false
   item_group: yunqicswp
   item:
-    name: '&c这是占位符，表示这里会有东西 '
+    name: '&c&l传说物品敬请期待'
     lore: []
     material_type: mc
     material: LIGHT_GRAY_STAINED_GLASS_PANE
@@ -265,8 +273,8 @@ RSC_YUNQI_YSGG:
     lore:
     - '&e&l本附属为YS_0204独立开发的拓展类附属'
     - '&e&l感谢天才少女Ci_qian对本附属的直接技术支持'
-    - '&e&l目前是测试的第二阶段'
-    - '&e&l当前版本: &f&lAlpha 1.1'
+    - '&e&l更新了物品ID，修改成中文模式'
+    - '&e&l当前版本: &f&lrelease 1.1.1'
     - ''
     material_type: skull_hash
     material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ZmMzBlZjQ4MTRjMDI1MDcyMWY4NWU5MzRiYmE1ZjdhNTYxMWFhMDE2YzBiN2UzYWE2M2ZlZTY2OGI4NzdmMCJ9fX0=
@@ -292,13 +300,25 @@ RSC_YUNQI_MX_PLAY1:
   item:
     name: '&e&lPLAY1'
     lore:
-    - '&7&l为本RSC附属的开发提供资金支持'
-    - '&7&l 2026/1/25'
+    - '&7&l为本附属的开发提供资金支持'
     material_type: skull_hash
     material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzI4NzQ5YzVhYTBlMDNmYjg0NzIzMDU2NGFhNjFjMTQ1ZGI4MDA4MDQ5MTUyMjdjNTBjZWQ4Zjg2ZGZlN2IyZSJ9fX0=
     amount: 1
   placeable: false
   recipe_type: 'NULL'
+
+RSC_YUNQI_MX_Komu_A:
+  lateInit: false
+  item_group: yunqimx
+  item:
+    name: '&e&lKomu_A'
+    lore:
+    - '&c❤&7&l为本附属提供技术支持&c❤'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmEwNmI3ZWYzMGRiM2NkNmE4NjllMDE1ZTU5OTEzZTRkZmM5MjEyNjg4YzI4MWZhYjE4YjFmMjkzOGZjOWY0MiJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: "NULL"
 
 #基础材料————————————————————————————————————————————————
 RSC_YUNQI_DKYIO: #dkyio
@@ -322,7 +342,7 @@ RSC_YUNQI_DKYIO: #dkyio
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_ZZJS
+      material: RSC_YUNQI_智子晶石
       amount: 1
     3:
       material_type: slimefun
@@ -330,15 +350,15 @@ RSC_YUNQI_DKYIO: #dkyio
       amount: 1
     4:
       material_type: slimefun
-      material: RSC_YUNQI_ZZJS
+      material: RSC_YUNQI_智子晶石
       amount: 1      
     5:
       material_type: slimefun
-      material: RSC_YUNQI_QHNJ
+      material: RSC_YUNQI_强互凝晶
       amount: 1      
     6:
       material_type: slimefun
-      material: RSC_YUNQI_ZZJS
+      material: RSC_YUNQI_智子晶石
       amount: 1      
     7:
       material_type: slimefun
@@ -346,7 +366,7 @@ RSC_YUNQI_DKYIO: #dkyio
       amount: 1      
     8:
       material_type: slimefun
-      material: RSC_YUNQI_ZZJS
+      material: RSC_YUNQI_智子晶石
       amount: 1      
     9:
       material_type: slimefun
@@ -370,7 +390,7 @@ RSC_YUNQI_DKYIO_2: #dkyio
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
     2:
       material_type: slimefun
@@ -378,7 +398,7 @@ RSC_YUNQI_DKYIO_2: #dkyio
       amount: 1
     3:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
     4:
       material_type: slimefun
@@ -394,17 +414,17 @@ RSC_YUNQI_DKYIO_2: #dkyio
       amount: 1      
     7:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1      
     8:
       material_type: slimefun
-      material: RSC_YUNQI_SNYS
+      material: RSC_YUNQI_熵逆原石
       amount: 1      
     9:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1 
-RSC_YUNQI_SEMT: #十二面体
+RSC_YUNQI_十二面体: #十二面体
   lateInit: false
   item_group: yunqijccl
   item:
@@ -435,7 +455,7 @@ RSC_YUNQI_SEMT: #十二面体
       amount: 6
     5: 
       material_type: slimefun
-      material: RSC_YUNQI_ZZJS
+      material: RSC_YUNQI_智子晶石
       amount: 4
     6: 
       material_type: slimefun
@@ -454,7 +474,7 @@ RSC_YUNQI_SEMT: #十二面体
       material: GLASS
       amount: 12
  
-RSC_YUNQI_XGSEMT: #星轨十二面体
+RSC_YUNQI_星轨十二面体: #星轨十二面体
   lateInit: false
   item_group: yunqijccl
   item:
@@ -470,42 +490,42 @@ RSC_YUNQI_XGSEMT: #星轨十二面体
   recipe:
     1: 
       material_type: slimefun
-      material: RSC_YUNQI_SEMT
+      material: RSC_YUNQI_十二面体
       amount: 1
     2: 
       material_type: slimefun
-      material: RSC_YUNQI_XHKL
+      material: RSC_YUNQI_星辉颗粒
       amount: 1
     3: 
       material_type: slimefun
-      material: RSC_YUNQI_SEMT
+      material: RSC_YUNQI_十二面体
       amount: 1
     4: 
       material_type: slimefun
-      material: RSC_YUNQI_XHKL
+      material: RSC_YUNQI_星辉颗粒
       amount: 1
     5: 
       material_type: slimefun
-      material: RSC_YUNQI_QHNJ
+      material: RSC_YUNQI_强互凝晶
       amount: 1
     6: 
       material_type: slimefun
-      material: RSC_YUNQI_XHKL
+      material: RSC_YUNQI_星辉颗粒
       amount: 1
     7: 
       material_type: slimefun
-      material: RSC_YUNQI_SEMT
+      material: RSC_YUNQI_十二面体
       amount: 1
     8: 
       material_type: slimefun
-      material: RSC_YUNQI_XHKL
+      material: RSC_YUNQI_星辉颗粒
       amount: 1
     9: 
       material_type: slimefun
-      material: RSC_YUNQI_SEMT
+      material: RSC_YUNQI_十二面体
       amount: 1
       
-RSC_YUNQI_YLTJ: #引力透镜
+RSC_YUNQI_引力透镜: #引力透镜
   lateInit: false
   item_group: yunqijccl
   item:
@@ -521,19 +541,19 @@ RSC_YUNQI_YLTJ: #引力透镜
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_XGSEMT
+      material: RSC_YUNQI_星轨十二面体
       amount: 4
     2:
       material_type: slimefun
-      material: RSC_YUNQI_ZLHJ
+      material: RSC_YUNQI_重力合金
       amount: 1
     3:
       material_type: slimefun
-      material: RSC_YUNQI_XGSEMT
+      material: RSC_YUNQI_星轨十二面体
       amount: 4
     4:
       material_type: slimefun
-      material: RSC_YUNQI_ZLHJ
+      material: RSC_YUNQI_重力合金
       amount: 1
     5:
       material_type: slimefun
@@ -541,22 +561,22 @@ RSC_YUNQI_YLTJ: #引力透镜
       amount: 1
     6:
       material_type: slimefun
-      material: RSC_YUNQI_ZLHJ
+      material: RSC_YUNQI_重力合金
       amount: 1
     7:
       material_type: slimefun
-      material: RSC_YUNQI_XGSEMT
+      material: RSC_YUNQI_星轨十二面体
       amount: 4
     8:
       material_type: slimefun
-      material: RSC_YUNQI_ZLHJ
+      material: RSC_YUNQI_重力合金
       amount: 1  
     9:
       material_type: slimefun
-      material: RSC_YUNQI_XGSEMT
+      material: RSC_YUNQI_星轨十二面体
       amount: 4   
        
-RSC_YUNQI_YLHX: #引力核心
+RSC_YUNQI_引力核心: #引力核心
   lateInit: false
   item_group: yunqijccl
   item:
@@ -572,18 +592,18 @@ RSC_YUNQI_YLHX: #引力核心
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_ZLHJ
+      material: RSC_YUNQI_重力合金
       amount: 64
     2:
       material_type: slimefun
-      material: RSC_YUNQI_HYS
+      material: RSC_YUNQI_黑域石
       amount: 1
     3:
       material_type: slimefun
-      material: RSC_YUNQI_JLS
+      material: RSC_YUNQI_寂零石
       amount: 1
 
-RSC_YUNQI_XZSP: #弦之碎片
+RSC_YUNQI_弦之碎片: #弦之碎片
   lateInit: false
   item_group: yunqijccl
   item:
@@ -599,10 +619,10 @@ RSC_YUNQI_XZSP: #弦之碎片
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_XIAN
+      material: RSC_YUNQI_弦
       amount: 1
 
-RSC_YUNQI_CDT: #超导铁
+RSC_YUNQI_超导铁: #超导铁
   lateInit: false
   item_group: yunqijccl
   item:
@@ -618,22 +638,22 @@ RSC_YUNQI_CDT: #超导铁
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_XZSP
+      material: RSC_YUNQI_弦之碎片
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_ZLHJ
+      material: RSC_YUNQI_重力合金
       amount: 4  
     3:
       material_type: slimefun
-      material: RSC_YUNQI_DWTK
+      material: RSC_YUNQI_低维铁矿
       amount: 8      
     4:
      material_type: slimefun      
      material: REINFORCED_ALLOY_INGOT
      amount: 16     
 
-RSC_YUNQI_SBWZ: #衰败物质
+RSC_YUNQI_衰败物质: #衰败物质
   lateInit: false
   item_group: yunqijccl
   item:
@@ -687,7 +707,7 @@ RSC_YUNQI_SBWZ: #衰败物质
       material: BOOSTED_URANIUM
       amount: 4
 
-RSC_YUNQI_SBHX: #衰败核心
+RSC_YUNQI_衰败核心: #衰败核心
   lateInit: false
   item_group: yunqijccl
   item:
@@ -703,19 +723,19 @@ RSC_YUNQI_SBHX: #衰败核心
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_SBWZ
+      material: RSC_YUNQI_衰败物质
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_SBWZ
+      material: RSC_YUNQI_衰败物质
       amount: 1
     3:
       material_type: slimefun
-      material: RSC_YUNQI_SBWZ
+      material: RSC_YUNQI_衰败物质
       amount: 1 
     4:
       material_type: slimefun
-      material: RSC_YUNQI_SBWZ
+      material: RSC_YUNQI_衰败物质
       amount: 1
     5:
       material_type: slimefun
@@ -723,22 +743,22 @@ RSC_YUNQI_SBHX: #衰败核心
       amount: 1
     6:
       material_type: slimefun
-      material: RSC_YUNQI_SBWZ
+      material: RSC_YUNQI_衰败物质
       amount: 1
     7:
       material_type: slimefun
-      material: RSC_YUNQI_SBWZ
+      material: RSC_YUNQI_衰败物质
       amount: 1
     8:
       material_type: slimefun
-      material: RSC_YUNQI_SBWZ
+      material: RSC_YUNQI_衰败物质
       amount: 1
     9:
       material_type: slimefun
-      material: RSC_YUNQI_SBWZ
+      material: RSC_YUNQI_衰败物质
       amount: 1
 
-RSC_YUNQI_SNYS: #熵逆原石
+RSC_YUNQI_熵逆原石: #熵逆原石
   lateInit: false
   item_group: yunqijccl
   item:
@@ -754,7 +774,7 @@ RSC_YUNQI_SNYS: #熵逆原石
   recipe: 
     1:
       material_type: slimefun
-      material: RSC_YUNQI_HDSX
+      material: RSC_YUNQI_混沌碎屑
       amount: 1
     2:
       material_type: slimefun
@@ -762,7 +782,7 @@ RSC_YUNQI_SNYS: #熵逆原石
       amount: 1
     3:
       material_type: slimefun
-      material: RSC_YUNQI_HDSX
+      material: RSC_YUNQI_混沌碎屑
       amount: 1
     4:
       material_type: slimefun
@@ -770,7 +790,7 @@ RSC_YUNQI_SNYS: #熵逆原石
       amount: 1
     5:
       material_type: slimefun
-      material: RSC_YUNQI_SBHX
+      material: RSC_YUNQI_衰败核心
       amount: 1
     6:
       material_type: slimefun
@@ -778,7 +798,7 @@ RSC_YUNQI_SNYS: #熵逆原石
       amount: 1
     7:
       material_type: slimefun
-      material: RSC_YUNQI_SHANG
+      material: RSC_YUNQI_熵
       amount: 1
     8:
       material_type: slimefun
@@ -786,10 +806,10 @@ RSC_YUNQI_SNYS: #熵逆原石
       amount: 1
     9:
       material_type: slimefun
-      material: RSC_YUNQI_SHANG
+      material: RSC_YUNQI_熵
       amount: 1
  
-RSC_YUNQI_HDSX: #混沌碎屑
+RSC_YUNQI_混沌碎屑: #混沌碎屑
   lateInit: false
   item_group: yunqijccl
   item:
@@ -802,7 +822,7 @@ RSC_YUNQI_HDSX: #混沌碎屑
   placeable: false
   recipe_type: SLCQY_TYPE
 
-RSC_YUNQI_YZ: #原子
+RSC_YUNQI_原子: #原子
   lateInit: false
   item_group: yunqijccl
   item:
@@ -815,7 +835,7 @@ RSC_YUNQI_YZ: #原子
   placeable: false
   recipe_type: YCFZSJY_TYPE
 
-RSC_YUNQI_FZ: #分子
+RSC_YUNQI_分子: #分子
   lateInit: false
   item_group: yunqijccl
   item:
@@ -828,7 +848,7 @@ RSC_YUNQI_FZ: #分子
   placeable: false
   recipe_type: YCFZSJY_TYPE
 
-RSC_YUNQI_ZZ: #中子
+RSC_YUNQI_中子: #中子
   lateInit: false
   item_group: yunqijccl
   item:
@@ -841,7 +861,7 @@ RSC_YUNQI_ZZ: #中子
   placeable: false
   recipe_type: YCFZSJY_TYPE
 
-RSC_YUNQI_LZ: #离子
+RSC_YUNQI_离子: #离子
   lateInit: false
   item_group: yunqijccl
   item:
@@ -854,7 +874,7 @@ RSC_YUNQI_LZ: #离子
   placeable: false
   recipe_type: YCFZSJY_TYPE
   
-RSC_YUNQI_DZ: #电子
+RSC_YUNQI_电子: #电子
   lateInit: false
   item_group: yunqijccl
   item:
@@ -867,7 +887,7 @@ RSC_YUNQI_DZ: #电子
   placeable: false
   recipe_type: YCFZSJY_TYPE
 
-RSC_YUNQI_ZHIZI: #智子
+RSC_YUNQI_智子: #智子
   lateInit: false
   item_group: yunqijccl
   item:
@@ -881,7 +901,7 @@ RSC_YUNQI_ZHIZI: #智子
   placeable: false
   recipe_type: YCFZSJY_TYPE
 
-RSC_YUNQI_BSZ: #玻色子
+RSC_YUNQI_玻色子: #玻色子
   lateInit: false
   item_group: yunqijccl
   item:
@@ -895,7 +915,7 @@ RSC_YUNQI_BSZ: #玻色子
   placeable: false
   recipe_type: JCLZNJQ_TYPE
 
-RSC_YUNQI_TTSY: #通透石英
+RSC_YUNQI_通透石英: #通透石英
   lateInit: false
   item_group: yunqijccl
   item:
@@ -946,7 +966,7 @@ RSC_YUNQI_TTSY: #通透石英
       material: QUARTZ
       amount: 64
 
-RSC_YUNQI_DXYJ: #地心岩浆
+RSC_YUNQI_地心岩浆: #地心岩浆
   lateInit: false
   item_group: yunqijccl
   item:
@@ -961,7 +981,7 @@ RSC_YUNQI_DXYJ: #地心岩浆
   placeable: false
   recipe_type: DXZJJ_TYPE
 
-RSC_YUNQI_QINGQI: #氢气
+RSC_YUNQI_氢气: #氢气
   lateInit: false
   item_group: yunqijccl
   item:
@@ -976,7 +996,7 @@ RSC_YUNQI_QINGQI: #氢气
   placeable: false
   recipe_type: DQZYTQJ_TYPE
 
-RSC_YUNQI_YANGQI: #氢气
+RSC_YUNQI_氧气: #氢气
   lateInit: false
   item_group: yunqijccl
   item:
@@ -991,7 +1011,7 @@ RSC_YUNQI_YANGQI: #氢气
   placeable: false
   recipe_type: DQZYTQJ_TYPE
 
-RSC_YUNQI_DANQI: #氮气
+RSC_YUNQI_氮气: #氮气
   lateInit: false
   item_group: yunqijccl
   item:
@@ -1006,7 +1026,7 @@ RSC_YUNQI_DANQI: #氮气
   placeable: false
   recipe_type: DQZYTQJ_TYPE
   
-RSC_YUNQI_XYQTJHT: #稀有气体集合体
+RSC_YUNQI_稀有气体集合体: #稀有气体集合体
   lateInit: false
   item_group: yunqijccl
   item:
@@ -1020,7 +1040,7 @@ RSC_YUNQI_XYQTJHT: #稀有气体集合体
     amount: 1
   placeable: false
   recipe_type: DQZYTQJ_TYPE
-RSC_YUNQI_JBRJ: #聚变燃晶
+RSC_YUNQI_聚变燃晶: #聚变燃晶
   lateInit: false
   item_group: yunqixxgy
   item:
@@ -1035,7 +1055,7 @@ RSC_YUNQI_JBRJ: #聚变燃晶
   placeable: false
   recipe_type: QTRLRSS_TYPE
 
-RSC_YUNQI_LBRJ: #裂变燃晶
+RSC_YUNQI_裂变燃晶: #裂变燃晶
   lateInit: false
   item_group: yunqixxgy
   item:
@@ -1050,7 +1070,7 @@ RSC_YUNQI_LBRJ: #裂变燃晶
   placeable: false
   recipe_type: QTRLRSS_TYPE
   radiation: VERY_DEADLY
-RSC_YUNQI_FWZCG: #反物质储罐
+RSC_YUNQI_反物质储罐: #反物质储罐
   lateInit: false
   item_group: yunqijccl
   item:
@@ -1070,7 +1090,7 @@ RSC_YUNQI_FWZCG: #反物质储罐
       amount: 64
     2:
       material_type: slimefun
-      material: RSC_YUNQI_NYSJ
+      material: RSC_YUNQI_能元髓晶
       amount: 8
     3:
       material_type: mc
@@ -1078,7 +1098,7 @@ RSC_YUNQI_FWZCG: #反物质储罐
       amount: 64
     4:
       material_type: slimefun
-      material: RSC_YUNQI_NYSJ
+      material: RSC_YUNQI_能元髓晶
       amount: 8
     5:
       material_type: mc
@@ -1086,7 +1106,7 @@ RSC_YUNQI_FWZCG: #反物质储罐
       amount: 64
     6:
       material_type: slimefun
-      material: RSC_YUNQI_NYSJ
+      material: RSC_YUNQI_能元髓晶
       amount: 8
     7:
       material_type: mc
@@ -1094,14 +1114,14 @@ RSC_YUNQI_FWZCG: #反物质储罐
       amount: 64
     8:
       material_type: slimefun
-      material: RSC_YUNQI_NYSJ
+      material: RSC_YUNQI_能元髓晶
       amount: 8
     9:
       material_type: mc
       material: NETHER_STAR
       amount: 64
 
-RSC_YUNQI_FWZ: #反物质
+RSC_YUNQI_反物质: #反物质
   lateInit: false
   item_group: yunqijccl
   item:
@@ -1117,7 +1137,7 @@ RSC_YUNQI_FWZ: #反物质
   placeable: false
   recipe_type: "NULL"
   
-RSC_YUNQI_XXHXHJ: #行星核心合金
+RSC_YUNQI_行星核心合金: #行星核心合金
   lateInit: false
   item_group: yunqixxgy
   item:
@@ -1132,7 +1152,7 @@ RSC_YUNQI_XXHXHJ: #行星核心合金
   placeable: false
   recipe_type: GYRLRL_TYPE
 
-RSC_YUNQI_CDXQ: #超导线圈
+RSC_YUNQI_超导线圈: #超导线圈
   lateInit: false
   item_group: yunqixxgy
   item:
@@ -1153,7 +1173,7 @@ RSC_YUNQI_CDXQ: #超导线圈
       amount: 64
     2:
       material_type: slimefun
-      material: RSC_YUNQI_TTSY
+      material: RSC_YUNQI_通透石英
       amount: 8
     3:
       material_type: slimefun
@@ -1161,7 +1181,7 @@ RSC_YUNQI_CDXQ: #超导线圈
       amount: 64
     4:
       material_type: slimefun
-      material: RSC_YUNQI_TTSY
+      material: RSC_YUNQI_通透石英
       amount: 8
     5:
       material_type: slimefun
@@ -1169,7 +1189,7 @@ RSC_YUNQI_CDXQ: #超导线圈
       amount: 64
     6:
       material_type: slimefun
-      material: RSC_YUNQI_TTSY
+      material: RSC_YUNQI_通透石英
       amount: 8
     7:
       material_type: slimefun
@@ -1177,14 +1197,14 @@ RSC_YUNQI_CDXQ: #超导线圈
       amount: 64
     8:
       material_type: slimefun
-      material: RSC_YUNQI_TTSY
+      material: RSC_YUNQI_通透石英
       amount: 8
     9:
       material_type: slimefun
       material: COPPER_WIRE
       amount: 64
 
-RSC_YUNQI_SCQHX_1: #生成器核心I
+RSC_YUNQI_生成器核心1: #生成器核心I
   lateInit: false
   item_group: yunqijccl
   item:
@@ -1199,42 +1219,42 @@ RSC_YUNQI_SCQHX_1: #生成器核心I
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_ZLHJ
+      material: RSC_YUNQI_重力合金
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_HYS
+      material: RSC_YUNQI_黑域石
       amount: 1
     3:
       material_type: slimefun
-      material: RSC_YUNQI_YZHJ
+      material: RSC_YUNQI_宇宙灰烬
       amount: 1
     4:
       material_type: slimefun
-      material: RSC_YUNQI_DWTK
+      material: RSC_YUNQI_低维铁矿
       amount: 1
     5:
       material_type: slimefun
-      material: RSC_YUNQI_YJS
+      material: RSC_YUNQI_异界砂
       amount: 1
     6:
       material_type: slimefun
-      material: RSC_YUNQI_QHNJ
+      material: RSC_YUNQI_强互凝晶
       amount: 1
     7:
       material_type: slimefun
-      material: RSC_YUNQI_JLS
+      material: RSC_YUNQI_寂零石
       amount: 1
     8:
       material_type: slimefun
-      material: RSC_YUNQI_XIAN
+      material: RSC_YUNQI_弦
       amount: 1
     9:
       material_type: slimefun
-      material: RSC_YUNQI_XHKL
+      material: RSC_YUNQI_星辉颗粒
       amount: 1
 
-RSC_YUNQI_SCQHX_2: #生成器核心2
+RSC_YUNQI_生成器核心2: #生成器核心2
   lateInit: false
   item_group: yunqijccl
   item:
@@ -1249,42 +1269,42 @@ RSC_YUNQI_SCQHX_2: #生成器核心2
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_ZLHJ
+      material: RSC_YUNQI_重力合金
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_HYS
+      material: RSC_YUNQI_黑域石
       amount: 1
     3:
       material_type: slimefun
-      material: RSC_YUNQI_YZHJ
+      material: RSC_YUNQI_宇宙灰烬
       amount: 1
     4:
       material_type: slimefun
-      material: RSC_YUNQI_DWTK
+      material: RSC_YUNQI_低维铁矿
       amount: 1
     5:
       material_type: slimefun
-      material: RSC_YUNQI_SCQHX_1
+      material: RSC_YUNQI_生成器核心1
       amount: 1
     6:
       material_type: slimefun
-      material: RSC_YUNQI_QHNJ
+      material: RSC_YUNQI_强互凝晶
       amount: 1
     7:
       material_type: slimefun
-      material: RSC_YUNQI_JLS
+      material: RSC_YUNQI_寂零石
       amount: 1
     8:
       material_type: slimefun
-      material: RSC_YUNQI_XIAN
+      material: RSC_YUNQI_弦
       amount: 1
     9:
       material_type: slimefun
-      material: RSC_YUNQI_XHKL
+      material: RSC_YUNQI_星辉颗粒
       amount: 1
 
-RSC_YUNQI_SCQHX_3: #生成器核心3
+RSC_YUNQI_生成器核心3: #生成器核心3
   lateInit: false
   item_group: yunqijccl
   item:
@@ -1299,42 +1319,42 @@ RSC_YUNQI_SCQHX_3: #生成器核心3
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_ZLHJ
+      material: RSC_YUNQI_重力合金
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_HYS
+      material: RSC_YUNQI_黑域石
       amount: 1
     3:
       material_type: slimefun
-      material: RSC_YUNQI_YZHJ
+      material: RSC_YUNQI_宇宙灰烬
       amount: 1
     4:
       material_type: slimefun
-      material: RSC_YUNQI_DWTK
+      material: RSC_YUNQI_低维铁矿
       amount: 1
     5:
       material_type: slimefun
-      material: RSC_YUNQI_SCQHX_2
+      material: RSC_YUNQI_生成器核心2
       amount: 1
     6:
       material_type: slimefun
-      material: RSC_YUNQI_QHNJ
+      material: RSC_YUNQI_强互凝晶
       amount: 1
     7:
       material_type: slimefun
-      material: RSC_YUNQI_JLS
+      material: RSC_YUNQI_寂零石
       amount: 1
     8:
       material_type: slimefun
-      material: RSC_YUNQI_XIAN
+      material: RSC_YUNQI_弦
       amount: 1
     9:
       material_type: slimefun
-      material: RSC_YUNQI_XHKL
+      material: RSC_YUNQI_星辉颗粒
       amount: 1
       
-RSC_YUNQI_XHBLHJ: #星核壁垒合金
+RSC_YUNQI_星核壁垒合金: #星核壁垒合金
   lateInit: false
   item_group: yunqixxgy
   item:
@@ -1355,42 +1375,42 @@ RSC_YUNQI_XHBLHJ: #星核壁垒合金
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_BSZ
+      material: RSC_YUNQI_玻色子
       amount: 64
     2:
       material_type: slimefun
-      material: RSC_YUNQI_LBRJ
+      material: RSC_YUNQI_裂变燃晶
       amount: 64
     3:
       material_type: slimefun
-      material: RSC_YUNQI_BSZ
+      material: RSC_YUNQI_玻色子
       amount: 64
     4:
       material_type: slimefun
-      material: RSC_YUNQI_JBRJ
+      material: RSC_YUNQI_聚变燃晶
       amount: 64
     5:
       material_type: slimefun
-      material: RSC_YUNQI_XXHXHJ
+      material: RSC_YUNQI_行星核心合金
       amount: 32
     6:
       material_type: slimefun
-      material: RSC_YUNQI_JBRJ
+      material: RSC_YUNQI_聚变燃晶
       amount: 64
     7:
       material_type: slimefun
-      material: RSC_YUNQI_BSZ
+      material: RSC_YUNQI_玻色子
       amount: 64
     8:
       material_type: slimefun
-      material: RSC_YUNQI_LBRJ
+      material: RSC_YUNQI_裂变燃晶
       amount: 64 
     9:
       material_type: slimefun
-      material: RSC_YUNQI_BSZ
+      material: RSC_YUNQI_玻色子
       amount: 64
 
-RSC_YUNQI_XXNLJJ: #行星能量结晶
+RSC_YUNQI_行星能量结晶: #行星能量结晶
   lateInit: false
   item_group: yunqijccl
   item:
@@ -1405,19 +1425,19 @@ RSC_YUNQI_XXNLJJ: #行星能量结晶
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_NYSJ
+      material: RSC_YUNQI_能元髓晶
       amount: 64
     2:
       material_type: slimefun
-      material: RSC_YUNQI_JLS
+      material: RSC_YUNQI_寂零石
       amount: 64
     3:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 8
     4:
       material_type: slimefun
-      material: RSC_YUNQI_SBWZ
+      material: RSC_YUNQI_衰败物质
       amount: 64
       
 RSC_YUNQI_彭罗斯能量板块: #彭罗斯能量板块
@@ -1435,7 +1455,7 @@ RSC_YUNQI_彭罗斯能量板块: #彭罗斯能量板块
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_TTSY
+      material: RSC_YUNQI_通透石英
       amount: 64
     2:
       material_type: slimefun
@@ -1443,7 +1463,7 @@ RSC_YUNQI_彭罗斯能量板块: #彭罗斯能量板块
       amount: 64
     3:
       material_type: slimefun
-      material: RSC_YUNQI_TTSY
+      material: RSC_YUNQI_通透石英
       amount: 64
     4:
       material_type: slimefun
@@ -1459,7 +1479,7 @@ RSC_YUNQI_彭罗斯能量板块: #彭罗斯能量板块
       amount: 64
     7:
       material_type: slimefun
-      material: RSC_YUNQI_TTSY
+      material: RSC_YUNQI_通透石英
       amount: 64
     8:
       material_type: slimefun
@@ -1467,7 +1487,7 @@ RSC_YUNQI_彭罗斯能量板块: #彭罗斯能量板块
       amount: 64
     9:
       material_type: slimefun
-      material: RSC_YUNQI_TTSY
+      material: RSC_YUNQI_通透石英
       amount: 64
 
 RSC_YUNQI_戴森球控制核心: #戴森球控制核心
@@ -2080,7 +2100,7 @@ RSC_YUNQI_云梦神剑_1:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_XIAN
+      material: RSC_YUNQI_弦
       amount: 1
     3:
       material_type: slimefun
@@ -2088,7 +2108,7 @@ RSC_YUNQI_云梦神剑_1:
       amount: 1
     4:
       material_type: slimefun
-      material: RSC_YUNQI_XIAN
+      material: RSC_YUNQI_弦
       amount: 1
     5:
       material_type: mc
@@ -2096,7 +2116,7 @@ RSC_YUNQI_云梦神剑_1:
       amount: 1
     6:
       material_type: slimefun
-      material: RSC_YUNQI_XIAN
+      material: RSC_YUNQI_弦
       amount: 1
     7:
       material_type: slimefun
@@ -2104,7 +2124,7 @@ RSC_YUNQI_云梦神剑_1:
       amount: 1
     8:
       material_type: slimefun
-      material: RSC_YUNQI_XIAN
+      material: RSC_YUNQI_弦
       amount: 1
     9:
       material_type: slimefun
@@ -2129,7 +2149,7 @@ RSC_YUNQI_云梦神剑_2:
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_SHANG
+      material: RSC_YUNQI_熵
       amount: 1
     2:
       material_type: slimefun
@@ -2137,7 +2157,7 @@ RSC_YUNQI_云梦神剑_2:
       amount: 1
     3:
       material_type: slimefun
-      material: RSC_YUNQI_SHANG
+      material: RSC_YUNQI_熵
       amount: 1
     4:
       material_type: slimefun
@@ -2153,7 +2173,7 @@ RSC_YUNQI_云梦神剑_2:
       amount: 1
     7:
       material_type: slimefun
-      material: RSC_YUNQI_SHANG
+      material: RSC_YUNQI_熵
       amount: 1
     8:
       material_type: slimefun
@@ -2161,7 +2181,7 @@ RSC_YUNQI_云梦神剑_2:
       amount: 1
     9:
       material_type: slimefun
-      material: RSC_YUNQI_SHANG
+      material: RSC_YUNQI_熵
       amount: 1
 
 RSC_YUNQI_云梦神剑_3:
@@ -2182,19 +2202,19 @@ RSC_YUNQI_云梦神剑_3:
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_XXHXHJ
+      material: RSC_YUNQI_行星核心合金
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_XXHXHJ
+      material: RSC_YUNQI_行星核心合金
       amount: 1
     3:
       material_type: slimefun
-      material: RSC_YUNQI_XXHXHJ
+      material: RSC_YUNQI_行星核心合金
       amount: 1
     4:
       material_type: slimefun
-      material: RSC_YUNQI_XXHXHJ
+      material: RSC_YUNQI_行星核心合金
       amount: 1
     5:
       material_type: slimefun
@@ -2202,19 +2222,19 @@ RSC_YUNQI_云梦神剑_3:
       amount: 1
     6:
       material_type: slimefun
-      material: RSC_YUNQI_XXHXHJ
+      material: RSC_YUNQI_行星核心合金
       amount: 1
     7:
       material_type: slimefun
-      material: RSC_YUNQI_XXHXHJ
+      material: RSC_YUNQI_行星核心合金
       amount: 1
     8:
       material_type: slimefun
-      material: RSC_YUNQI_XXHXHJ
+      material: RSC_YUNQI_行星核心合金
       amount: 1
     9:
       material_type: slimefun
-      material: RSC_YUNQI_XXHXHJ
+      material: RSC_YUNQI_行星核心合金
       amount: 1
 
 RSC_YUNQI_云梦神剑_4: 
@@ -2235,19 +2255,19 @@ RSC_YUNQI_云梦神剑_4:
   recipe:
     1:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
     3:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
     4:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
     5:
       material_type: slimefun
@@ -2255,19 +2275,19 @@ RSC_YUNQI_云梦神剑_4:
       amount: 1
     6:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
     7:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
     8:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
     9:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
 
 RSC_YUNQI_云梦神剑_5:
@@ -2292,7 +2312,7 @@ RSC_YUNQI_云梦神剑_5:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_XXNLJJ
+      material: RSC_YUNQI_行星能量结晶
       amount: 1
     3:
       material_type: slimefun
@@ -2300,7 +2320,7 @@ RSC_YUNQI_云梦神剑_5:
       amount: 1
     4:
       material_type: slimefun
-      material: RSC_YUNQI_XXNLJJ
+      material: RSC_YUNQI_行星能量结晶
       amount: 1
     5:
       material_type: slimefun
@@ -2308,7 +2328,7 @@ RSC_YUNQI_云梦神剑_5:
       amount: 1
     6:
       material_type: slimefun
-      material: RSC_YUNQI_XXNLJJ
+      material: RSC_YUNQI_行星能量结晶
       amount: 1
     7:
       material_type: slimefun
@@ -2316,7 +2336,7 @@ RSC_YUNQI_云梦神剑_5:
       amount: 1
     8:
       material_type: slimefun
-      material: RSC_YUNQI_XXNLJJ
+      material: RSC_YUNQI_行星能量结晶
       amount: 1
     9:
       material_type: slimefun
@@ -2808,11 +2828,11 @@ RSC_YUNQI_创文明之镐:
       amount: 1
     5:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
     8:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
 
 RSC_YUNQI_溯自然之斧:
@@ -2842,11 +2862,11 @@ RSC_YUNQI_溯自然之斧:
       amount: 1
     5:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
     8:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
 
 RSC_YUNQI_逆时空之铲:
@@ -2868,11 +2888,11 @@ RSC_YUNQI_逆时空之铲:
       amount: 1
     5:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
     8:
       material_type: slimefun
-      material: RSC_YUNQI_XHBLHJ
+      material: RSC_YUNQI_星核壁垒合金
       amount: 1
 
 RSC_YUNQI_光粒打击坐标:
