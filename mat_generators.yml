@@ -172,7 +172,7 @@ RSC_YUNQI_YCFZSJY:
     amount: 1
   capacity: 30000   #一共存储能量
   per: 7500   #每秒能量/2
-  recipe_type: ENHANCED_CRAFTING_TABLE #强化工作台
+  recipe_type: SMELTERY #强化工作台
   recipe:
     1:
       material_type: slimefun

@@ -1,0 +1,14 @@
+RSC_YUNQI_马年活动抽奖机:
+  item_group: yunqixwj
+  item:
+    name: '&f马年活动抽奖机'
+    lore:
+      - '&f马年活动抽奖机'
+    material_type: mc
+    material: cauldron
+    glow: true
+  placeable: true
+  recipe_type: NULL
+  work: 40
+  input: [46,47,48,49,50,51,52]
+  output: [46,47,48,49,50,51,52]

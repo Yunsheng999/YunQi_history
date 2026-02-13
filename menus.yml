@@ -1070,3 +1070,35 @@ RSC_YUNQI_维度破碎机:
     17-26:
       material: gray_stained_glass_pane
       name: '&a'
+      
+RSC_YUNQI_马年活动抽奖机:
+  title: 'RSC_YUNQI_马年活动抽奖机'
+  script: "马年活动抽奖机"
+  slots:
+    0-35:
+      material: stone
+    36-39:
+      material: brown_stained_glass_pane
+      name: '&f↑↑↑点击石头进行开采↑↑↑'
+      lore:
+      - '&f↓↓↓输出槽位↓↓↓'
+    40:
+      material_type: skull_base64
+      material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWVkMDk4MmU5YWQ5YjRiNDJmMWNjYzM5NjcxOGU2NzUwMGU3ZmJhNmVlMmFiNzQ3OGI0YzgzODNiOTU4ZDEyOCJ9fX0=
+      name: '&f&l提示'
+      lore:
+      - '&fshift+左键重置石头'
+      - "&c注意!重新加载脚本会导致无法使用并报错重新放置即可。"
+      - "&c注意!若放置的机器过多可等服务器重新启动即可恢复。"
+      - "&c注意!机器打开若无法使用请挖掉重新放置。"
+    41-44:
+      material: brown_stained_glass_pane
+      name: '&f↑↑↑点击石头进行开采↑↑↑'
+      lore:
+      - '&f↓↓↓输出槽位↓↓↓'
+    45:
+      material: brown_stained_glass_pane
+      name: '&f输出槽位'
+    53:
+      material: brown_stained_glass_pane
+      name: '&f输出槽位'
