@@ -1,4 +1,4 @@
-RSC_YUNQI_智子晶石:
+RSC_YUNQI_ZZJS:
   lateInit: false
   item_group: yunqizrzy
   item:
@@ -14,8 +14,7 @@ RSC_YUNQI_智子晶石:
   supply:
     normal: 5
 
-
-RSC_YUNQI_黑域石:
+RSC_YUNQI_HYS:
   lateInit: false
   item_group: yunqizrzy
   item:
@@ -32,7 +31,7 @@ RSC_YUNQI_黑域石:
     the_end: 2
     
 
-RSC_YUNQI_宇宙灰烬:
+RSC_YUNQI_YZHJ:
   lateInit: false
   item_group: yunqizrzy
   item:
@@ -49,7 +48,7 @@ RSC_YUNQI_宇宙灰烬:
     the_end: 3
     
 
-RSC_YUNQI_异界砂:
+RSC_YUNQI_YJS:
   lateInit: false
   item_group: yunqizrzy
   item:
@@ -66,7 +65,7 @@ RSC_YUNQI_异界砂:
     the_end: 5
 
 
-RSC_YUNQI_低维铁矿:
+RSC_YUNQI_DWTK:
   lateInit: false
   item_group: yunqizrzy
   item:
@@ -83,7 +82,7 @@ RSC_YUNQI_低维铁矿:
     normal: 5
 
 
-RSC_YUNQI_重力合金:
+RSC_YUNQI_ZLHJ:
   lateInit: false
   item_group: yunqizrzy
   item:
@@ -101,7 +100,7 @@ RSC_YUNQI_重力合金:
     normal: 5   
     
 
-RSC_YUNQI_弦:
+RSC_YUNQI_XIAN:
   lateInit: false
   item_group: yunqizrzy
   item:
@@ -120,7 +119,7 @@ RSC_YUNQI_弦:
     the_end: 1
 
 
-RSC_YUNQI_熵:
+RSC_YUNQI_SHANG:
   lateInit: false
   item_group: yunqizrzy
   item:
@@ -138,7 +137,7 @@ RSC_YUNQI_熵:
     nether: 1
 
 
-RSC_YUNQI_强相互作用立场:
+RSC_YUNQI_QXHZYLC:
   lateInit: false
   item_group: yunqizrzy
   item:
@@ -155,7 +154,7 @@ RSC_YUNQI_强相互作用立场:
     normal: 1
 
     
-RSC_YUNQI_强互凝晶:
+RSC_YUNQI_QHNJ:
   lateInit: false
   item_group: yunqizrzy
   item:
@@ -173,7 +172,7 @@ RSC_YUNQI_强互凝晶:
     normal: 3 
     
     
-RSC_YUNQI_寂零石:
+RSC_YUNQI_JLS:
   lateInit: false
   item_group: yunqizrzy
   item:
@@ -190,7 +189,7 @@ RSC_YUNQI_寂零石:
     the_end: 1
     
     
-RSC_YUNQI_能元髓晶:
+RSC_YUNQI_NYSJ:
   lateInit: false
   item_group: yunqizrzy
   item:
@@ -208,7 +207,7 @@ RSC_YUNQI_能元髓晶:
     normal: 3
 
 
-RSC_YUNQI_星辉颗粒:
+RSC_YUNQI_XHKL:
   lateInit: false
   item_group: yunqizrzy
   item:

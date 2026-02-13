@@ -34,7 +34,7 @@ RSC_YUNQI_CXBZZL:
       amount: 1
     5:
       material_type: slimefun
-      material: RSC_YUNQI_弦
+      material: RSC_YUNQI_XIAN
       amount: 1
     6:
       material_type: slimefun
@@ -56,7 +56,7 @@ RSC_YUNQI_CXBZZL:
   tickRate: 60 #生成一次消耗的时间tick
   outputItem:
     material_type: slimefun
-    material: RSC_YUNQI_弦
+    material: RSC_YUNQI_XIAN
     amount: 1
   output: [1, 2, 3, 4, 5, 6, 7, 8]
 
@@ -405,7 +405,7 @@ RSC_YUNQI_NGYTJ_1: #镍钴一体机
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -472,7 +472,7 @@ RSC_YUNQI_NGYTJ_2:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -539,7 +539,7 @@ RSC_YUNQI_NGYTJ_3:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -674,7 +674,7 @@ RSC_YUNQI_小型电容一体机_1:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -737,7 +737,7 @@ RSC_YUNQI_小型电容一体机_2:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -800,7 +800,7 @@ RSC_YUNQI_小型电容一体机_3:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -863,7 +863,7 @@ RSC_YUNQI_中型电容一体机_1:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -926,7 +926,7 @@ RSC_YUNQI_中型电容一体机_2:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -989,7 +989,7 @@ RSC_YUNQI_中型电容一体机_3:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -1052,7 +1052,7 @@ RSC_YUNQI_大型电容一体机_1:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -1115,7 +1115,7 @@ RSC_YUNQI_大型电容一体机_2:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -1178,7 +1178,7 @@ RSC_YUNQI_大型电容一体机_3:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -1241,7 +1241,7 @@ RSC_YUNQI_巨型电容一体机_1:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -1304,7 +1304,7 @@ RSC_YUNQI_巨型电容一体机_2:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -1367,7 +1367,7 @@ RSC_YUNQI_巨型电容一体机_3:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -1430,7 +1430,7 @@ RSC_YUNQI_黑金刚石电容一体机_1:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -1493,7 +1493,7 @@ RSC_YUNQI_黑金刚石电容一体机_2:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -1556,7 +1556,7 @@ RSC_YUNQI_黑金刚石电容一体机_3:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -1619,7 +1619,7 @@ RSC_YUNQI_终极电容一体机_1:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -1682,7 +1682,7 @@ RSC_YUNQI_终极电容一体机_2:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun
@@ -1745,7 +1745,7 @@ RSC_YUNQI_终极电容一体机_3:
       amount: 1
     2:
       material_type: slimefun
-      material: RSC_YUNQI_强相互作用立场
+      material: RSC_YUNQI_QXHZYLC
       amount: 1
     3:
       material_type: slimefun

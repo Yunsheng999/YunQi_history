@@ -71,7 +71,7 @@ RSC_YUNQI_SL_CQY:
         1:
           chance: 25
           material_type: slimefun
-          material: RSC_YUNQI_熵
+          material: RSC_YUNQI_SHANG
     '混沌碎屑':
       seconds: 10
       input:
@@ -688,7 +688,7 @@ RSC_YUNQI_DSQJGZPT:
           amount: 1
         5:          
           material_type: slimefun
-          material: RSC_YUNQI_能元髓晶
+          material: RSC_YUNQI_NYSJ
           amount: 64
         6:
           material_type: slimefun
