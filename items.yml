@@ -786,7 +786,7 @@ RSC_YUNQI_熵逆原石: #熵逆原石
   recipe: 
     1:
       material_type: slimefun
-      material: RSC_YUNQI_混沌碎屑
+      material: RSC_YUNQI_SHANG
       amount: 1
     2:
       material_type: slimefun
@@ -794,7 +794,7 @@ RSC_YUNQI_熵逆原石: #熵逆原石
       amount: 1
     3:
       material_type: slimefun
-      material: RSC_YUNQI_混沌碎屑
+      material: RSC_YUNQI_SHANG
       amount: 1
     4:
       material_type: slimefun
