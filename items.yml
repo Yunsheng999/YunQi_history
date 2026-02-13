@@ -320,6 +320,18 @@ RSC_YUNQI_MX_Komu_A:
   placeable: false
   recipe_type: "NULL"
 
+RSC_YUNQI_MX_lengshang:
+  lateInit: false
+  item_group: yunqimx
+  item:
+    name: '&e&llengshang'
+    lore:
+    - '&c❤&7&l为本附属提供技术支持&c❤'
+    material_type: skull_hash
+    material: 20b13024045c5c0d6d2afb059ae9660f7ad020fd895bb75f64fcc02ddb07d327
+    amount: 1
+  placeable: false
+  recipe_type: "NULL"
 #基础材料————————————————————————————————————————————————
 RSC_YUNQI_DKYIO: #dkyio
   lateInit: false

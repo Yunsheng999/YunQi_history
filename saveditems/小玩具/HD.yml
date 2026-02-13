@@ -1,6 +1,6 @@
 item:
   ==: org.bukkit.inventory.ItemStack
-  DataVersion: 4189
+  DataVersion: 3953
   id: minecraft:player_head
   count: 1
   components:
