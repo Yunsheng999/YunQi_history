@@ -1,13 +1,10 @@
 item:
   ==: org.bukkit.inventory.ItemStack
-  DataVersion: 3953
-  id: minecraft:stick
-  count: 1
-  components:
-    minecraft:lore: '[{extra:[{bold:1b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"创世神!永恒不灭!",underlined:0b}],text:""},{extra:[{bold:1b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"描述:",underlined:0b}],text:""},{extra:[{bold:1b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"右键
-      向前方释放一个黑洞,吸引周围10格内的实体,5秒后爆炸造成5000点伤害",underlined:0b}],text:""},{extra:[{bold:1b,color:"red",italic:0b,obfuscated:0b,strikethrough:0b,text:"
-      shift + 右键 向前释放一道毁灭射线,造成3000点伤害",underlined:0b}],text:""},{extra:[{bold:1b,color:"aqua",italic:0b,obfuscated:0b,strikethrough:0b,text:"
-      shift + 左键 向前释放一个阴阳球,贯穿造成5000点伤害",underlined:0b}],text:""}]'
-    minecraft:enchantments: '{"minecraft:knockback":9}'
-    minecraft:custom_name: '{extra:[{bold:1b,color:"red",italic:0b,obfuscated:0b,strikethrough:0b,text:"创",underlined:0b},{bold:1b,color:"gold",italic:0b,text:"世"},{bold:1b,color:"yellow",italic:0b,text:"·"},{bold:1b,color:"green",italic:0b,text:"永"},{bold:1b,color:"aqua",italic:0b,text:"恒"},{bold:1b,color:"blue",italic:0b,text:"神"},{bold:1b,color:"light_purple",italic:0b,text:"杖"}],text:""}'
-  schema_version: 1
+  v: 3700
+  type: STICK
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '&c&l创&6&l世&e&l·&a&l永&b&l恒&9&l神&d&l杖'
+    enchants:
+      KNOCKBACK: 9
