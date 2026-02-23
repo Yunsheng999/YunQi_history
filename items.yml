@@ -142,12 +142,12 @@ RSC_YUNQI_贡献服务器小丑众:
   lateInit: false
   item_group: yunqigxfwq
   item:
-    name: ' &c&l小丑众'
+    name: '&c&l小丑众'
     lore: 
     - '&c&l小丑众'
-    - '&c&l感谢小丑众公益服务器对本附属进行测试检验'
-    - '&c&l感谢小丑众腐竹DkYio'
-    - '&c&l小丑众群号: 1071762154 欢迎Welcome'
+    - '&e&l感谢小丑众公益服务器对本附属进行测试检验'
+    - '&b&l感谢小丑众腐竹DkYio'
+    - '&a&l小丑众群号: 1071762154 欢迎Welcome'
     material_type: skull_hash
     material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjZhZDY2N2IwODkwNzBlYWQxZjE3YzA0ZGVlNDhkNjJmNmVkZDA3NDk4NDc3N2NmNWQyOGI2ZDBlYWYyNjFlYyJ9fX0=
     amount: 1
@@ -274,7 +274,7 @@ RSC_YUNQI_YSGG:
     - '&e&l本附属为YS_0204独立开发的拓展类附属'
     - '&e&l感谢天才少女Ci_qian对本附属的直接技术支持'
     - '&e&l更新了物品ID，修改成中文模式'
-    - '&e&l当前版本: &f&lrelease 1.1.6'
+    - '&e&l当前版本: &f&lrelease 1.1.8'
     - ''
     material_type: skull_hash
     material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ZmMzBlZjQ4MTRjMDI1MDcyMWY4NWU5MzRiYmE1ZjdhNTYxMWFhMDE2YzBiN2UzYWE2M2ZlZTY2OGI4NzdmMCJ9fX0=
@@ -1366,6 +1366,56 @@ RSC_YUNQI_生成器核心3: #生成器核心3
       material: RSC_YUNQI_XHKL
       amount: 1
       
+RSC_YUNQI_九彩矿物凝聚核心: 
+  lateInit: false
+  item_group: yunqijccl
+  item:
+    name: '&c&l九&6&l彩&e&l矿&a&l物&b&l凝&9&l聚&d&l核&c&l心'
+    lore:
+    - '&e基础的力量，浓缩才是精华'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTcxZWMxMzM1Nzk5MDUwZDVmOGZhZDI4YThmNmFmOWVkMzI3Y2FlYjMwMzAxNzg2YjA4ZDAyZDY5OWZjZWI1NCJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: mc
+      material: IRON_INGOT
+      amount: 64
+    2:
+      material_type: slimefun
+      material: SILVER_INGOT
+      amount: 64
+    3:
+      material_type: slimefun
+      material: COPPER_INGOT
+      amount: 64
+    4:
+      material_type: slimefun
+      material: TIN_INGOT
+      amount: 64
+    5:
+      material_type: mc
+      material: GOLD_INGOT
+      amount: 64      
+    6:
+      material_type: slimefun
+      material: LEAD_INGOT
+      amount: 64
+    7:
+      material_type: slimefun
+      material: ALUMINUM_INGOT
+      amount: 64
+    8:
+      material_type: slimefun
+      material: ZINC_INGOT
+      amount: 64
+    9:
+      material_type: slimefun
+      material: MAGNESIUM_INGOT
+      amount: 64
+
 RSC_YUNQI_星核壁垒合金: #星核壁垒合金
   lateInit: false
   item_group: yunqixxgy
@@ -2931,110 +2981,11 @@ RSC_YUNQI_黑洞:
     - '&e&l仿制黑洞'
     - '&e&l右键 吸引周围10格内的实体'
     - '&e&l一次性物品'
-    material_type: saveditem
-    material: 小玩具/HD
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzY5ZWM3MjJkOWNiNmVkOWJhZTkzYzI2NmJkMDk4ZjBhMzA2YzVlOGMwMzg0OWMyN2NkY2YxOGM2MGQ2Y2IzZSJ9fX0=
     amount: 1
   recipe_type: "NULL"
   script: 黑洞
+
+
   
-  
-##马年行大运。岁岁有今朝
-RSC_YUNQI_马字:
-  lateInit: false
-  item_group: yunqixwj
-  item:
-    name: '&f马'
-    lore:
-    - '&e&l节日物品'
-    material_type: mc
-    material: PAPER
-    amount: 1
-  recipe_type: "NULL"
-RSC_YUNQI_年字:
-  lateInit: false
-  item_group: yunqixwj
-  item:
-    name: '&f年'
-    lore:
-    - '&e&l节日物品'
-    material_type: mc
-    material: PAPER
-    amount: 1
-  recipe_type: "NULL"
-RSC_YUNQI_行字:
-  lateInit: false
-  item_group: yunqixwj
-  item:
-    name: '&f行'
-    lore:
-    - '&e&l节日物品'
-    material_type: mc
-    material: PAPER
-    amount: 1
-  recipe_type: "NULL"
-RSC_YUNQI_大字:
-  lateInit: false
-  item_group: yunqixwj
-  item:
-    name: '&f大'
-    lore:
-    - '&e&l节日物品'
-    material_type: mc
-    material: PAPER
-    amount: 1
-  recipe_type: "NULL"
-RSC_YUNQI_运字:
-  lateInit: false
-  item_group: yunqixwj
-  item:
-    name: '&f运'
-    lore:
-    - '&e&l节日物品'
-    material_type: mc
-    material: PAPER
-    amount: 1
-  recipe_type: "NULL"
-RSC_YUNQI_岁字:
-  lateInit: false
-  item_group: yunqixwj
-  item:
-    name: '&f岁'
-    lore:
-    - '&e&l节日物品'
-    material_type: mc
-    material: PAPER
-    amount: 1
-  recipe_type: "NULL"
-RSC_YUNQI_有字:
-  lateInit: false
-  item_group: yunqixwj
-  item:
-    name: '&f有'
-    lore:
-    - '&e&l节日物品'
-    material_type: mc
-    material: PAPER
-    amount: 1
-  recipe_type: "NULL"
-RSC_YUNQI_今字:
-  lateInit: false
-  item_group: yunqixwj
-  item:
-    name: '&f今'
-    lore:
-    - '&e&l节日物品'
-    material_type: mc
-    material: PAPER
-    amount: 1
-  recipe_type: "NULL"
-RSC_YUNQI_朝字:
-  lateInit: false
-  item_group: yunqixwj
-  item:
-    name: '&f朝'
-    lore:
-    - '&e&l节日物品'
-    material_type: mc
-    material: PAPER
-    amount: 1
-  recipe_type: "NULL"

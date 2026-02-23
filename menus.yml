@@ -3,13 +3,33 @@ RSC_YUNQI_CXBZZL:
   title: '&3&l超弦编织阵列'
   slots: {}
   
+RSC_YUNQI_无序熵变机:
+  title: '&c&l无序熵变机'
+  slots: {}
+
+RSC_YUNQI_古文明远程探索机_1:
+  title: '&6&l古文明远程探索机 &a&lI'
+  slots: {}
+
+RSC_YUNQI_古文明远程探索机_2:
+  title: '&6&l古文明远程探索机 &a&lII'
+  slots: {}
+
+RSC_YUNQI_古文明远程探索机_3:
+  title: '&6&l古文明远程探索机 &a&lIII'
+  slots: {}
+
+RSC_YUNQI_古文明远程探索机_4:
+  title: '&6&l古文明远程探索机 &a&lIV'
+  slots: {}
+
 RSC_YUNQI_DXZJJ:
   title: '&4&l地心钻井机'
   slots: {}
-
-RSC_YUNQI_XCYTJ_1:
-  title: '&b星尘一体机 &a&lI'
-  slots:
+ 
+RSC_YUNQI_九彩矿锭一体机:
+  title: '&c&l九&6&l彩&e&l矿&a&l锭&b&l一&9&l体&d&l机'
+  slots: 
     0:
       material: oak_sign
       name: '&a'
@@ -29,53 +49,7 @@ RSC_YUNQI_XCYTJ_1:
     45:  
       material: gray_stained_glass_pane
       name: '&a' 
-
-RSC_YUNQI_XCYTJ_2:
-  title: '&b星尘一体机 &a&lII'
-  slots:
-    0:
-      material: oak_sign
-      name: '&a'
-      lore: '&c右侧为输出槽'
-    9:
-      material: gray_stained_glass_pane
-      name: '&a'
-    18:
-      material: gray_stained_glass_pane
-      name: '&a'
-    27:
-      material: gray_stained_glass_pane
-      name: '&a'
-    36:
-      material: gray_stained_glass_pane
-      name: '&a'
-    45:  
-      material: gray_stained_glass_pane
-      name: '&a'
-
-RSC_YUNQI_XCYTJ_3:
-  title: '&b星尘一体机 &a&lIII'
-  slots:
-    0:
-      material: oak_sign
-      name: '&a'
-      lore: '&c右侧为输出槽'
-    9:
-      material: gray_stained_glass_pane
-      name: '&a'
-    18:
-      material: gray_stained_glass_pane
-      name: '&a'
-    27:
-      material: gray_stained_glass_pane
-      name: '&a'
-    36:
-      material: gray_stained_glass_pane
-      name: '&a'
-    45:  
-      material: gray_stained_glass_pane
-      name: '&a'
-  
+      
 RSC_YUNQI_NGYTJ_1:
   title: '&b&l镍&9&l钴&e一体机 &a&lI'
   slots:
