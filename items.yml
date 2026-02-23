@@ -282,6 +282,22 @@ RSC_YUNQI_YSGG:
   placeable: false
   recipe_type: 'NULL'
 
+RSC_YUNQI_注意事项:
+  lateInit: false
+  item_group: yunqigg
+  item:
+    name: '&9&l云启文明 - &c&l注意事项'
+    lore:
+    - '&e&l本附属内物品需要以下附属插件，否则会有个别物品变成石头科技'
+    - '&e&l - 网络'
+    - '&e&l - 无尽'
+    - '&e&l - 末地科技'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+
 RSC_YUNQI_MX_INFO:
   lateInit: false
   item_group: yunqimx
