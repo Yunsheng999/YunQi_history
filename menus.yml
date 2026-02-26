@@ -26,7 +26,7 @@ RSC_YUNQI_古文明远程探索机_4:
 RSC_YUNQI_DXZJJ:
   title: '&4&l地心钻井机'
   slots: {}
- 
+
 RSC_YUNQI_九彩矿锭一体机:
   title: '&c&l九&6&l彩&e&l矿&a&l锭&b&l一&9&l体&d&l机'
   slots: 
@@ -1044,4 +1044,147 @@ RSC_YUNQI_维度破碎机:
     17-26:
       material: gray_stained_glass_pane
       name: '&a'
-      
+
+RSC_YUNQI_白洞:
+  title: '&6&l白洞'
+  slots: 
+    1:
+      material: gray_stained_glass_pane
+      name: '&4&l左侧为输入槽，右侧为输出槽'
+      progressbar: true
+    10:
+      material: gray_stained_glass_pane
+      name: '&4&l左侧为输入槽，右侧为输出槽'
+    19:
+      material: gray_stained_glass_pane
+      name: '&4&l左侧为输入槽，右侧为输出槽'
+    28:
+      material: gray_stained_glass_pane
+      name: '&4&l左侧为输入槽，右侧为输出槽'
+    37:
+      material: gray_stained_glass_pane
+      name: '&4&l左侧为输入槽，右侧为输出槽'
+    46:
+      material: gray_stained_glass_pane
+      name: '&4&l左侧为输入槽，右侧为输出槽'
+
+RSC_YUNQI_昆吾铸星炉:
+  title: '&6&l昆吾铸星炉'
+  slots:
+    6-8: 
+      name: "&a"
+      material: CYAN_STAINED_GLASS_PANE
+    15: 
+      name: "&a"
+      material: CYAN_STAINED_GLASS_PANE
+    16: 
+      material_type: slimefun
+      material: RSC_YUNQI_昆吾铸星炉
+      progressbar: true
+      progressBarItem:
+        material_type: slimefun
+        material: RSC_YUNQI_昆吾铸星炉
+    17: 
+      name: "&a"
+      material: CYAN_STAINED_GLASS_PANE
+    24-26: 
+      name: "&a"
+      material: CYAN_STAINED_GLASS_PANE
+    33-35: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    42: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    44: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    51-53: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+
+RSC_YUNQI_空间旅行模拟室:
+  title: '&6&l空间旅行模拟室'
+  slots: 
+    1:
+      material: gray_stained_glass_pane
+      name: '&4&l左侧为输入槽，右侧为输出槽'
+      progressbar: true
+    10:
+      material: gray_stained_glass_pane
+      name: '&4&l左侧为输入槽，右侧为输出槽'
+    19:
+      material: gray_stained_glass_pane
+      name: '&4&l左侧为输入槽，右侧为输出槽'
+    28:
+      material: gray_stained_glass_pane
+      name: '&4&l左侧为输入槽，右侧为输出槽'
+    37:
+      material: gray_stained_glass_pane
+      name: '&4&l左侧为输入槽，右侧为输出槽'
+    46:
+      material: gray_stained_glass_pane
+      name: '&4&l左侧为输入槽，右侧为输出槽'
+
+RSC_YUNQI_货币兑换机_方块1:
+  title: '&e&l云启文明货币兑换机_方块1'
+  slots:
+    1:
+      material: grass_block
+      name: '&4&l左侧放入货币，右侧为输出物品，此方块为交易物品'
+    4:
+      material: gray_stained_glass_pane
+      name: '&4&l分隔版'
+    7:
+      material: podzol
+      name: '&4&l右侧放入货币，左侧为输出物品，此方块为交易物品'
+    10:
+      material: mycelium
+      name: '&4&l左侧放入货币，右侧为输出物品，此方块为交易物品'
+    13:
+      material: gray_stained_glass_pane
+      name: '&4&l分隔版'
+    16:
+      material: coarse_dirt
+      name: '&4&l右侧放入货币，左侧为输出物品，此方块为交易物品'
+    19:
+      material: clay
+      name: '&4&l左侧放入货币，右侧为输出物品，此方块为交易物品'
+    22:
+      material: gray_stained_glass_pane
+      name: '&4&l分隔版'
+    25:
+      material: ice
+      name: '&4&l右侧放入货币，左侧为输出物品，此方块为交易物品'
+    28:
+      material: crying_obsidian
+      name: '&4&l左侧放入货币，右侧为输出物品，此方块为交易物品'
+    31:
+      material: gray_stained_glass_pane
+      name: '&4&l分隔版'
+    34:
+      material: blackstone
+      name: '&4&l右侧放入货币，左侧为输出物品，此方块为交易物品'
+    37:
+      material: shroomlight
+      name: '&4&l左侧放入货币，右侧为输出物品，此方块为交易物品'
+    40:
+      material: gray_stained_glass_pane
+      name: '&4&l分隔版'
+    43:
+      material: chorus_flower
+      name: '&4&l右侧放入货币，左侧为输出物品，此方块为交易物品'
+    46:
+      material: honey_block
+      name: '&4&l左侧放入货币，右侧为输出物品，此方块为交易物品'
+    49:
+      material: gray_stained_glass_pane
+      name: '&4&l分隔版'
+    52:
+      material: slime_block
+      name: '&4&l右侧放入货币，左侧为输出物品，此方块为交易物品'
+
+
+
+
+

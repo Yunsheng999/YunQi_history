@@ -1,0 +1,15 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_BLOCK
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '&3&l星界舰艇框架'
+    lore:
+    - '&7星界舰艇的框架，能抵抗黑洞引力'
+    enchants:
+      PROTECTION: 5
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES

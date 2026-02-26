@@ -183,16 +183,7 @@ RSC_YUNQI_占位符18:
     material: LIGHT_GRAY_STAINED_GLASS_PANE
     amount: 1
   recipe_type: 'NULL'
-RSC_YUNQI_占位符终极资源:
-  lateInit: false
-  item_group: yunqizjzy
-  item:
-    name: ' &c&l终极资源敬请期待'
-    lore: []
-    material_type: mc
-    material: LIGHT_GRAY_STAINED_GLASS_PANE
-    amount: 1
-  recipe_type: 'NULL'
+
 RSC_YUNQI_占位符26:
   lateInit: false
   item_group: yunqihistory_26
@@ -213,41 +204,23 @@ RSC_YUNQI_占位符27:
     material: LIGHT_GRAY_STAINED_GLASS_PANE
     amount: 1
   recipe_type: 'NULL'
-RSC_YUNQI_占位符星界之路:
-  lateInit: false
-  item_group: yunqixjzl
-  item:
-    name: '&c&l星界之路敬请期待'
-    lore: []
-    material_type: mc
-    material: LIGHT_GRAY_STAINED_GLASS_PANE
-    amount: 1
-  recipe_type: 'NULL'
-RSC_YUNQI_占位符迈向宇宙:
-  lateInit: false
-  item_group: yunqimxyz
-  item:
-    name: '&c&l迈向宇宙敬请期待'
-    lore: []
-    material_type: mc
-    material: LIGHT_GRAY_STAINED_GLASS_PANE
-    amount: 1
-  recipe_type: 'NULL'
-RSC_YUNQI_占位符终末之诗:
-  lateInit: false
-  item_group: yunqizmzs
-  item:
-    name: ' &c&l终末之诗敬请期待'
-    lore: []
-    material_type: mc
-    material: LIGHT_GRAY_STAINED_GLASS_PANE
-    amount: 1
-  recipe_type: 'NULL'
+
 RSC_YUNQI_占位符传说物品:
   lateInit: false
-  item_group: yunqicswp
+  item_group: yunqiwmjys
   item:
-    name: '&c&l传说物品敬请期待'
+    name: '&c&l货币交易敬请期待'
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  recipe_type: 'NULL'
+
+RSC_YUNQI_占位符售货机:
+  lateInit: false
+  item_group: yunqiwmzzshj
+  item:
+    name: '&c&l售货机敬请期待'
     lore: []
     material_type: mc
     material: LIGHT_GRAY_STAINED_GLASS_PANE
@@ -274,7 +247,7 @@ RSC_YUNQI_YSGG:
     - '&e&l本附属为YS_0204独立开发的拓展类附属'
     - '&e&l感谢天才少女Ci_qian对本附属的直接技术支持'
     - '&e&l更新了物品ID，修改成中文模式'
-    - '&e&l当前版本: &f&lrelease 1.1.8'
+    - '&e&l当前版本: &f&lrelease 1.1.9'
     - ''
     material_type: skull_hash
     material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ZmMzBlZjQ4MTRjMDI1MDcyMWY4NWU5MzRiYmE1ZjdhNTYxMWFhMDE2YzBiN2UzYWE2M2ZlZTY2OGI4NzdmMCJ9fX0=
@@ -288,10 +261,25 @@ RSC_YUNQI_注意事项:
   item:
     name: '&9&l云启文明 - &c&l注意事项'
     lore:
-    - '&e&l本附属内物品需要以下附属插件，否则会有个别物品变成石头科技'
+    - '&e&l本附属内物品需要以下附属插件'
+    - '否则会有个别物品变成石头科技'
     - '&e&l - 网络'
     - '&e&l - 无尽'
     - '&e&l - 末地科技'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+RSC_YUNQI_公告1:
+  lateInit: false
+  item_group: yunqigg
+  item:
+    name: '&e&l2.26更新内容'
+    lore:
+    - '&d&l云启文明附属主要内容于2.26更新完成'
+    - '&d&l自动售货机后续更新，可获取粘液物品和原版方块'
+    - '&d&l累死我了，要老命'
     material_type: mc
     material: PAPER
     amount: 1
@@ -1938,7 +1926,7 @@ RSC_YUNQI_PLAY_1:
   lateInit: false
   item_group: yunqijccl
   item:
-    name: '&#ffd700&l★PLAY I★'
+    name: '&#ffd700&lPLAY I'
     lore:
     - '&#ffa500更高级的意识体'
     - '&#ffd700可以自由穿梭于不同维度空间'
@@ -1989,7 +1977,7 @@ RSC_YUNQI_PLAY_2:
   lateInit: false
   item_group: yunqijccl
   item:
-    name: '&#ffd900&l★PLAY II★'
+    name: '&#ffd900&lPLAY II'
     lore:
     - '&#ffa500彻底恢复的意识形态'
     - '&#ffd700可用于机器突破技术壁垒获取资源'
@@ -2041,7 +2029,7 @@ RSC_YUNQI_银河精华:
   lateInit: false
   item_group: yunqixycs
   item:
-    name: '&#ffd700&l★银河精华★'
+    name: '&#ffd700&l银河精华'
     lore:
     - '&#ffa500整个银河系能量的高度浓缩'
     - '&#ffd700散发着璀璨的星河光芒'
@@ -2095,7 +2083,7 @@ RSC_YUNQI_星系合金:
   lateInit: false
   item_group: yunqixycs
   item:
-    name: '&#e8e8e8&l★星系合金★'
+    name: '&#e8e8e8&l星系合金'
     lore:
     - '&#c0c0c0超越已知所有金属的终极合金'
     - '&#a9a9a9可承受超新星爆发的高温高压'
@@ -2111,7 +2099,7 @@ RSC_YUNQI_银河核心:
   lateInit: false
   item_group: yunqixycs
   item:
-    name: '&#9932cc&l★银河核心★'
+    name: '&#9932cc&l银河核心'
     lore:
     - '&#7b00d0银河系最中央的超大质量黑洞'
     - '&#9932cc蕴含驱动整个星系的终极能量'
@@ -2127,7 +2115,7 @@ RSC_YUNQI_星穹徽章:
   lateInit: false
   item_group: yunqixycs
   item:
-    name: '&#ffd700&l★星穹徽章★'
+    name: '&#ffd700&l星穹徽章'
     lore:
     - '&#ffa500证明持有者已掌握星系级科技'
     - '&#ffd700佩戴者可穿越星际空间自由旅行'
@@ -2144,7 +2132,7 @@ RSC_YUNQI_宇宙奇点:
   lateInit: false
   item_group: yunqixycs
   item:
-    name: '&#ff00ff&l★宇宙奇点★'
+    name: '&#ff00ff&l宇宙奇点'
     lore:
     - '&#ff69b4超越时空维度的终极存在'
     - '&#ff00ff能够创造和毁灭无数平行宇宙'
@@ -3003,5 +2991,463 @@ RSC_YUNQI_黑洞:
   recipe_type: "NULL"
   script: 黑洞
 
+RSC_YUNQI_逆坍缩晶尘:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&f&l逆坍缩晶尘'
+    lore:
+    - '&7&l从白洞奇点喷溅而出的时空粉尘'
+    - '&7&l主动排斥引力永不被黑洞捕获'
+    material_type: mc
+    material: slime_ball
+    amount: 1
+  recipe_type: BD_TYPE
 
-  
+RSC_YUNQI_原初光核:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&6&l原初光核'
+    lore:
+    - '&e&l白洞喷发的最原始能量结晶'
+    - '&6&l永恒发光是宇宙级能源核心'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWNmZGE3MmQxZmViNGE5YjRiNzEyMDdkMDc5M2E0NTAzMzU3YzhlOGJlYzQ0MDQ3NGU3ZmQ2MGViZTYxODQ3MiJ9fX0=
+    amount: 1
+  recipe_type: BD_TYPE
+
+RSC_YUNQI_斥力子流体:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&9&l斥力子流体'
+    lore:
+    - '&b&l只产生斥力不产生引力的奇异液态金属'
+    - '&9&l触碰即弹开无法被常规方式束缚'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWIxMzk1ZGIxNmJjMmVjMDIzMTIyZGE2ZmRkNGFjYzFkOGIyNDg0MjNlZTI3MTA1NTBlMDEzYTA5ZDQyOWM5MCJ9fX0=
+    amount: 1
+  recipe_type: BD_TYPE
+
+RSC_YUNQI_时空织丝:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&d&l时空织丝'
+    lore:
+    - '&5&l白洞喷流撕裂空间形成的纤维'
+    - '&d&l可编织空间轻微折叠距离'
+    material_type: mc
+    material: string
+    amount: 1
+  recipe_type: BD_TYPE
+
+RSC_YUNQI_未成形物质:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&6&l未成形物质'
+    lore:
+    - '&6&l尚未定义元素的半成品物质'
+    - '&e&l接触何物便临时模拟其属性'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzI2OTc5Mjk0NjU5NTBjY2QzYTQ5MjNhNWU2ZWIxNWI0ZmUyYmEyYjI4NzE1ZjRhNzk5Njc4NWQ3MDYxNTgifX19
+    amount: 1
+  recipe_type: BD_TYPE
+
+RSC_YUNQI_界外射线晶:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&5&l界外射线晶'
+    lore:
+    - '&d&l吸收宇宙外辐射形成的透明晶体'
+    - '&5&l可穿透维度屏障无视常规阻挡'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGY3NDY3YzVmNzM4YzY0MTI0NmMwOWY4Y2U3OTFlMzM5YTg2ZTgxZGU2MjA0OWI0MWY0OTI4ODgxNzJmYTcyNiJ9fX0=
+    amount: 1
+  recipe_type: BD_TYPE
+
+RSC_YUNQI_纯白洞焰:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&c&l纯白洞焰'
+    lore:
+    - '&6&l白洞外溢的本源火焰'
+    - '&c&l不毁灭只重塑万物秩序'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzU1N2M0YzYyYzYyYWEwZmU0NTg5ZTZiNDFjMDA0NzgzMmY1MDA4MzgyY2YyODIzZGQ5MGQzZTZiZmM5NDJhZiJ9fX0=
+    amount: 1
+  recipe_type: BD_TYPE
+
+RSC_YUNQI_界膜虚空素:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&7&l界膜虚空素'
+    lore:
+    - '&8&l构成维度边界的基础物质'
+    - '&7&l由白洞持续向外喷吐生成'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWQ0ODc1MGJiNWFkYTI5ZGZmNjgyMGRiNjkzM2RjNjJhMGJmNmJkZTcyNzM0MWViN2RkMTg0NTNhMTBkNjQ5MyJ9fX0=
+    amount: 1
+  recipe_type: BD_TYPE
+
+RSC_YUNQI_维度合金:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&9&l维度合金'
+    lore:
+    - '&b&l跨越次元壁垒铸就的终极金属'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQwMjYxYTRlZTNmNGVhZWQ4YWRiMWZiYjBjMzUzY2RmMzdmZTEyMWM5YTg1ZjBmZDAxNjkwNmFhODRhMDZkNyJ9fX0=
+    amount: 1
+  recipe_type: KWZXL_TYPE
+
+RSC_YUNQI_记忆封存石:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&b&l记忆封存石'
+    lore:
+    - '&7如果分开是最后的结果'
+    - '&7那么相遇的意义又是为了什么？'
+    - ''
+    - '&7---------------------恋雪纪'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM1NzdkYWM0M2Y0YmQ4YmY0MGJlODczNDJlMmYxNTc2YmViYmRiZjg2ZDdjYmYzYzZiZTY1ZDQ5MjcwOTVjNSJ9fX0=
+    amount: 1
+  recipe_type: COMPRESSOR
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_PLAY_2
+      amount: 64
+
+RSC_YUNQI_多维人工智能芯片:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&4&l多维人工智能芯片'
+    lore:
+    - '&7多维智能生命核心，可用于制作AI智能'
+    material_type: saveditem
+    material: 附魔原版物品/RGZNXP
+    amount: 1
+  recipe_type: KWZXL_TYPE
+
+RSC_YUNQI_超空间智能:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&#ffc0cb&lC&#dfb9d2&lu&#bfb1d8&lm&#9faadf&lu&#80a2e5&ll&#609bec&lu&#4093f2&ls&#208cf9&l_&#0084ff&lF'
+    lore:
+    - '&7你能制作出最顶尖的人工智能核心'
+    - '&7他将陪伴你到征服宇宙'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY4ZTczNjhmMDdmNWMxYjNkMWZiMDNjNzBhOThkNzMwYzkzZjY3OWIzODZiZDFiMTM4OGY1MmExZGE4ZTBjZCJ9fX0=
+    amount: 1
+  recipe_type: KWZXL_TYPE
+
+RSC_YUNQI_星界舰艇框架:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&3&l星界舰艇框架'
+    lore:
+    - '&7星界舰艇的框架，能抵抗黑洞引力'
+    material_type: saveditem
+    material: 附魔原版物品/XJJTKJ
+    amount: 1
+  recipe_type: KWZXL_TYPE
+
+RSC_YUNQI_虫洞稳定发生器:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&e&l虫洞稳定发生器'
+    lore:
+    - '&7稳定空间，维持虫洞'
+    material_type: mc
+    material: TARGET
+    amount: 1
+  recipe_type: KWZXL_TYPE
+
+RSC_YUNQI_力场护盾:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&b&l力场护盾'
+    lore:
+    - '&7力场护盾，保护舰艇'
+    material_type: saveditem
+    material: 附魔原版物品/LCHD
+    amount: 1
+  recipe_type: KWZXL_TYPE
+
+RSC_YUNQI_星图:
+  lateInit: false
+  item_group: yunqixjzl
+  item:
+    name: '&f&l星图'
+    lore:
+    - '&7让你在宇宙中不迷路'
+    material_type: saveditem
+    material: 附魔原版物品/XT
+    amount: 1
+  recipe_type: KWZXL_TYPE
+
+RSC_YUNQI_自然选择号:
+  lateInit: false
+  item_group: yunqimxyz
+  item:
+    name: '&#9acd32&l自&#8cb34d&l然&#7e9969&l选&#6f7e84&l择&#61649f&l号'
+    lore:
+    - '&#ff0000&l文&#ec060b&l明&#d80c17&l超&#c51222&l级&#b1182e&l飞&#9e1e39&l船&#8a2445&l，&#772a50&l顶&#63305b&l尖&#503667&l技&#3c3c72&l术&#29427e&l水&#154889&l平'
+    material_type: saveditem
+    material: 附魔原版物品/ZRXZH
+    amount: 1
+  recipe_type: KWZXL_TYPE
+
+RSC_YUNQI_创造神源:
+  lateInit: false
+  item_group: yunqimxyz
+  item:
+    name: '&#ff4500&l创&#aa3e38&l造&#55366f&l神&#002fa7&l源'
+    lore:
+    - '&#ff4500九&#e34313维&#c64025空&#aa3e38间&#8e3b4a中&#71395d的&#55366f神&#393482力&#1c3194结&#002fa7晶'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2JkNmI2NDg4NTExZWFiZWRlMDg4YWQ3NjE0MWQzZGJkYmU1YTVjYTdmYWFmN2U4ODFkNTMxYzQ1MjUxNWRmYyJ9fX0=
+    amount: 1
+  recipe_type: KJLXMNS_TYPE
+
+RSC_YUNQI_终末骸骨:
+  lateInit: false
+  item_group: yunqimxyz
+  item:
+    name: '&#ffffff&l终&#faecec&l末&#f6d8d8&l骸&#f1c5c5&l骨'
+    lore:
+    - '&#ffffff最&#fdf7f7后&#fbeeee文&#f9e6e6明&#f7dede残&#f5d6d6存&#f3cdcd之&#f1c5c5骨'
+    material_type: saveditem
+    material: 附魔原版物品/ZMHG
+    amount: 1
+  recipe_type: KJLXMNS_TYPE
+
+RSC_YUNQI_维度之眼:
+  lateInit: false
+  item_group: yunqimxyz
+  item:
+    name: '&#f939f2&l维&#ca58f6&l度&#9a78fb&l之&#6b97ff&l眼'
+    lore:
+    - '&#f939f2观&#ed41f3察&#e149f4者&#d651f5.&#ca58f6.&#be60f7.&#b268f9一&#a670fa直&#9a78fb都&#8f80fc在&#8387fd注&#778ffe释&#6b97ff你'
+    material_type: saveditem
+    material: 附魔原版物品/WDZY
+    amount: 1
+  recipe_type: KJLXMNS_TYPE
+
+RSC_YUNQI_究极结晶:
+  lateInit: false
+  item_group: yunqimxyz
+  item:
+    name: '&#ff73b3&l究&#f36b9b&l极&#e76283&l结&#db5a6b&l晶'
+    lore:
+    - '&#ff73b3阶&#fb70aa梯&#f66da1之&#f26a98上&#ed678f，&#e96386究&#e4607d极&#e05d74升&#db5a6b华'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQwZDQ4YmE1OWIwMzVlMWYxMDJiZWE5ZjM0MjFmZWZhNWI2YmFiOWVmNmY1ZjNlMmNjNzhiNTE4Yjk0YTI1ZCJ9fX0=
+    amount: 1
+  recipe_type: KWZXL_TYPE
+
+RSC_YUNQI_湮:
+  lateInit: false
+  item_group: yunqimxyz
+  item:
+    name: '&#ba75ff&l湮'
+    lore:
+    - '&#ba75ff起&#c26ff4点&#cb69e8，&#d362dd终&#db5cd1点'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjFhOGU2ZDI3Yjk2YzBhYTRkZjViODM0NzI2MGViMDUxYzU2OTQ0Yzk3ZDgzN2YyMjY1NWQ4ZWNiYzQ0OTEzNyJ9fX0=
+    amount: 1
+  recipe_type: KJLXMNS_TYPE
+
+RSC_YUNQI_云启之魂:
+  lateInit: false
+  item_group: yunqimxyz
+  item:
+    name: '&#75efff&l云&#81bdff&l启&#8e8afe&l之&#9a58fe&l魂'
+    lore:
+    - '&#75efff魂&#7ec9ff归&#88a4ff来&#917efe兮&#9a58fe!'
+    - '&#75efff文&#7ec9ff明&#88a4ff永&#917efe存&#9a58fe!'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ZmMzBlZjQ4MTRjMDI1MDcyMWY4NWU5MzRiYmE1ZjdhNTYxMWFhMDE2YzBiN2UzYWE2M2ZlZTY2OGI4NzdmMCJ9fX0=
+    amount: 1
+  recipe_type: KJLXMNS_TYPE
+
+RSC_YUNQI_第一束光点:
+  lateInit: false
+  item_group: yunqimxyz
+  item:
+    name: '&#e1ff00&l光'
+    lore:
+    - '&#e1ff00宇&#e5fa0d宙&#e9f419中&#edef26的&#f2ea32第&#f6e53f一&#fadf4b束&#feda58光'
+    material_type: saveditem
+    material: 附魔原版物品/GUANG
+    amount: 1
+  recipe_type: KJLXMNS_TYPE
+
+RSC_YUNQI_七情六欲:
+  lateInit: false
+  item_group: yunqimxyz
+  item:
+    name: '&#9D4DF5&l七&#D977F5&l情&#77D9F5&l六&#4D9DF5&l欲'
+    lore:
+    - '&7神亦有七情六欲'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzE5ZWMwOTQyNTg4NDI3MjVlNDFmOTg1MzQ2YTdmODI0YWY2ZmM2Y2YxM2ZiZTk0OWM5YzQ2NWEzMGJjOTkifX19
+    amount: 1
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_七情
+      amount: 64
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_六欲
+      amount: 64
+
+RSC_YUNQI_七情:
+  lateInit: false
+  item_group: yunqimxyz
+  item:
+    name: '&#9D4DF5&l七&#D977F5&l情'
+    lore:
+    - '&7七情结晶'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2E3MTU3YjE2ZDIzNDU2OWNiZjQwNWFkNDhjMWMzZmFmZWI2NTUyMGYxOTFkZGM1NGM4NGM2OTJjNjMwOWU3YyJ9fX0=
+    amount: 1
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_七情六欲_喜
+      amount: 64
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_七情六欲_怒
+      amount: 64
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_七情六欲_哀
+      amount: 64
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_七情六欲_惧
+      amount: 64
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_七情六欲_欲
+      amount: 64
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_七情六欲_恶
+      amount: 64
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_七情六欲_爱
+      amount: 64
+
+RSC_YUNQI_六欲:
+  lateInit: false
+  item_group: yunqimxyz
+  item:
+    name: '&#9D4DF5&l六&#D977F5&l欲'
+    lore:
+    - '&7六欲结晶'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWE4NjQxOTAxNzUxNWJiZTcyNGVhNmVlN2YzYTU5ZWRjOWZhOGZjOGE2ZDQ2NmRjYmNhOTIwZDJlMzJhM2QzNyJ9fX0=
+    amount: 1
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_七情六欲_见欲
+      amount: 64
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_七情六欲_听欲
+      amount: 64
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_七情六欲_嗅欲
+      amount: 64
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_七情六欲_味欲
+      amount: 64
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_七情六欲_触欲
+      amount: 64
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_七情六欲_想欲
+      amount: 64
+
+RSC_YUNQI_文明终焉:
+  lateInit: false
+  item_group: yunqizjzy
+  item:
+    name: '&c&l&k &#0047ab&l·&#2d5cbc&l文&#5a71cd&l明&#8686dd&l终&#b39bee&l焉&#e0b0ff&l· &c&l&k'
+    lore:
+    - '&7经过不断的努力，你已经触摸到世界的真理'
+    - '&7这个过程何其漫长'
+    - '&7但当你回首过往，你会发现一切都是值得的'
+    - '&7你已经站在了文明的巅峰'
+    - '&7此心依旧，故人不在'
+    - '&7愿你归来，终是少年'
+    - '&7再会，我的朋友'
+    - '&e&l-------------完结撒花-------------&7'
+    material_type: saveditem
+    material: 附魔原版物品/WMZY
+    amount: 1
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: RSC_YUNQI_七情六欲
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RSC_YUNQI_第一束光点
+      amount: 1
+    3:
+      material_type: slimefun
+      material: RSC_YUNQI_究极结晶
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RSC_YUNQI_湮
+      amount: 1
+    5:
+      material_type: slimefun
+      material: RSC_YUNQI_ZZJS
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RSC_YUNQI_维度之眼
+      amount: 1
+    7:
+      material_type: slimefun
+      material: RSC_YUNQI_终末骸骨
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RSC_YUNQI_创造神源
+      amount: 1
+    9:
+      material_type: slimefun
+      material: RSC_YUNQI_云启之魂
+      amount: 1

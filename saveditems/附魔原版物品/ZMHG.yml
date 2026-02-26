@@ -1,0 +1,15 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: BONE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '&#ffffff&l终&#faecec&l末&#f6d8d8&l骸&#f1c5c5&l骨'
+    lore:
+    - '&#ffffff最&#fdf7f7后&#fbeeee文&#f9e6e6明&#f7dede残&#f5d6d6存&#f3cdcd之&#f1c5c5骨'
+    enchants:
+      PROTECTION: 5
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES

@@ -1,0 +1,143 @@
+RSC_YUNQI_七情六欲_喜:
+  item_group: yunqimxyz
+  entity: OCELOT #豹猫
+  chance: 5
+  item:
+    name: '&c&l喜'
+    lore:
+    - '&7喜形于色，万事皆欢'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGQ4MjU3OTU2ZTM4NzZkYTBhZjk3YTExMTdlZDgxNGI3MjBiNGQwNDVmZDUyYmVkODVmNzQxMTM1MjNlYWNiNyJ9fX0=
+
+RSC_YUNQI_七情六欲_怒:
+  item_group: yunqimxyz
+  entity: CREEPER #苦力怕
+  chance: 5
+  item:
+    name: '&4&l怒'
+    lore:
+    - '&7怒火中烧，燃尽万物'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGZiOTdiMTdjNjM5NTM5MjY1OGYzMjcxOGFhNDZiZWZhMWMzMWQzNTcyNjUxYzMwZjdkMmJmM2I5M2Y2ZWFkOSJ9fX0=
+
+RSC_YUNQI_七情六欲_哀:
+  item_group: yunqimxyz
+  entity: ENDERMAN #末影人
+  chance: 5
+  item:
+    name: '&9&l哀'
+    lore:
+    - '&7泪如雨下，悲从中来'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVhMDc5YzkzMTQxYzhjNmJhZGU2MGIxOTg3ZDQyNDczOWI0NjM2MWRiZjUxM2MwYTQ5MDNkYmE0ZTY3In19fQ==
+
+RSC_YUNQI_七情六欲_惧:
+  item_group: yunqimxyz
+  entity: WITCH #女巫
+  chance: 5
+  item:
+    name: '&8&l惧'
+    lore:
+    - '&7心怀恐惧，不寒而栗'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTYzYjM4NzZhY2M4OThhNmYwZTgxYmZjMmQ2NTlkYzk4ZmNlYzBlYzcxYjk5NmVmMjg2NGVhNDk0ZjhiNjQ0ZiJ9fX0=
+
+RSC_YUNQI_七情六欲_爱:
+  item_group: yunqimxyz
+  entity: ZOMBIE #僵尸
+  chance: 5
+  item:
+    name: '&d&l爱'
+    lore:
+    - '&7情深似海，爱意绵绵'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDI3MzdlOTllNGMwNTk2YTM3MTJlNzcxMWJhZWNhZThkMWRkYjc3NGFjMWNmNTMxODk2ODYyMzgwNzUzZTE2In19fQ==
+
+RSC_YUNQI_七情六欲_恶:
+  item_group: yunqimxyz
+  entity: SKELETON #骷髅
+  chance: 5
+  item:
+    name: '&2&l恶'
+    lore:
+    - '&7心生厌恶，弃如敝履'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzVhNDZmODMzNGU0OWQyNzMzODRlYjcyYjJhYzE1ZTI0YTY0MGQ3NjQ4ZTRiMjhjMzQ4ZWZjZTkzZGM5N2FiIn19fQ==
+
+RSC_YUNQI_七情六欲_欲:
+  item_group: yunqimxyz
+  entity: GUARDIAN #守卫者
+  chance: 5
+  item:
+    name: '&6&l欲'
+    lore:
+    - '&7欲望无度，追求不息'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjg2OWJkZDlhOGY3N2VlZmY3NWQ4ZjY3ZWQwMzIyYmQ5YzE2ZGQ0OTQ5NzIzMTRlZDcwN2RkMTBhMzEzOWE1OCJ9fX0=
+
+RSC_YUNQI_七情六欲_见欲:
+  item_group: yunqimxyz
+  entity: WOLF #狼
+  chance: 5
+  item:
+    name: '&e&l眼'
+    lore:
+    - '&7眼观六路，欲览万物'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjcyMGRmOTExYzA1MjM3NzA2NTQwOGRiNzhhMjVjNjc4Zjc5MWViOTQ0YzA2MzkzNWFlODZkYmU1MWM3MWIifX19
+
+RSC_YUNQI_七情六欲_听欲:
+  item_group: yunqimxyz
+  entity: PARROT #鹦鹉
+  chance: 5
+  item:
+    name: '&b&l耳'
+    lore:
+    - '&7耳听八方，欲闻天籁'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjA3ZWVmOTFhNDUzYTUxNTE0ODdjOWQ2YjlkNGM0MzRkYjdmOGEwMmE0Y2FmMThlZjZmMzM1ODY3N2Y2In19fQ==
+
+RSC_YUNQI_七情六欲_嗅欲:
+  item_group: yunqimxyz
+  entity: BAT #蝙蝠
+  chance: 5
+  item:
+    name: '&a&l鼻'
+    lore:
+    - '&7鼻嗅芳香，欲知百味'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzcxYTY2MTY0ODk2ZGNkOGIxN2JmZTliYmY1ZTFlOGM0M2FmYmJkN2M3ZTQyYjc1MTQ4M2M5YzQ2OGU1MiJ9fX0=
+
+RSC_YUNQI_七情六欲_味欲:
+  item_group: yunqimxyz
+  entity: COW #牛
+  chance: 5
+  item:
+    name: '&3&l舌'
+    lore:
+    - '&7舌尝甘苦，欲享珍馐'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTc4NWFiZWE1MTM1MDgzODkzZjFhMmYxYmZhZjlmNDk3MjU1M2Y5YWYyNGQ2YmQ4MWRhNjhhOTEwNzM2In19fQ==
+
+RSC_YUNQI_七情六欲_触欲:
+  item_group: yunqimxyz
+  entity: SHEEP #羊
+  chance: 5
+  item:
+    name: '&5&l身'
+    lore:
+    - '&7身感万物，欲触天下'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGIwNDQ3NDY0OWY5MDdhY2Y2YmEwNGY4Y2VhNjViMjZhOTEwY2UyNGJhYjJjNmEzZmE2NzU5ZWFjZmZhZiJ9fX0=
+
+RSC_YUNQI_七情六欲_想欲:
+  item_group: yunqimxyz
+  entity: IRON_GOLEM #铁傀儡
+  chance: 5
+  item:
+    name: '&f&l意'
+    lore:
+    - '&7意动神驰，欲通天地'
+    material_type: skull_hash
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjFkNGJlYTM2NmFjYTU4ZGQ1YjIyZTk0MGJjZGQ0YmE0NWJmODg0MjFmNmQ4MzExNThiODc5ZjJjOGFiY2UxOCJ9fX0=
+

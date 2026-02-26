@@ -1,0 +1,15 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHERRY_BOAT
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '&#9acd32&l自&#8cb34d&l然&#7e9969&l选&#6f7e84&l择&#61649f&l号'
+    lore:
+    - '&#ff0000&l文&#ec060b&l明&#d80c17&l超&#c51222&l级&#b1182e&l飞&#9e1e39&l船&#8a2445&l，&#772a50&l顶&#63305b&l尖&#503667&l技&#3c3c72&l术&#29427e&l水&#154889&l平'
+    enchants:
+      PROTECTION: 5
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES

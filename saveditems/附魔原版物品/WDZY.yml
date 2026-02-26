@@ -1,0 +1,15 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: ENDER_EYE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '&#f939f2&l维&#ca58f6&l度&#9a78fb&l之&#6b97ff&l眼'
+    lore:
+    - '&#f939f2观&#ed41f3察&#e149f4者&#d651f5.&#ca58f6.&#be60f7.&#b268f9一&#a670fa直&#9a78fb都&#8f80fc在&#8387fd注&#778ffe释&#6b97ff你'
+    enchants:
+      PROTECTION: 5
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES

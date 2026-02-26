@@ -1,0 +1,22 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: COMMAND_BLOCK
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '&c&l&k &#0047ab&l·&#2d5cbc&l文&#5a71cd&l明&#8686dd&l终&#b39bee&l焉&#e0b0ff&l· &c&l&k'
+    lore:
+    - '&7经过不断的努力，你已经触摸到世界的真理'
+    - '&7这个过程何其漫长'
+    - '&7但当你回首过往，你会发现一切都是值得的'
+    - '&7你已经站在了文明的巅峰'
+    - '&7此心依旧，故人不在'
+    - '&7愿你归来，终是少年'
+    - '&7再会，我的朋友'
+    - '&7-------------完结撒花-------------&7'
+    enchants:
+      PROTECTION: 5
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES

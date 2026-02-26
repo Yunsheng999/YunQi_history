@@ -99,3 +99,24 @@ YZQD_TYPE:
   - '&b&l成功逃离奇点坍缩范围获得一个宇宙奇点'
   material_type: mc
   material: PAPER
+
+BD_TYPE:
+  name: '&6&l白洞'
+  lore:
+  - '&7此物品需要在 &6&l白洞 &7中获取'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWY2ZDhmMjBjNzE0OWM4NTgyOTMzODNkOWMxMTlmM2Y1NGFlOGJiODg0NjlhMTg3ZDQxMjQ2NjI1Y2UyY2RjOCJ9fX0=
+
+KWZXL_TYPE:
+  name: '&6&l昆吾铸星炉'
+  lore:
+  - '&7此物品需要在 &6&l昆吾铸星炉 &7中制作'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGE4NTE2N2I3NTQzYjNkNjdjYWFiYTM3NmY2OGNhMjEzMjllMTM2ZDBmNGI5YmU0OTVkYWJlNTVkYTMyYzYwOCJ9fX0=
+
+KJLXMNS_TYPE:
+  name: '&6&l空间旅行模拟室'
+  lore:
+  - '&7此物品需要在 &6&l空间旅行模拟室 &7中获取'
+  material_type: skull_hash
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWY0MGM1NzY5MmU5NGU0ZjNmNmUyNmNlZGQ0MTI2NmM0NTU3N2ViYmIzODM2ZTcxMjJiNWVkYWZkZTYwIn19fQ==

@@ -1,0 +1,15 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NAME_TAG
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '&4&l人工智能芯片'
+    lore:
+    - '&7高维智能生命核心，可用于制作AI智能'
+    enchants:
+      PROTECTION: 5
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES

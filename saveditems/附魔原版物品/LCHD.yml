@@ -1,0 +1,15 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: GLOW_LICHEN
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '&b&l力场护盾'
+    lore:
+    - '&7稳定空间，维持虫洞'
+    enchants:
+      PROTECTION: 5
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES

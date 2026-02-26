@@ -1,0 +1,15 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: LANTERN
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '&#e1ff00&l光'
+    lore:
+    - '&#e1ff00宇&#e5fa0d宙&#e9f419中&#edef26的&#f2ea32第&#f6e53f一&#fadf4b束&#feda58光'
+    enchants:
+      PROTECTION: 5
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES

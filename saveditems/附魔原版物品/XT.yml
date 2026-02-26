@@ -1,0 +1,15 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: FILLED_MAP
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '&f&l星图'
+    lore:
+    - '&7让你在宇宙中不迷路'
+    enchants:
+      PROTECTION: 5
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES
