@@ -50,6 +50,29 @@ RSC_YUNQI_九彩矿锭一体机:
       material: gray_stained_glass_pane
       name: '&a' 
       
+RSC_YUNQI_九彩矿粉一体机:
+  title: '&c&l九&6&l彩&e&l矿&a&l粉&b&l一&9&l体&d&l机'
+  slots: 
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
 RSC_YUNQI_NGYTJ_1:
   title: '&b&l镍&9&l钴&e一体机 &a&lI'
   slots:
@@ -1126,63 +1149,56 @@ RSC_YUNQI_空间旅行模拟室:
       material: gray_stained_glass_pane
       name: '&4&l左侧为输入槽，右侧为输出槽'
 
-RSC_YUNQI_货币兑换机_方块1:
-  title: '&e&l云启文明货币兑换机_方块1'
+RSC_YUNQI_货币兑换机:
+  title: '&b&l货币兑换机'
   slots:
-    1:
-      material: grass_block
-      name: '&4&l左侧放入货币，右侧为输出物品，此方块为交易物品'
-    4:
-      material: gray_stained_glass_pane
-      name: '&4&l分隔版'
-    7:
-      material: podzol
-      name: '&4&l右侧放入货币，左侧为输出物品，此方块为交易物品'
-    10:
-      material: mycelium
-      name: '&4&l左侧放入货币，右侧为输出物品，此方块为交易物品'
-    13:
-      material: gray_stained_glass_pane
-      name: '&4&l分隔版'
-    16:
-      material: coarse_dirt
-      name: '&4&l右侧放入货币，左侧为输出物品，此方块为交易物品'
-    19:
-      material: clay
-      name: '&4&l左侧放入货币，右侧为输出物品，此方块为交易物品'
-    22:
-      material: gray_stained_glass_pane
-      name: '&4&l分隔版'
-    25:
-      material: ice
-      name: '&4&l右侧放入货币，左侧为输出物品，此方块为交易物品'
+    27:
+      material: black_stained_glass_pane
+      name: '&a'
     28:
-      material: crying_obsidian
-      name: '&4&l左侧放入货币，右侧为输出物品，此方块为交易物品'
+      material: black_stained_glass_pane
+      name: '&a'
+    29:
+      material: black_stained_glass_pane
+      name: '&a'
+    30:
+      material: red_stained_glass_pane
+      name: '&4没有匹配的物品，请放入文明币'
     31:
-      material: gray_stained_glass_pane
-      name: '&4&l分隔版'
+      material: red_stained_glass_pane
+      name: '&4没有匹配的物品，请放入文明币'
+    32:
+      material: red_stained_glass_pane
+      name: '&4没有匹配的物品，请放入文明币'
+    33:
+      material: black_stained_glass_pane
+      name: '&a'
     34:
-      material: blackstone
-      name: '&4&l右侧放入货币，左侧为输出物品，此方块为交易物品'
-    37:
-      material: shroomlight
-      name: '&4&l左侧放入货币，右侧为输出物品，此方块为交易物品'
+      material: black_stained_glass_pane
+      name: '&a'
+    35:
+      material: black_stained_glass_pane
+      name: '&a'
+    39:
+      material: black_stained_glass_pane
+      name: '&a'
     40:
-      material: gray_stained_glass_pane
-      name: '&4&l分隔版'
-    43:
-      material: chorus_flower
-      name: '&4&l右侧放入货币，左侧为输出物品，此方块为交易物品'
-    46:
-      material: honey_block
-      name: '&4&l左侧放入货币，右侧为输出物品，此方块为交易物品'
+      material: green_stained_glass_pane
+      name: '&a点击此处进行交易'
+    41:
+      material: black_stained_glass_pane
+      name: '&a'
+    48:
+      material: black_stained_glass_pane
+      name: '&a'
     49:
-      material: gray_stained_glass_pane
-      name: '&4&l分隔版'
-    52:
-      material: slime_block
-      name: '&4&l右侧放入货币，左侧为输出物品，此方块为交易物品'
+      material: green_stained_glass_pane
+      name: '&a点击此处进行交易'
+    50:
+      material: black_stained_glass_pane
+      name: '&a'
+
+
 
 
 
