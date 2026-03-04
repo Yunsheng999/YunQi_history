@@ -1,0 +1,46 @@
+RSC_YUNQI_附魔金苹果:
+  lateInit: false
+  item_group: yunqiybwp
+  item:
+    name: '&b附魔金苹果(速食)'
+    material_type: mc
+    material: ENCHANTED_GOLDEN_APPLE
+    amount: 1
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: GOLD_BLOCK
+      amount: 1
+    2:
+      material_type: mc
+      material: GOLD_BLOCK
+      amount: 1
+    3:
+      material_type: mc
+      material: GOLD_BLOCK
+      amount: 1
+    4:
+      material_type: mc
+      material: GOLD_BLOCK
+      amount: 1
+    5:
+      material_type: mc
+      material: apple
+      amount: 1
+    6:
+      material_type: mc
+      material: GOLD_BLOCK
+      amount: 1
+    7:
+      material_type: mc
+      material: GOLD_BLOCK
+      amount: 1
+    8:
+      material_type: mc
+      material: GOLD_BLOCK
+      amount: 1
+    9:
+      material_type: mc
+      material: GOLD_BLOCK
+      amount: 1

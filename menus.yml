@@ -73,6 +73,22 @@ RSC_YUNQI_九彩矿粉一体机:
       material: gray_stained_glass_pane
       name: '&a' 
 
+RSC_YUNQI_定向GEO黑域石:
+  title: '&6&l定向GEO · &8&l黑域石'
+  slots: {}
+
+RSC_YUNQI_定向GEO宇宙灰烬:
+  title: '&6&l定向GEO · &8&l宇宙灰烬'
+  slots: {}
+  
+RSC_YUNQI_定向GEO异界砂:
+  title: '&6&l定向GEO · &8&l异界砂'
+  slots: {}
+  
+RSC_YUNQI_定向GEO寂零石:
+  title: '&6&l定向GEO · &8&l寂零石'
+  slots: {}
+  
 RSC_YUNQI_NGYTJ_1:
   title: '&b&l镍&9&l钴&e一体机 &a&lI'
   slots:
@@ -617,6 +633,41 @@ RSC_YUNQI_ZJYTJ:
     36-44:
       material: gray_stained_glass_pane
       name: '&a'
+
+RSC_YUNQI_奇点模拟室:
+  title: '&b&l奇点模拟室'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-11:
+      material: orange_stained_glass_pane
+      name: '&a'
+    12:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: orange_stained_glass_pane
+      name: '&a'
+    20:
+      material: orange_stained_glass_pane
+      name: '&a'
+    21:
+      material: gray_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    27-29:
+      material: orange_stained_glass_pane
+      name: '&a'
+    30:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
 RSC_YUNQI_QTRLRSS:
   title: '&b&l气&f&l态&b&l燃&f&l料&b&l燃&f&l烧&b&l室'
   slots:
