@@ -689,7 +689,6 @@ RSC_YUNQI_衰败物质: #衰败物质
     material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjljNTI0Y2Y1NTM1NzIzOWY3YmVkZDFhMzI0NDVmZDViYzQ0YTU2MzgwYzYzMTkyZjI5NDk1YzIyMWMyODc0YiJ9fX0=
     amount: 1
   placeable: false
-  radiation: VERY_DEADLY #辐射等级，超级无敌高
   recipe_type: SMELTERY
   recipe:
     1:
@@ -3015,21 +3014,6 @@ RSC_YUNQI_逆时空之铲:
       material_type: slimefun
       material: RSC_YUNQI_星核壁垒合金
       amount: 1
-
-RSC_YUNQI_光粒打击坐标:
-  lateInit: false
-  item_group: yunqixwj
-  item:
-    name: '&e&l光粒打击坐标&c&l(一次性)'
-    lore:
-    - '&e&l仿制光粒打击'
-    - '&e&l右键 召唤创世神对坐标丢出光粒（伤害0-5000）'
-    - '&c&l一次性物品'
-    material_type: saveditem
-    material: 小玩具/GLDJZB
-    amount: 1
-  recipe_type: "NULL"
-  script: 光粒打击坐标
 
 RSC_YUNQI_黑洞:
   lateInit: false
