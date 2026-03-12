@@ -2,7 +2,7 @@ id: RSC_YunQi_History
 name: YunQi_History
 depends: []
 pluginDepends: []
-version: "1.2.1"
+version: "1.2.2"
 description: "作者YS_0204独立开发的系统性附属"
 authors: 
 - YS_0204
@@ -10,12 +10,12 @@ repo: 'Yunsheng999/YunQi_history'
 loadStartTexts:
 - "================================"
 - "YunQi_History开始加载"
-- "版本: Release 1.2.1"
+- "版本: Release 1.2.2"
 - "火速为您加载中，请耐心等待......"                                                                                                            
 - "================================"
 enabledTexts:
 - "================================"
 - "YunQi_History加载成功，欢迎您的游玩"
 - "作者QQ：2862771782"
-- "目前版本为正式发布版 1.2.1"
+- "目前版本为正式发布版 1.2.2"
 - "================================"

@@ -600,6 +600,98 @@ RSC_YUNQI_DQZYTQJ:
       material: gray_stained_glass_pane
       name: '&a恭喜你发现了小彩蛋->稀有气体集合体只有10%的概率能出'
 
+RSC_YUNQI_下界合金镐生产仪:
+  title: '&7&l下界合金镐生产仪'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_下界合金斧生产仪:
+  title: '&7&l下界合金斧生产仪'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_下界合金铲生产仪:
+  title: '&7&l下界合金铲生产仪'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a' 
+
+RSC_YUNQI_下界合金锄生产仪:
+  title: '&7&l下界合金锄生产仪'
+  slots:
+    0:
+      material: oak_sign
+      name: '&a'
+      lore: '&c右侧为输出槽'
+    9:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:  
+      material: gray_stained_glass_pane
+      name: '&a'       
+
 RSC_YUNQI_ZJYTJ: 
   title: '&6&l足金一体机'
   slots:   
