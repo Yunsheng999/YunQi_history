@@ -6,7 +6,7 @@ version: "1.2.3"
 description: "作者YS_0204独立开发的系统性附属"
 authors: 
 - YS_0204
-#repo: 'Yunsheng999/YunQi_history'
+repo: 'Yunsheng999/YunQi_history'
 loadStartTexts:
 - "================================"
 - "YunQi_History开始加载"
