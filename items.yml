@@ -305,6 +305,19 @@ RSC_YUNQI_公告4:
   placeable: false
   recipe_type: 'NULL'
 
+RSC_YUNQI_公告5:
+  lateInit: false
+  item_group: yunqigg
+  item:
+    name: '&e&l3.22更新内容'
+    lore:
+    - '&d&l修复了法杖施法玩家更改世界后特效崩服bug'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  
 RSC_YUNQI_MX_INFO:
   lateInit: false
   item_group: yunqimx

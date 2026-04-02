@@ -7,6 +7,8 @@ var instance = Bukkit.getPluginManager().getPlugin("RykenSlimefunCustomizer");
 
 function onUse(event) {
     var player = event.getPlayer();
+    var skillWorld = player.getWorld();
+    var skillWorldName = skillWorld.getName();
     
     var clickedBlock = event.getClickedBlock();
     if (clickedBlock == null || !clickedBlock.isPresent()) return;
@@ -37,6 +39,11 @@ function onUse(event) {
 
     var particleTask = Bukkit.getScheduler().runTaskTimer(instance, new MyRunnable({
         run: function() {
+            if (!player.getWorld().getName().equals(skillWorldName)) {
+                particleTask.cancel();
+                player.sendMessage("§c§l[宇宙奇点] §c你已离开释放世界，技能取消！");
+                return;
+            }
             for (var i = 0; i < 800; i++) {
                 var phi = Math.acos(1 - 2 * Math.random()), theta = 6.283 * Math.random();
                 var loc = center.clone().add(
@@ -59,6 +66,11 @@ function onUse(event) {
     Bukkit.getScheduler().runTaskLater(instance, new MyRunnable({
         run: function() {
             particleTask.cancel();
+            
+            if (!player.getWorld().getName().equals(skillWorldName)) {
+                player.sendMessage("§c§l[宇宙奇点] §c你已离开释放世界，技能取消！");
+                return;
+            }
             
             var success = player.getLocation().distanceSquared(center) > rSq;
             player.sendMessage(success ? "§a§l[宇宙奇点] §b你成功逃离了区域！" : "§c§l[宇宙奇点] §4你未能逃离...");

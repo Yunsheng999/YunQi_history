@@ -7,6 +7,7 @@ var cooldowns = {};
 
 function onUse(event) {
     var p = event.getPlayer(), w = p.getWorld(), loc = p.getEyeLocation(), dir = loc.getDirection(), uuid = p.getUniqueId().toString();
+    var skillWorldName = w.getName();
     
     var nowTime = new Date().getTime();
     if (cooldowns[uuid] && nowTime < cooldowns[uuid]) {
@@ -16,7 +17,7 @@ function onUse(event) {
 
     if (p.isSneaking()) {
         cooldowns[uuid] = nowTime + 15000;
-        return triggerRay(p, w, loc, dir);
+        return triggerRay(p, w, loc, dir, skillWorldName);
     }
 
     var now = new Date().getTime(), state = playerStates.getOrDefault(uuid, { last: 0, task: null });
@@ -24,20 +25,24 @@ function onUse(event) {
         if (state.task) state.task.cancel();
         playerStates.put(uuid, { last: 0, task: null });
         cooldowns[uuid] = nowTime + 15000;
-        return triggerBall(p, w, loc, dir);
+        return triggerBall(p, w, loc, dir, skillWorldName);
     }
     
     var task = Bukkit.getScheduler().runTaskLater(instance, new MyRunnable({
         run: function() { 
             cooldowns[uuid] = new Date().getTime() + 15000;
-            triggerHole(p, w, loc, dir); 
+            triggerHole(p, w, loc, dir, skillWorldName); 
             playerStates.put(uuid, { last: now, task: null }); 
         }
     }), 7);
     playerStates.put(uuid, { last: now, task: task });
 }
 
-function triggerRay(p, w, loc, dir) {
+function triggerRay(p, w, loc, dir, skillWorldName) {
+    if (!p.getWorld().getName().equals(skillWorldName)) {
+        p.sendMessage("§c§l[创世永恒神杖] §c你已离开释放世界，技能取消！");
+        return;
+    }
     w.playSound(p.getLocation(), "entity.warden.attack_impact", 2, 0.5);
     for (var i = 1; i <= 30; i++) {
         var rLoc = loc.clone().add(dir.clone().multiply(i));
@@ -48,11 +53,16 @@ function triggerRay(p, w, loc, dir) {
     }
 }
 
-function triggerHole(p, w, loc, dir) {
+function triggerHole(p, w, loc, dir, skillWorldName) {
     var b = p.getTargetBlock(null, 10), hLoc = b ? b.getLocation().add(0, 1, 0) : p.getLocation().add(dir.multiply(5)), t = 0, task;
     w.playSound(hLoc, "entity.warden.heartbeat", 2, 0.5);
     task = Bukkit.getScheduler().runTaskTimer(instance, new MyRunnable({
         run: function() {
+            if (!p.getWorld().getName().equals(skillWorldName)) {
+                task.cancel();
+                p.sendMessage("§c§l[创世永恒神杖] §c你已离开释放世界，技能取消！");
+                return;
+            }
             if (t++ >= 100) {
                 w.spawnParticle(Particle.EXPLOSION_EMITTER, hLoc, 10, 2, 2, 2, 1);
                 w.playSound(hLoc, "entity.generic.explode", 5, 0.5);
@@ -69,11 +79,16 @@ function triggerHole(p, w, loc, dir) {
     }), 0, 1);
 }
 
-function triggerBall(p, w, loc, dir) {
+function triggerBall(p, w, loc, dir, skillWorldName) {
     w.playSound(p.getLocation(), "entity.illusioner.prepare_mirror", 2, 1);
     var bLoc = loc.clone(), bt = 0, bTask;
     bTask = Bukkit.getScheduler().runTaskTimer(instance, new MyRunnable({
         run: function() {
+            if (!p.getWorld().getName().equals(skillWorldName)) {
+                bTask.cancel();
+                p.sendMessage("§c§l[创世永恒神杖] §c你已离开释放世界，技能取消！");
+                return;
+            }
             if (bt++ >= 40 || bLoc.getBlock().getType().isSolid()) {
                 w.spawnParticle(Particle.FLASH, bLoc, 5, 0.5, 0.5, 0.5, 0.1);
                 return bTask.cancel();

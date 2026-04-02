@@ -10,6 +10,7 @@ function onUse(event) {
     var player = event.getPlayer();
     var uuid = player.getUniqueId().toString();
     var world = player.getWorld();
+    var skillWorldName = world.getName();
     
     var now = new Date().getTime();
     if (cooldowns[uuid] && now < cooldowns[uuid]) {
@@ -27,6 +28,12 @@ function onUse(event) {
 
     var chantTask = Bukkit.getScheduler().runTaskTimer(instance, new MyRunnable({
         run: function() {
+            if (!player.getWorld().getName().equals(skillWorldName)) {
+                chantTask.cancel();
+                delete chantingPlayers[uuid];
+                player.sendMessage("§c§l[陨灼穹星杖] §c你已离开释放世界，技能取消！");
+                return;
+            }
             if (count >= 100) return;
             if (player.getLocation().distanceSquared(startLoc) > 0.1) player.teleport(startLoc);
             
@@ -47,6 +54,11 @@ function onUse(event) {
             chantTask.cancel();
             delete chantingPlayers[uuid];
             
+            if (!player.getWorld().getName().equals(skillWorldName)) {
+                player.sendMessage("§c§l[陨灼穹星杖] §c你已离开释放世界，技能取消！");
+                return;
+            }
+            
             var targetBlock = player.getTargetBlockExact(15);
             var impactLoc = targetBlock ? targetBlock.getLocation() : player.getLocation().add(player.getLocation().getDirection().multiply(10));
             player.sendTitle("§4§l陨石坠落！", "", 5, 20, 5);
@@ -60,6 +72,12 @@ function onUse(event) {
             var checkTask;
             checkTask = Bukkit.getScheduler().runTaskTimer(instance, new MyRunnable({
                 run: function() {
+                    if (!player.getWorld().getName().equals(skillWorldName)) {
+                        if (checkTask) checkTask.cancel();
+                        fireball.remove();
+                        player.sendMessage("§c§l[陨灼穹星杖] §c你已离开释放世界，技能取消！");
+                        return;
+                    }
                     if (fireball.isDead() || fireball.getLocation().getY() <= impactLoc.getY() + 1) {
                         if (checkTask) checkTask.cancel();
                         fireball.remove();

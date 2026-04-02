@@ -10,6 +10,7 @@ function onUse(event) {
     var player = event.getPlayer(), world = player.getWorld(), startLoc = player.getLocation().add(0, 1, 0), step = 0, task;
     var uuid = player.getUniqueId().toString();
     var now = new Date().getTime();
+    var skillWorldName = world.getName();
 
     if (cooldowns[uuid] && now < cooldowns[uuid]) {
         var remain = Math.ceil((cooldowns[uuid] - now) / 1000);
@@ -22,6 +23,11 @@ function onUse(event) {
 
     task = Bukkit.getScheduler().runTaskTimer(instance, new MyRunnable({
         run: function() {
+            if (!player.getWorld().getName().equals(skillWorldName)) {
+                task.cancel();
+                player.sendMessage("§c§l[寒繁星晶杖] §c你已离开释放世界，技能取消！");
+                return;
+            }
             if (step >= 24) return task && task.cancel();
             var dist = step * 0.6;
             for (var i = 0; i < 16; i++) {
